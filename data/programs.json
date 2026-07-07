@@ -1,0 +1,1890 @@
+[
+  {
+    "id": "tum-msc-informatics",
+    "university": "TU Munich",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Informatics",
+    "degree": "MSc",
+    "city": "Munich",
+    "state": "Bavaria",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "TUM charges its own international tuition for non-EU students. The amount depends on the program — confirm the current fee. A semester fee also applies."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist+portal",
+      "vpd_required": true,
+      "fee_note": "You apply on the university's own portal, but you need a uni-assist VPD (preliminary review) that costs about €75.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Request a uni-assist VPD (preliminary review) for your degree.",
+      "4. Apply on the university's own portal and upload the VPD.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "TUM charges its own international tuition. Check the current amount before applying.",
+      "This is a competitive program. Apply early with strong documents."
+    ],
+    "program_url": "https://www.tum.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tum-msc-data-engineering-analytics",
+    "university": "TU Munich",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Engineering and Analytics",
+    "degree": "MSc",
+    "city": "Munich",
+    "state": "Bavaria",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Data Science",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "TUM charges its own international tuition for non-EU students. The amount depends on the program — confirm the current fee. A semester fee also applies."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist+portal",
+      "vpd_required": true,
+      "fee_note": "You apply on the university's own portal, but you need a uni-assist VPD (preliminary review) that costs about €75.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Request a uni-assist VPD (preliminary review) for your degree.",
+      "4. Apply on the university's own portal and upload the VPD.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "TUM charges its own international tuition. Check the current amount before applying.",
+      "This is a competitive program. Apply early with strong documents."
+    ],
+    "program_url": "https://www.tum.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "rwth-msc-software-systems-engineering",
+    "university": "RWTH Aachen",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Software Systems Engineering",
+    "degree": "MSc",
+    "city": "Aachen",
+    "state": "North Rhine-Westphalia",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist+portal",
+      "vpd_required": true,
+      "fee_note": "You apply on the university's own portal, but you need a uni-assist VPD (preliminary review) that costs about €75.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Request a uni-assist VPD (preliminary review) for your degree.",
+      "4. Apply on the university's own portal and upload the VPD.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "This is a competitive program. Apply early with strong documents."
+    ],
+    "program_url": "https://www.rwth-aachen.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-darmstadt-msc-distributed-software-systems",
+    "university": "TU Darmstadt",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Distributed Software Systems",
+    "degree": "MSc",
+    "city": "Darmstadt",
+    "state": "Hesse",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "SE",
+      "Networks"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.tu-darmstadt.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-darmstadt-msc-computer-science",
+    "university": "TU Darmstadt",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Darmstadt",
+    "state": "Hesse",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.tu-darmstadt.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "uni-stuttgart-msc-infotech",
+    "university": "University of Stuttgart",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Information Technology (INFOTECH)",
+    "degree": "MSc",
+    "city": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Embedded",
+      "Networks"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 1500,
+      "semester_fee_eur": null,
+      "note": "Baden-Württemberg charges non-EU students €1,500 per semester in tuition. A semester fee also applies (usually about €150–200). Confirm the current amounts."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "Baden-Württemberg charges non-EU students €1,500 per semester. Budget for this."
+    ],
+    "program_url": "https://www.uni-stuttgart.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "uni-stuttgart-msc-computer-science",
+    "university": "University of Stuttgart",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Stuttgart",
+    "state": "Baden-Württemberg",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 1500,
+      "semester_fee_eur": null,
+      "note": "Baden-Württemberg charges non-EU students €1,500 per semester in tuition. A semester fee also applies (usually about €150–200). Confirm the current amounts."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "Baden-Württemberg charges non-EU students €1,500 per semester. Budget for this."
+    ],
+    "program_url": "https://www.uni-stuttgart.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "uni-freiburg-msc-computer-science",
+    "university": "University of Freiburg",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Freiburg",
+    "state": "Baden-Württemberg",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 1500,
+      "semester_fee_eur": null,
+      "note": "Baden-Württemberg charges non-EU students €1,500 per semester in tuition. A semester fee also applies (usually about €150–200). Confirm the current amounts."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "Baden-Württemberg charges non-EU students €1,500 per semester. Budget for this."
+    ],
+    "program_url": "https://www.uni-freiburg.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fau-msc-artificial-intelligence",
+    "university": "FAU Erlangen-Nürnberg",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Erlangen",
+    "state": "Bavaria",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Bavaria has passed a law allowing tuition for non-EU students. Some programs may now charge and others do not — confirm the current fee. A semester fee also applies."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "Bavaria may introduce tuition for non-EU students. Confirm the current fee before applying."
+    ],
+    "program_url": "https://www.fau.eu",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fau-msc-data-science",
+    "university": "FAU Erlangen-Nürnberg",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science",
+    "degree": "MSc",
+    "city": "Erlangen",
+    "state": "Bavaria",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Bavaria has passed a law allowing tuition for non-EU students. Some programs may now charge and others do not — confirm the current fee. A semester fee also applies."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "Bavaria may introduce tuition for non-EU students. Confirm the current fee before applying."
+    ],
+    "program_url": "https://www.fau.eu",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "saarland-msc-computer-science",
+    "university": "Saarland University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Saarbrücken",
+    "state": "Saarland",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply directly on the university's online portal.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "This is a competitive program. Apply early with strong documents."
+    ],
+    "program_url": "https://www.uni-saarland.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "saarland-msc-data-science-ai",
+    "university": "Saarland University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science and Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Saarbrücken",
+    "state": "Saarland",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Data Science",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply directly on the university's online portal.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "This is a competitive program. Apply early with strong documents."
+    ],
+    "program_url": "https://www.uni-saarland.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "uni-bonn-msc-computer-science",
+    "university": "University of Bonn",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Bonn",
+    "state": "North Rhine-Westphalia",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.uni-bonn.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "uni-bonn-msc-life-science-informatics",
+    "university": "University of Bonn",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Life Science Informatics",
+    "degree": "MSc",
+    "city": "Bonn",
+    "state": "North Rhine-Westphalia",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS",
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.uni-bonn.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "uni-hamburg-msc-intelligent-adaptive-systems",
+    "university": "University of Hamburg",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Intelligent Adaptive Systems",
+    "degree": "MSc",
+    "city": "Hamburg",
+    "state": "Hamburg",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "AI",
+      "HCI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.uni-hamburg.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "uni-hannover-msc-internet-technologies-information-systems",
+    "university": "Leibniz University Hannover",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Internet Technologies and Information Systems",
+    "degree": "MSc",
+    "city": "Hannover",
+    "state": "Lower Saxony",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Networks",
+      "IT Management"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.uni-hannover.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-berlin-msc-computer-engineering",
+    "university": "TU Berlin",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering",
+    "degree": "MSc",
+    "city": "Berlin",
+    "state": "Berlin",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Embedded",
+      "Networks"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.tu.berlin",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-dresden-msc-distributed-systems-engineering",
+    "university": "TU Dresden",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Distributed Systems Engineering",
+    "degree": "MSc",
+    "city": "Dresden",
+    "state": "Saxony",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "SE",
+      "Networks"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://tu-dresden.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-dresden-msc-computational-modeling-simulation",
+    "university": "TU Dresden",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computational Modeling and Simulation",
+    "degree": "MSc",
+    "city": "Dresden",
+    "state": "Saxony",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://tu-dresden.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "uni-passau-msc-computer-science",
+    "university": "University of Passau",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Passau",
+    "state": "Bavaria",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Bavaria has passed a law allowing tuition for non-EU students. Some programs may now charge and others do not — confirm the current fee. A semester fee also applies."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "Bavaria may introduce tuition for non-EU students. Confirm the current fee before applying."
+    ],
+    "program_url": "https://www.uni-passau.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "paderborn-msc-computer-science",
+    "university": "Paderborn University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Paderborn",
+    "state": "North Rhine-Westphalia",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply directly on the university's online portal.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.uni-paderborn.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "ovgu-magdeburg-msc-data-knowledge-engineering",
+    "university": "OVGU Magdeburg",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data and Knowledge Engineering",
+    "degree": "MSc",
+    "city": "Magdeburg",
+    "state": "Saxony-Anhalt",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.ovgu.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "ovgu-magdeburg-msc-digital-engineering",
+    "university": "OVGU Magdeburg",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Digital Engineering",
+    "degree": "MSc",
+    "city": "Magdeburg",
+    "state": "Saxony-Anhalt",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.ovgu.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-chemnitz-msc-automotive-software-engineering",
+    "university": "TU Chemnitz",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Automotive Software Engineering",
+    "degree": "MSc",
+    "city": "Chemnitz",
+    "state": "Saxony",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "SE",
+      "Embedded"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply directly on the university's online portal.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.tu-chemnitz.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-chemnitz-msc-data-science",
+    "university": "TU Chemnitz",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science",
+    "degree": "MSc",
+    "city": "Chemnitz",
+    "state": "Saxony",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply directly on the university's online portal.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.tu-chemnitz.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-ilmenau-msc-research-computer-systems-engineering",
+    "university": "TU Ilmenau",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Research in Computer & Systems Engineering",
+    "degree": "MSc",
+    "city": "Ilmenau",
+    "state": "Thuringia",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "CS",
+      "Embedded"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.tu-ilmenau.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tu-ilmenau-msc-communications-signal-processing",
+    "university": "TU Ilmenau",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Communications and Signal Processing",
+    "degree": "MSc",
+    "city": "Ilmenau",
+    "state": "Thuringia",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Networks"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.tu-ilmenau.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "thd-meng-mechatronic-cyber-physical-systems",
+    "university": "Deggendorf Institute of Technology (THD)",
+    "university_type": "public_applied_sciences",
+    "program_name": "M.Eng. Mechatronic and Cyber-Physical Systems",
+    "degree": "MEng",
+    "city": "Deggendorf",
+    "state": "Bavaria",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Embedded",
+      "Robotics"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Bavaria has passed a law allowing tuition for non-EU students. Some programs may now charge and others do not — confirm the current fee. A semester fee also applies."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
+    },
+    "application_steps": [
+      "1. Check the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply directly on the university's online portal.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully.",
+      "Bavaria may introduce tuition for non-EU students. Confirm the current fee before applying."
+    ],
+    "program_url": "https://www.th-deg.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "frankfurt-uas-msc-high-integrity-systems",
+    "university": "Frankfurt UAS",
+    "university_type": "public_applied_sciences",
+    "program_name": "M.Sc. High Integrity Systems",
+    "degree": "MSc",
+    "city": "Frankfurt",
+    "state": "Hesse",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Embedded",
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.frankfurt-university.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "h-brs-msc-autonomous-systems",
+    "university": "Hochschule Bonn-Rhein-Sieg",
+    "university_type": "public_applied_sciences",
+    "program_name": "M.Sc. Autonomous Systems",
+    "degree": "MSc",
+    "city": "Sankt Augustin",
+    "state": "North Rhine-Westphalia",
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "field_tags": [
+      "Robotics",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake. Non-EU applicants often have an earlier deadline (sometimes around March) — confirm on the program page. Some programs also offer a summer intake."
+      }
+    ],
+    "application": {
+      "platform": "uni-assist",
+      "vpd_required": false,
+      "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
+      "apply_url": "https://www.uni-assist.de"
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": true,
+      "background_note": "You need a Bachelor's in Computer Science or engineering with strong programming skills."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Get your APS certificate early (Pakistani applicants need it).",
+      "3. Create a uni-assist account and prepare your documents.",
+      "4. Submit your application through uni-assist and pay the fee.",
+      "5. Wait for the university's decision."
+    ],
+    "warnings": [
+      "Pakistani applicants need an APS certificate before the visa — it can take 2-3 months, start early.",
+      "Non-EU applicants often have an earlier deadline than EU applicants. Check carefully."
+    ],
+    "program_url": "https://www.h-brs.de",
+    "last_verified": "2026-07-07",
+    "verified": false
+  }
+]

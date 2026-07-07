@@ -1,0 +1,16 @@
+[
+  { "country": "Germany", "country_code": "DE", "country_slug": "germany", "status": "active" },
+  { "country": "Austria", "country_code": "AT", "country_slug": "austria", "status": "coming_soon" },
+  { "country": "Italy", "country_code": "IT", "country_slug": "italy", "status": "coming_soon" },
+  { "country": "France", "country_code": "FR", "country_slug": "france", "status": "coming_soon" },
+  { "country": "Czechia", "country_code": "CZ", "country_slug": "czechia", "status": "coming_soon" },
+  { "country": "Poland", "country_code": "PL", "country_slug": "poland", "status": "coming_soon" },
+  { "country": "Hungary", "country_code": "HU", "country_slug": "hungary", "status": "coming_soon" },
+  { "country": "Netherlands", "country_code": "NL", "country_slug": "netherlands", "status": "coming_soon" },
+  { "country": "Sweden", "country_code": "SE", "country_slug": "sweden", "status": "coming_soon" },
+  { "country": "Finland", "country_code": "FI", "country_slug": "finland", "status": "coming_soon" },
+  { "country": "Norway", "country_code": "NO", "country_slug": "norway", "status": "coming_soon" },
+  { "country": "Turkey", "country_code": "TR", "country_slug": "turkey", "status": "coming_soon" },
+  { "country": "Malaysia", "country_code": "MY", "country_slug": "malaysia", "status": "coming_soon" },
+  { "country": "China", "country_code": "CN", "country_slug": "china", "status": "coming_soon" }
+]
