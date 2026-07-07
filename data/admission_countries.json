@@ -25,13 +25,23 @@
     "country": "Italy",
     "country_code": "IT",
     "country_slug": "italy",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Public tuition is €1,000–4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero and may also win a DSU regional grant. Pre-enrolment runs through Universitaly, and degree verification (CIMEA / Declaration of Value) takes time — start early.",
+    "catalog": {
+      "label": "Universitaly",
+      "url": "https://www.universitaly.it"
+    }
   },
   {
     "country": "France",
     "country_code": "FR",
     "country_slug": "france",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Non-EU tuition at public universities is about €3,900 per year for a Master's, and many universities waive part or all of it. Pakistani applicants MUST go through Campus France's 'Études en France' procedure — its window closes months before university deadlines, often December–February for autumn intake.",
+    "catalog": {
+      "label": "Campus France",
+      "url": "https://www.campusfrance.org"
+    }
   },
   {
     "country": "Czechia",
@@ -70,42 +80,88 @@
     "country": "Netherlands",
     "country_code": "NL",
     "country_slug": "netherlands",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Public does not mean cheap here: non-EU tuition for CS Master's is usually €15,000–22,000 per year. Apply via Studielink plus each university's own portal; non-EU deadlines often fall January–April.",
+    "catalog": {
+      "label": "Study in NL",
+      "url": "https://www.studyinnl.org"
+    }
   },
   {
     "country": "Sweden",
     "country_code": "SE",
     "country_slug": "sweden",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Non-EU tuition is roughly €12,000–15,000 per year, but there is ONE national portal for every university and one main round: opens around mid-October, closes around mid-January, with a SEK 900 application fee. Swedish Institute and university scholarships can cover costs — see the Scholarships tab.",
+    "catalog": {
+      "label": "universityadmissions.se",
+      "url": "https://www.universityadmissions.se"
+    }
   },
   {
     "country": "Finland",
     "country_code": "FI",
     "country_slug": "finland",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Non-EU tuition is €10,000–18,000 per year, BUT most universities grant big automatic scholarships (50–100% tuition waivers) to strong admitted applicants. One national application service; the main joint window is usually in January.",
+    "catalog": {
+      "label": "Study in Finland",
+      "url": "https://www.studyinfinland.fi"
+    }
   },
   {
     "country": "Norway",
     "country_code": "NO",
     "country_slug": "norway",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Norway ended free tuition for non-EU students in 2023 — expect five-figure yearly tuition that varies a lot by program. Old blogs still say 'free'; they are wrong. Salaried PhD positions remain an exception.",
+    "catalog": {
+      "label": "Study in Norway",
+      "url": "https://www.studyinnorway.no"
+    }
   },
   {
     "country": "Turkey",
     "country_code": "TR",
     "country_slug": "turkey",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Public universities are very cheap for international students, with strong English-taught CS programs. Each university runs its own international application, usually between May and August. Türkiye Bursları (Scholarships tab) is the fully funded route.",
+    "catalog": {
+      "label": "Study in Türkiye",
+      "url": "https://www.studyinturkiye.gov.tr"
+    }
+  },
+  {
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "country_slug": "saudi-arabia",
+    "status": "active",
+    "note": "A different model: admission to graduate programs at KAUST or KFUPM comes WITH full funding — tuition, monthly stipend, and housing. Admission and scholarship are one application.",
+    "catalog": {
+      "label": "Study in Saudi Arabia",
+      "url": "https://studyinsaudi.moe.gov.sa"
+    }
   },
   {
     "country": "Malaysia",
     "country_code": "MY",
     "country_slug": "malaysia",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Public universities charge international Master's students roughly €1,500–3,500 per year in total. Apply directly to each university; there are usually two intakes (around March and around September–October). EMGS processes the student visa after admission.",
+    "catalog": {
+      "label": "Education Malaysia (EMGS)",
+      "url": "https://educationmalaysia.gov.my"
+    }
   },
   {
     "country": "China",
     "country_code": "CN",
     "country_slug": "china",
-    "status": "coming_soon"
+    "status": "active",
+    "note": "Self-funded English-taught CS Master's at public universities typically cost €2,500–5,000 per year. Applications go to each university's international portal, mostly December–May. Most Pakistani students pair admission with the CSC scholarship — see the Scholarships tab.",
+    "catalog": {
+      "label": "CampusChina",
+      "url": "https://www.campuschina.org"
+    }
   }
 ]

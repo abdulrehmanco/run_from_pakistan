@@ -3006,5 +3006,2589 @@
     "program_url": "https://www.uni-obuda.hu",
     "last_verified": "2026-07-07",
     "verified": false
+  },
+  {
+    "id": "it-polimi-msc-computer-science-engineering",
+    "university": "Politecnico di Milano",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Engineering",
+    "degree": "MSc",
+    "city": "Milan",
+    "state": "Lombardy",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants apply early in the year and pre-enrol through Universitaly. Degree verification (CIMEA / Declaration of Value) takes time — start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.polimi.it",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "it-polito-msc-data-science-engineering",
+    "university": "Politecnico di Torino",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science and Engineering",
+    "degree": "MSc",
+    "city": "Turin",
+    "state": "Piedmont",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants apply early in the year and pre-enrol through Universitaly. Degree verification (CIMEA / Declaration of Value) takes time — start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.polito.it",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "it-sapienza-msc-ai-robotics",
+    "university": "Sapienza University of Rome",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence and Robotics",
+    "degree": "MSc",
+    "city": "Rome",
+    "state": "Lazio",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "AI",
+      "Robotics"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants apply early in the year and pre-enrol through Universitaly. Degree verification (CIMEA / Declaration of Value) takes time — start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.uniroma1.it",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "it-bologna-msc-artificial-intelligence",
+    "university": "University of Bologna",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Bologna",
+    "state": "Emilia-Romagna",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants apply early in the year and pre-enrol through Universitaly. Degree verification (CIMEA / Declaration of Value) takes time — start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.unibo.it",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "it-padua-msc-computer-science",
+    "university": "University of Padua",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Padua",
+    "state": "Veneto",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants apply early in the year and pre-enrol through Universitaly. Degree verification (CIMEA / Declaration of Value) takes time — start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.unipd.it",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fr-paris-saclay-msc-artificial-intelligence",
+    "university": "Université Paris-Saclay",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Gif-sur-Yvette",
+    "state": "Île-de-France",
+    "country": "France",
+    "country_code": "FR",
+    "country_slug": "france",
+    "field_tags": [
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU Master's tuition is about €3,900 per year (≈ €1,950 per semester), but many universities waive part or all of it to the reduced rate. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "February"
+        },
+        "note": "Autumn intake. Non-EU applicants from Pakistan must first go through Campus France's 'Études en France' procedure, whose window usually closes December–February — earlier than university deadlines. Start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Campus France 'Études en France', which has its own fee, plus any university fee. Check current amounts.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Start the Campus France 'Études en France' procedure early.",
+      "2. Check you meet the Bachelor background and English rules.",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply through Campus France and the university.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants from Pakistan must use Campus France 'Études en France' first — its window closes earlier than university deadlines.",
+      "Many universities waive part or all of the ~€3,900/year tuition.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.universite-paris-saclay.fr",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fr-paris-saclay-msc-data-science",
+    "university": "Université Paris-Saclay",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Sciences",
+    "degree": "MSc",
+    "city": "Gif-sur-Yvette",
+    "state": "Île-de-France",
+    "country": "France",
+    "country_code": "FR",
+    "country_slug": "france",
+    "field_tags": [
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU Master's tuition is about €3,900 per year (≈ €1,950 per semester), but many universities waive part or all of it to the reduced rate. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "February"
+        },
+        "note": "Autumn intake. Non-EU applicants from Pakistan must first go through Campus France's 'Études en France' procedure, whose window usually closes December–February — earlier than university deadlines. Start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Campus France 'Études en France', which has its own fee, plus any university fee. Check current amounts.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Start the Campus France 'Études en France' procedure early.",
+      "2. Check you meet the Bachelor background and English rules.",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply through Campus France and the university.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants from Pakistan must use Campus France 'Études en France' first — its window closes earlier than university deadlines.",
+      "Many universities waive part or all of the ~€3,900/year tuition.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.universite-paris-saclay.fr",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fr-grenoble-alpes-msc-informatics-mosig",
+    "university": "Université Grenoble Alpes",
+    "university_type": "public_university",
+    "program_name": "M.Sc. in Informatics (MoSIG)",
+    "degree": "MSc",
+    "city": "Grenoble",
+    "state": "Auvergne-Rhône-Alpes",
+    "country": "France",
+    "country_code": "FR",
+    "country_slug": "france",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU Master's tuition is about €3,900 per year (≈ €1,950 per semester), but many universities waive part or all of it to the reduced rate. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "February"
+        },
+        "note": "Autumn intake. Non-EU applicants from Pakistan must first go through Campus France's 'Études en France' procedure, whose window usually closes December–February — earlier than university deadlines. Start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Campus France 'Études en France', which has its own fee, plus any university fee. Check current amounts.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Start the Campus France 'Études en France' procedure early.",
+      "2. Check you meet the Bachelor background and English rules.",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply through Campus France and the university.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants from Pakistan must use Campus France 'Études en France' first — its window closes earlier than university deadlines.",
+      "Many universities waive part or all of the ~€3,900/year tuition.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.univ-grenoble-alpes.fr",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fr-grenoble-alpes-msc-cybersecurity",
+    "university": "Université Grenoble Alpes",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Cybersecurity",
+    "degree": "MSc",
+    "city": "Grenoble",
+    "state": "Auvergne-Rhône-Alpes",
+    "country": "France",
+    "country_code": "FR",
+    "country_slug": "france",
+    "field_tags": [
+      "Cybersecurity"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU Master's tuition is about €3,900 per year (≈ €1,950 per semester), but many universities waive part or all of it to the reduced rate. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "February"
+        },
+        "note": "Autumn intake. Non-EU applicants from Pakistan must first go through Campus France's 'Études en France' procedure, whose window usually closes December–February — earlier than university deadlines. Start early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Campus France 'Études en France', which has its own fee, plus any university fee. Check current amounts.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a close field, with some security or networks background."
+    },
+    "application_steps": [
+      "1. Start the Campus France 'Études en France' procedure early.",
+      "2. Check you meet the Bachelor background and English rules.",
+      "3. Prepare your documents (transcripts, English proof, CV).",
+      "4. Apply through Campus France and the university.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants from Pakistan must use Campus France 'Études en France' first — its window closes earlier than university deadlines.",
+      "Many universities waive part or all of the ~€3,900/year tuition.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.univ-grenoble-alpes.fr",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "nl-tu-delft-msc-computer-science",
+    "university": "TU Delft",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Delft",
+    "state": "South Holland",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "country_slug": "netherlands",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Apply via Studielink and each university's own portal. Non-EU deadlines often fall between January and April."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition is high (usually €15,000–22,000 per year).",
+      "Apply via Studielink plus the university's own portal.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.tudelft.nl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "nl-tu-eindhoven-msc-computer-science-engineering",
+    "university": "TU Eindhoven",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Engineering",
+    "degree": "MSc",
+    "city": "Eindhoven",
+    "state": "North Brabant",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "country_slug": "netherlands",
+    "field_tags": [
+      "CS",
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Apply via Studielink and each university's own portal. Non-EU deadlines often fall between January and April."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition is high (usually €15,000–22,000 per year).",
+      "Apply via Studielink plus the university's own portal.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.tue.nl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "nl-twente-msc-computer-science",
+    "university": "University of Twente",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Enschede",
+    "state": "Overijssel",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "country_slug": "netherlands",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Apply via Studielink and each university's own portal. Non-EU deadlines often fall between January and April."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition is high (usually €15,000–22,000 per year).",
+      "Apply via Studielink plus the university's own portal.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.utwente.nl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "nl-uva-msc-artificial-intelligence",
+    "university": "University of Amsterdam",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Amsterdam",
+    "state": "North Holland",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "country_slug": "netherlands",
+    "field_tags": [
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Apply via Studielink and each university's own portal. Non-EU deadlines often fall between January and April."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition is high (usually €15,000–22,000 per year).",
+      "Apply via Studielink plus the university's own portal.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.uva.nl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "nl-groningen-msc-computing-science",
+    "university": "University of Groningen",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computing Science",
+    "degree": "MSc",
+    "city": "Groningen",
+    "state": "Groningen",
+    "country": "Netherlands",
+    "country_code": "NL",
+    "country_slug": "netherlands",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Apply via Studielink and each university's own portal. Non-EU deadlines often fall between January and April."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition is high (usually €15,000–22,000 per year).",
+      "Apply via Studielink plus the university's own portal.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.rug.nl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "se-kth-msc-computer-science",
+    "university": "KTH Royal Institute of Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Stockholm",
+    "state": "Stockholm",
+    "country": "Sweden",
+    "country_code": "SE",
+    "country_slug": "sweden",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 6750,
+      "semester_fee_eur": null,
+      "note": "About SEK 130,000–155,000 per year (≈ €12,000–15,000, roughly €6,000–7,500 per semester). Varies by university — confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "January"
+        },
+        "note": "One main round for autumn. Applications usually open around mid-October and close around mid-January through universityadmissions.se."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "One national portal (universityadmissions.se). There is a SEK 900 application fee (about €80).",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Prepare your documents (transcripts, English proof, CV).",
+      "2. Apply through universityadmissions.se in the autumn round.",
+      "3. Pay the SEK 900 application fee.",
+      "4. Submit before mid-January and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition applies (about €12,000–15,000 per year).",
+      "There is a SEK 900 application fee through universityadmissions.se.",
+      "Scholarships can cover costs — see the Scholarships tab.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.kth.se",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "se-chalmers-msc-data-science-ai",
+    "university": "Chalmers University of Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science and AI",
+    "degree": "MSc",
+    "city": "Gothenburg",
+    "state": "Västra Götaland",
+    "country": "Sweden",
+    "country_code": "SE",
+    "country_slug": "sweden",
+    "field_tags": [
+      "Data Science",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 6750,
+      "semester_fee_eur": null,
+      "note": "About SEK 130,000–155,000 per year (≈ €12,000–15,000, roughly €6,000–7,500 per semester). Varies by university — confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "January"
+        },
+        "note": "One main round for autumn. Applications usually open around mid-October and close around mid-January through universityadmissions.se."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "One national portal (universityadmissions.se). There is a SEK 900 application fee (about €80).",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Prepare your documents (transcripts, English proof, CV).",
+      "2. Apply through universityadmissions.se in the autumn round.",
+      "3. Pay the SEK 900 application fee.",
+      "4. Submit before mid-January and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition applies (about €12,000–15,000 per year).",
+      "There is a SEK 900 application fee through universityadmissions.se.",
+      "Scholarships can cover costs — see the Scholarships tab.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.chalmers.se",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "se-uppsala-msc-computer-science",
+    "university": "Uppsala University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Uppsala",
+    "state": "Uppsala",
+    "country": "Sweden",
+    "country_code": "SE",
+    "country_slug": "sweden",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 6750,
+      "semester_fee_eur": null,
+      "note": "About SEK 130,000–155,000 per year (≈ €12,000–15,000, roughly €6,000–7,500 per semester). Varies by university — confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "January"
+        },
+        "note": "One main round for autumn. Applications usually open around mid-October and close around mid-January through universityadmissions.se."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "One national portal (universityadmissions.se). There is a SEK 900 application fee (about €80).",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Prepare your documents (transcripts, English proof, CV).",
+      "2. Apply through universityadmissions.se in the autumn round.",
+      "3. Pay the SEK 900 application fee.",
+      "4. Submit before mid-January and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition applies (about €12,000–15,000 per year).",
+      "There is a SEK 900 application fee through universityadmissions.se.",
+      "Scholarships can cover costs — see the Scholarships tab.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.uu.se",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "se-linkoping-msc-computer-science",
+    "university": "Linköping University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Linköping",
+    "state": "Östergötland",
+    "country": "Sweden",
+    "country_code": "SE",
+    "country_slug": "sweden",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 6750,
+      "semester_fee_eur": null,
+      "note": "About SEK 130,000–155,000 per year (≈ €12,000–15,000, roughly €6,000–7,500 per semester). Varies by university — confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "January"
+        },
+        "note": "One main round for autumn. Applications usually open around mid-October and close around mid-January through universityadmissions.se."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "One national portal (universityadmissions.se). There is a SEK 900 application fee (about €80).",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Prepare your documents (transcripts, English proof, CV).",
+      "2. Apply through universityadmissions.se in the autumn round.",
+      "3. Pay the SEK 900 application fee.",
+      "4. Submit before mid-January and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition applies (about €12,000–15,000 per year).",
+      "There is a SEK 900 application fee through universityadmissions.se.",
+      "Scholarships can cover costs — see the Scholarships tab.",
+      "Dates change every year."
+    ],
+    "program_url": "https://liu.se",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fi-aalto-msc-computer-science",
+    "university": "Aalto University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Espoo",
+    "state": "Uusimaa",
+    "country": "Finland",
+    "country_code": "FI",
+    "country_slug": "finland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 6500,
+      "semester_fee_eur": null,
+      "note": "About €10,000–18,000 per year (≈ €5,000–9,000 per semester), but most universities give big automatic tuition waivers (50–100%) to strong admitted applicants. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "December",
+          "closes": "January"
+        },
+        "note": "Autumn intake. The main joint application round is usually in January, through the national Studyinfo service."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Applications go through the national Studyinfo service. Check the program page for any fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition applies, but most universities give big automatic tuition waivers to strong admitted applicants.",
+      "One national application round, usually in January.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.aalto.fi",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fi-helsinki-msc-computer-science",
+    "university": "University of Helsinki",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Helsinki",
+    "state": "Uusimaa",
+    "country": "Finland",
+    "country_code": "FI",
+    "country_slug": "finland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 6500,
+      "semester_fee_eur": null,
+      "note": "About €10,000–18,000 per year (≈ €5,000–9,000 per semester), but most universities give big automatic tuition waivers (50–100%) to strong admitted applicants. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "December",
+          "closes": "January"
+        },
+        "note": "Autumn intake. The main joint application round is usually in January, through the national Studyinfo service."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Applications go through the national Studyinfo service. Check the program page for any fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition applies, but most universities give big automatic tuition waivers to strong admitted applicants.",
+      "One national application round, usually in January.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.helsinki.fi",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fi-tampere-msc-computing-sciences",
+    "university": "Tampere University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computing Sciences",
+    "degree": "MSc",
+    "city": "Tampere",
+    "state": "Pirkanmaa",
+    "country": "Finland",
+    "country_code": "FI",
+    "country_slug": "finland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 6500,
+      "semester_fee_eur": null,
+      "note": "About €10,000–18,000 per year (≈ €5,000–9,000 per semester), but most universities give big automatic tuition waivers (50–100%) to strong admitted applicants. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "December",
+          "closes": "January"
+        },
+        "note": "Autumn intake. The main joint application round is usually in January, through the national Studyinfo service."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Applications go through the national Studyinfo service. Check the program page for any fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition applies, but most universities give big automatic tuition waivers to strong admitted applicants.",
+      "One national application round, usually in January.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.tuni.fi",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "fi-oulu-msc-computer-science-engineering",
+    "university": "University of Oulu",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Engineering",
+    "degree": "MSc",
+    "city": "Oulu",
+    "state": "North Ostrobothnia",
+    "country": "Finland",
+    "country_code": "FI",
+    "country_slug": "finland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 6500,
+      "semester_fee_eur": null,
+      "note": "About €10,000–18,000 per year (≈ €5,000–9,000 per semester), but most universities give big automatic tuition waivers (50–100%) to strong admitted applicants. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "December",
+          "closes": "January"
+        },
+        "note": "Autumn intake. The main joint application round is usually in January, through the national Studyinfo service."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Applications go through the national Studyinfo service. Check the program page for any fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU tuition applies, but most universities give big automatic tuition waivers to strong admitted applicants.",
+      "One national application round, usually in January.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.oulu.fi",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "no-ntnu-msc-computer-science",
+    "university": "NTNU",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Trondheim",
+    "state": "Trøndelag",
+    "country": "Norway",
+    "country_code": "NO",
+    "country_slug": "norway",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition that varies a lot by program. Salaried PhD positions are an exception. Confirm the current fee."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "December"
+        },
+        "note": "Autumn intake. Non-EU deadlines often fall around December. Confirm with the university."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international admissions. Check the program page for any fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition.",
+      "Salaried PhD positions are a funded exception.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.ntnu.edu",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "no-oslo-msc-informatics-programming-system-architecture",
+    "university": "University of Oslo",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Informatics: Programming and System Architecture",
+    "degree": "MSc",
+    "city": "Oslo",
+    "state": "Oslo",
+    "country": "Norway",
+    "country_code": "NO",
+    "country_slug": "norway",
+    "field_tags": [
+      "CS",
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition that varies a lot by program. Salaried PhD positions are an exception. Confirm the current fee."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "December"
+        },
+        "note": "Autumn intake. Non-EU deadlines often fall around December. Confirm with the university."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international admissions. Check the program page for any fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition.",
+      "Salaried PhD positions are a funded exception.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.uio.no",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "no-bergen-msc-informatics",
+    "university": "University of Bergen",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Informatics",
+    "degree": "MSc",
+    "city": "Bergen",
+    "state": "Vestland",
+    "country": "Norway",
+    "country_code": "NO",
+    "country_slug": "norway",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition that varies a lot by program. Salaried PhD positions are an exception. Confirm the current fee."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "December"
+        },
+        "note": "Autumn intake. Non-EU deadlines often fall around December. Confirm with the university."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international admissions. Check the program page for any fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition.",
+      "Salaried PhD positions are a funded exception.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.uib.no",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "no-oslomet-msc-applied-computer-information-technology",
+    "university": "OsloMet",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Applied Computer and Information Technology",
+    "degree": "MSc",
+    "city": "Oslo",
+    "state": "Oslo",
+    "country": "Norway",
+    "country_code": "NO",
+    "country_slug": "norway",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition that varies a lot by program. Salaried PhD positions are an exception. Confirm the current fee."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "December"
+        },
+        "note": "Autumn intake. Non-EU deadlines often fall around December. Confirm with the university."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international admissions. Check the program page for any fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition.",
+      "Salaried PhD positions are a funded exception.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.oslomet.no",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tr-metu-msc-computer-engineering",
+    "university": "Middle East Technical University (METU)",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering",
+    "degree": "MSc",
+    "city": "Ankara",
+    "state": "Ankara",
+    "country": "Turkey",
+    "country_code": "TR",
+    "country_slug": "turkey",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 400,
+      "semester_fee_eur": null,
+      "note": "Public universities are cheap for international students — usually a few hundred euro per semester (about €300–700), varying by university. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "May",
+          "closes": "August"
+        },
+        "note": "Autumn intake. Each university runs its own international application, usually between May and August."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international office. Some charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Public universities are cheap for international students.",
+      "Each university runs its own application, usually May–August.",
+      "Türkiye Bursları is the fully funded route — see the Scholarships tab."
+    ],
+    "program_url": "https://www.metu.edu.tr",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tr-bogazici-msc-computer-engineering",
+    "university": "Boğaziçi University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering",
+    "degree": "MSc",
+    "city": "Istanbul",
+    "state": "Istanbul",
+    "country": "Turkey",
+    "country_code": "TR",
+    "country_slug": "turkey",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 400,
+      "semester_fee_eur": null,
+      "note": "Public universities are cheap for international students — usually a few hundred euro per semester (about €300–700), varying by university. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "May",
+          "closes": "August"
+        },
+        "note": "Autumn intake. Each university runs its own international application, usually between May and August."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international office. Some charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Public universities are cheap for international students.",
+      "Each university runs its own application, usually May–August.",
+      "Türkiye Bursları is the fully funded route — see the Scholarships tab."
+    ],
+    "program_url": "https://bogazici.edu.tr",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tr-itu-msc-computer-engineering",
+    "university": "Istanbul Technical University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering",
+    "degree": "MSc",
+    "city": "Istanbul",
+    "state": "Istanbul",
+    "country": "Turkey",
+    "country_code": "TR",
+    "country_slug": "turkey",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 400,
+      "semester_fee_eur": null,
+      "note": "Public universities are cheap for international students — usually a few hundred euro per semester (about €300–700), varying by university. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "May",
+          "closes": "August"
+        },
+        "note": "Autumn intake. Each university runs its own international application, usually between May and August."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international office. Some charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Public universities are cheap for international students.",
+      "Each university runs its own application, usually May–August.",
+      "Türkiye Bursları is the fully funded route — see the Scholarships tab."
+    ],
+    "program_url": "https://www.itu.edu.tr",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "tr-iztech-msc-computer-engineering",
+    "university": "Izmir Institute of Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering",
+    "degree": "MSc",
+    "city": "Izmir",
+    "state": "Izmir",
+    "country": "Turkey",
+    "country_code": "TR",
+    "country_slug": "turkey",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 400,
+      "semester_fee_eur": null,
+      "note": "Public universities are cheap for international students — usually a few hundred euro per semester (about €300–700), varying by university. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "May",
+          "closes": "August"
+        },
+        "note": "Autumn intake. Each university runs its own international application, usually between May and August."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international office. Some charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Public universities are cheap for international students.",
+      "Each university runs its own application, usually May–August.",
+      "Türkiye Bursları is the fully funded route — see the Scholarships tab."
+    ],
+    "program_url": "https://www.iyte.edu.tr",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "sa-kaust-msc-computer-science",
+    "university": "KAUST",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Thuwal",
+    "state": "Makkah Province",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "country_slug": "saudi-arabia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "Fully funded upon admission — tuition, monthly stipend, and housing are included."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "January"
+        },
+        "note": "Admission comes with full funding. KAUST reviews on a rolling basis with priority deadlines; KFUPM has set windows. Apply early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "No tuition — admission includes funding. Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Choose a KAUST or KFUPM graduate program.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply online — admission includes funding.",
+      "4. Wait for the funded-admission decision."
+    ],
+    "warnings": [
+      "Admission includes full funding — tuition, stipend, and housing.",
+      "Only public research universities (KAUST, KFUPM) are listed here.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.kaust.edu.sa",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "sa-kfupm-msc-computer-science",
+    "university": "KFUPM",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Dhahran",
+    "state": "Eastern Province",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "country_slug": "saudi-arabia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "Fully funded upon admission — tuition, monthly stipend, and housing are included."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "January"
+        },
+        "note": "Admission comes with full funding. KAUST reviews on a rolling basis with priority deadlines; KFUPM has set windows. Apply early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "No tuition — admission includes funding. Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Choose a KAUST or KFUPM graduate program.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply online — admission includes funding.",
+      "4. Wait for the funded-admission decision."
+    ],
+    "warnings": [
+      "Admission includes full funding — tuition, stipend, and housing.",
+      "Only public research universities (KAUST, KFUPM) are listed here.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.kfupm.edu.sa",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "sa-kfupm-msc-artificial-intelligence",
+    "university": "KFUPM",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Dhahran",
+    "state": "Eastern Province",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "country_slug": "saudi-arabia",
+    "field_tags": [
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 0,
+      "semester_fee_eur": null,
+      "note": "Fully funded upon admission — tuition, monthly stipend, and housing are included."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "October",
+          "closes": "January"
+        },
+        "note": "Admission comes with full funding. KAUST reviews on a rolling basis with priority deadlines; KFUPM has set windows. Apply early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "No tuition — admission includes funding. Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Choose a KAUST or KFUPM graduate program.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply online — admission includes funding.",
+      "4. Wait for the funded-admission decision."
+    ],
+    "warnings": [
+      "Admission includes full funding — tuition, stipend, and housing.",
+      "Only public research universities (KAUST, KFUPM) are listed here.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.kfupm.edu.sa",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "cn-zhejiang-msc-computer-science-technology",
+    "university": "Zhejiang University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Technology",
+    "degree": "MSc",
+    "city": "Hangzhou",
+    "state": "Zhejiang",
+    "country": "China",
+    "country_code": "CN",
+    "country_slug": "china",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Self-funded English-taught CS Master's usually cost €2,500–5,000 per year (≈ €1,250–2,500 per semester), varying by university. Many pair admission with the CSC scholarship. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "December",
+          "closes": "May"
+        },
+        "note": "Autumn intake. Applications go to each university's international portal, usually between December and May."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international student portal. Many charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Confirm this program is taught in English for international students. Some CS programs also have a Chinese-taught track.",
+      "Most Pakistani students pair admission with the CSC scholarship — see the Scholarships tab.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.zju.edu.cn",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "cn-sjtu-msc-computer-science-technology",
+    "university": "Shanghai Jiao Tong University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Technology",
+    "degree": "MSc",
+    "city": "Shanghai",
+    "state": "Shanghai",
+    "country": "China",
+    "country_code": "CN",
+    "country_slug": "china",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Self-funded English-taught CS Master's usually cost €2,500–5,000 per year (≈ €1,250–2,500 per semester), varying by university. Many pair admission with the CSC scholarship. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "December",
+          "closes": "May"
+        },
+        "note": "Autumn intake. Applications go to each university's international portal, usually between December and May."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international student portal. Many charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Confirm this program is taught in English for international students. Some CS programs also have a Chinese-taught track.",
+      "Most Pakistani students pair admission with the CSC scholarship — see the Scholarships tab.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.sjtu.edu.cn",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "cn-hit-msc-computer-science-technology",
+    "university": "Harbin Institute of Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Technology",
+    "degree": "MSc",
+    "city": "Harbin",
+    "state": "Heilongjiang",
+    "country": "China",
+    "country_code": "CN",
+    "country_slug": "china",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Self-funded English-taught CS Master's usually cost €2,500–5,000 per year (≈ €1,250–2,500 per semester), varying by university. Many pair admission with the CSC scholarship. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "December",
+          "closes": "May"
+        },
+        "note": "Autumn intake. Applications go to each university's international portal, usually between December and May."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international student portal. Many charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Confirm this program is taught in English for international students. Some CS programs also have a Chinese-taught track.",
+      "Most Pakistani students pair admission with the CSC scholarship — see the Scholarships tab.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.hit.edu.cn",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "cn-bit-msc-computer-science-technology",
+    "university": "Beijing Institute of Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Technology",
+    "degree": "MSc",
+    "city": "Beijing",
+    "state": "Beijing",
+    "country": "China",
+    "country_code": "CN",
+    "country_slug": "china",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Self-funded English-taught CS Master's usually cost €2,500–5,000 per year (≈ €1,250–2,500 per semester), varying by university. Many pair admission with the CSC scholarship. Confirm."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "December",
+          "closes": "May"
+        },
+        "note": "Autumn intake. Applications go to each university's international portal, usually between December and May."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply to each university's international student portal. Many charge an application fee. Check the program page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Confirm this program is taught in English for international students. Some CS programs also have a Chinese-taught track.",
+      "Most Pakistani students pair admission with the CSC scholarship — see the Scholarships tab.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.bit.edu.cn",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "my-um-msc-computer-science",
+    "university": "Universiti Malaya",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Kuala Lumpur",
+    "state": "Federal Territory of Kuala Lumpur",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "country_slug": "malaysia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "International Master's tuition is roughly €1,500–3,500 per year total (≈ RM 7,000–17,000), varying by university and program. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "June",
+          "closes": "August"
+        },
+        "note": "Two intakes a year (around March and around September–October). This window is for the September–October intake. Apply directly to each university."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply directly to each university. Most charge an application fee. EMGS processes the student visa after admission.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Two intakes a year (around March and around September–October).",
+      "EMGS processes the student visa after admission.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.um.edu.my",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "my-utm-msc-computer-science",
+    "university": "Universiti Teknologi Malaysia",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "country_slug": "malaysia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "International Master's tuition is roughly €1,500–3,500 per year total (≈ RM 7,000–17,000), varying by university and program. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "June",
+          "closes": "August"
+        },
+        "note": "Two intakes a year (around March and around September–October). This window is for the September–October intake. Apply directly to each university."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply directly to each university. Most charge an application fee. EMGS processes the student visa after admission.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Two intakes a year (around March and around September–October).",
+      "EMGS processes the student visa after admission.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.utm.my",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "my-usm-msc-computer-science",
+    "university": "Universiti Sains Malaysia",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Penang",
+    "state": "Penang",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "country_slug": "malaysia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "International Master's tuition is roughly €1,500–3,500 per year total (≈ RM 7,000–17,000), varying by university and program. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "June",
+          "closes": "August"
+        },
+        "note": "Two intakes a year (around March and around September–October). This window is for the September–October intake. Apply directly to each university."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply directly to each university. Most charge an application fee. EMGS processes the student visa after admission.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Two intakes a year (around March and around September–October).",
+      "EMGS processes the student visa after admission.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.usm.my",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "my-upm-msc-computer-science",
+    "university": "Universiti Putra Malaysia",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Serdang",
+    "state": "Selangor",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "country_slug": "malaysia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "International Master's tuition is roughly €1,500–3,500 per year total (≈ RM 7,000–17,000), varying by university and program. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "June",
+          "closes": "August"
+        },
+        "note": "Two intakes a year (around March and around September–October). This window is for the September–October intake. Apply directly to each university."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Apply directly to each university. Most charge an application fee. EMGS processes the student visa after admission.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Two intakes a year (around March and around September–October).",
+      "EMGS processes the student visa after admission.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.upm.edu.my",
+    "last_verified": "2026-07-07",
+    "verified": false
   }
 ]
