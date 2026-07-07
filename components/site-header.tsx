@@ -19,7 +19,7 @@ export function SiteHeader({ asH1 = false }: { asH1?: boolean }) {
             {SITE_NAME}
           </Name>
         </Link>
-        <p className="mt-1 text-sm text-primary-foreground/70">{TAGLINE}</p>
+        <p className="mt-1 text-sm text-primary-foreground/85">{TAGLINE}</p>
       </div>
     </header>
   );

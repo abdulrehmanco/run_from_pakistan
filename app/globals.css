@@ -67,7 +67,7 @@
   --secondary: #f0eee8; /* stone */
   --secondary-foreground: #1f1d1a;
   --muted: #f0eee8;
-  --muted-foreground: #6c675e;
+  --muted-foreground: #514d45; /* darkened for readability (~8:1 on ivory) */
   --accent: #f0eee8;
   --accent-foreground: #1f1d1a;
   --destructive: #a63b1f; /* urgent rust */

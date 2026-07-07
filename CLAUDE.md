@@ -40,7 +40,7 @@ this section.**
 **Color tokens** (defined in `app/globals.css` `:root`; never hardcode hex in
 components):
 - `--background #FBFAF7` ivory · `--card #FFFFFF` · `--foreground #1F1D1A` ink
-- `--muted-foreground #6C675E` · `--border #E6E3DB` hairline
+- `--muted-foreground #514D45` (≈8:1 on ivory) · `--border #E6E3DB` hairline
 - `--primary #175243` deep green · `--primary-foreground #FFFFFF` · `--ring #175243`
 - `--gold #B8892D` (utility `text-gold`/`border-gold`) — sparingly: active count,
   small rules, link-hover underlines
