@@ -1,5 +1,5 @@
 import type { Metadata } from "next";
-import { Newsreader, Albert_Sans, Spline_Sans_Mono } from "next/font/google";
+import { Newsreader, Inter, Spline_Sans_Mono } from "next/font/google";
 import "./globals.css";
 import { SITE_NAME, TAGLINE, SITE_URL } from "@/lib/site";
 import { SiteFooter } from "@/components/site-footer";
@@ -11,11 +11,11 @@ const fontDisplay = Newsreader({
   weight: ["500", "600"],
 });
 
-// Body sans — everything else.
-const fontSans = Albert_Sans({
+// Body sans — everything else. Inter: standard, high-legibility.
+const fontSans = Inter({
   variable: "--font-sans",
   subsets: ["latin"],
-  weight: ["400", "500", "600"],
+  weight: ["400", "500", "600", "700"],
 });
 
 // Utility mono — all dates, countdowns, and overline labels.

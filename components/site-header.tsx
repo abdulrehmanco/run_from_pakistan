@@ -13,14 +13,11 @@ export function SiteHeader({ asH1 = false }: { asH1?: boolean }) {
       <div className="mx-auto w-full max-w-6xl px-4 py-5">
         <Link
           href="/"
-          className="inline-flex items-baseline gap-1 rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 focus-visible:ring-offset-primary"
+          className="inline-flex items-baseline rounded-sm focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold focus-visible:ring-offset-2 focus-visible:ring-offset-primary"
         >
           <Name className="font-display text-2xl font-semibold tracking-tight sm:text-3xl">
             {SITE_NAME}
           </Name>
-          <span aria-hidden className="font-display text-2xl leading-none text-gold">
-            *
-          </span>
         </Link>
         <p className="mt-1 text-sm text-primary-foreground/70">{TAGLINE}</p>
       </div>

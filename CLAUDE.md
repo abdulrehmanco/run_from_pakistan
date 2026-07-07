@@ -33,7 +33,7 @@ this section.**
 `@theme`):
 - `font-display` — **Newsreader** (500, 600): h1s, scholarship names, section
   headings.
-- `font-sans` — **Albert Sans** (400, 500, 600): body / everything else (default).
+- `font-sans` — **Inter** (400, 500, 600, 700): body / everything else (default).
 - `font-mono` — **Spline Sans Mono** (400, 500): ALL dates, deadlines,
   countdowns, and overline labels. Use `tabular-nums` for figures.
 
