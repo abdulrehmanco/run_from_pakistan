@@ -1,0 +1,1032 @@
+[
+  {
+    "id": "chevening-uk",
+    "name": "Chevening Scholarship",
+    "provider": "UK Government (Foreign, Commonwealth & Development Office)",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly living allowance set each year",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Return airfare to the UK",
+        "Arrival allowance",
+        "Thesis grant",
+        "Access to Chevening events and networking"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "August", "closes": "November" },
+      "cycle_note": "Usually opens in early August and closes in early November each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English test needed after you get a conditional offer.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply to Chevening first. You must get your own university offers by mid-July.",
+      "unusual_documents": ["Two references", "Three UK course choices"]
+    },
+    "documents_required": [
+      "Valid passport or national ID",
+      "University transcripts and degrees",
+      "Two reference letters",
+      "Proof of English (after a conditional offer)"
+    ],
+    "application_steps": [
+      "1. Check you meet the work experience and degree rules.",
+      "2. Apply online during the open window.",
+      "3. Apply to at least three UK master's courses separately.",
+      "4. If shortlisted, attend an interview.",
+      "5. Get an unconditional university offer by the set date."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A bachelor's degree good enough for a UK master's.",
+      "work_experience": "About 2 years of work experience.",
+      "other": ["You must return to Pakistan for at least 2 years after the scholarship."]
+    },
+    "official_url": "https://www.chevening.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Dates change every year. Check the official site before applying.",
+      "You must arrange your own university offers by the deadline."
+    ]
+  },
+  {
+    "id": "commonwealth-masters-uk",
+    "name": "Commonwealth Master's Scholarship",
+    "provider": "Commonwealth Scholarship Commission (UK)",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly living allowance",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Return airfare to the UK",
+        "Arrival allowance",
+        "Study and thesis grant"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "September", "closes": "December" },
+      "cycle_note": "You apply through a nominating body such as HEC. Their deadline is usually late in the year."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the university you choose.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You list university preferences. You do not need an offer before you apply.",
+      "unusual_documents": ["A nomination from an approved Pakistani nominating body"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Reference letters",
+      "A development-focused study plan",
+      "Nomination from an approved body"
+    ],
+    "application_steps": [
+      "1. Check the list of approved nominating bodies for Pakistan.",
+      "2. Apply through that body during their window.",
+      "3. Complete the online Commonwealth application.",
+      "4. Wait for nomination and final selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong bachelor's degree.",
+      "work_experience": null,
+      "other": ["You must be nominated. You cannot apply fully on your own."]
+    },
+    "official_url": "https://cscuk.fcdo.gov.uk",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You cannot apply directly. You must be nominated by an approved body such as HEC.",
+      "Dates change every year. Check the official site."
+    ]
+  },
+  {
+    "id": "gates-cambridge-uk",
+    "name": "Gates Cambridge Scholarship",
+    "provider": "Bill & Melinda Gates Foundation (University of Cambridge)",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cities": ["Cambridge"],
+    "universities": ["University of Cambridge"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a full maintenance allowance",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Return airfare",
+        "Some family funding",
+        "Academic development funding"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "September", "closes": "December" },
+      "cycle_note": "You apply at the same time as your Cambridge course. Deadlines are usually October to January depending on the course."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "Cambridge needs proof of English for admission.",
+      "application_fee": {
+        "amount": 90,
+        "currency": "GBP",
+        "note": "Cambridge charges a course application fee. Some fee waivers exist."
+      },
+      "admission_required_first": false,
+      "admission_note": "You apply to your Cambridge course and the scholarship at the same time.",
+      "unusual_documents": [
+        "A personal statement written for Gates Cambridge",
+        "A research proposal (for PhD)"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Reference letters",
+      "Personal statement",
+      "Research proposal (for PhD)",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Choose an eligible Cambridge course.",
+      "2. Apply to the course and tick the Gates Cambridge funding box.",
+      "3. Submit all documents before the course deadline.",
+      "4. If shortlisted, attend an interview."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A very high academic record.",
+      "work_experience": null,
+      "other": ["Very competitive. Only a small number are chosen each year."]
+    },
+    "official_url": "https://www.gatescambridge.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Very competitive.",
+      "Deadlines depend on your course. Check the official site."
+    ]
+  },
+  {
+    "id": "daad-epos-germany",
+    "name": "DAAD EPOS Development-Related Postgraduate Courses",
+    "provider": "DAAD (German Academic Exchange Service)",
+    "country": "Germany",
+    "country_code": "DE",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["Development-related fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, about 934 EUR per month (approximate)",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Travel allowance",
+        "Health and accident insurance",
+        "Possible study and research subsidy"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "June", "closes": "October" },
+      "cycle_note": "Each course sets its own deadline. Many are between August and October."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the course. Many need IELTS or TOEFL. Some need German.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply to the course and the scholarship together.",
+      "unusual_documents": [
+        "Proof of at least 2 years of relevant work experience",
+        "A development-related motivation letter"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of work experience",
+      "Motivation letter",
+      "Proof of English or German",
+      "Reference letters"
+    ],
+    "application_steps": [
+      "1. Search the DAAD scholarship database for an EPOS course.",
+      "2. Check the course's own deadline and rules.",
+      "3. Apply to the course with the scholarship documents.",
+      "4. Wait for the course's selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A bachelor's degree, usually with good grades.",
+      "work_experience": "At least 2 years of relevant work experience.",
+      "other": []
+    },
+    "official_url": "https://www.daad.de",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Each course has its own rules and deadline.",
+      "Check the DAAD scholarship database for the exact course."
+    ]
+  },
+  {
+    "id": "erasmus-mundus-joint-masters",
+    "name": "Erasmus Mundus Joint Master's (EMJM)",
+    "provider": "European Union (Erasmus+)",
+    "country": "European Union",
+    "country_code": "EU",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly allowance plus a contribution to living costs",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Study in two or more countries",
+        "Travel and installation costs",
+        "Insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "January" },
+      "cycle_note": "Each master's programme sets its own deadline. Many close between December and February."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually needed.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply to the programme and its scholarship together.",
+      "unusual_documents": ["You often apply to a group of universities in one application."]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Motivation letter",
+      "Reference letters",
+      "Proof of English",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Browse the Erasmus Mundus catalogue for a master's you like.",
+      "2. Open that programme's own website.",
+      "3. Apply on time with all documents.",
+      "4. Wait for the programme's decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A bachelor's degree relevant to the master's.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://erasmus-plus.ec.europa.eu",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Each programme is run by a group of universities and has its own deadline.",
+      "Check the specific programme page."
+    ]
+  },
+  {
+    "id": "turkiye-burslari",
+    "name": "Türkiye Bursları (Türkiye Scholarships)",
+    "provider": "Government of Türkiye",
+    "country": "Türkiye",
+    "country_code": "TR",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend that increases by study level",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Free Turkish language course for one year",
+        "Accommodation",
+        "Return airfare",
+        "Health insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "February" },
+      "cycle_note": "Usually opens in January and closes in February each year."
+    },
+    "blockers": {
+      "ielts": "not_required",
+      "ielts_note": "IELTS is not required. Many programs are in Turkish or English.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "One application covers many universities and programs.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "Valid passport or ID",
+      "School transcripts and results",
+      "A passport photo",
+      "Exam results if asked (varies by program)"
+    ],
+    "application_steps": [
+      "1. Create an account on the official portal during the window.",
+      "2. Choose your study level and up to a set number of programs.",
+      "3. Upload your documents.",
+      "4. If shortlisted, attend an interview."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Undergraduate under 21, Master's under 30, PhD under 35 (approximate).",
+      "min_academic": "Undergraduate at least 70%, medical at least 90%, postgraduate at least 75% (approximate).",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.turkiyeburslari.gov.tr",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "One application covers many universities and programs.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "stipendium-hungaricum",
+    "name": "Stipendium Hungaricum",
+    "provider": "Government of Hungary (Tempus Public Foundation)",
+    "country": "Hungary",
+    "country_code": "HU",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about 43,700 HUF for BS and MS)",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": [
+        "Free dormitory or a housing contribution",
+        "Health insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "January" },
+      "cycle_note": "Usually opens in November and closes in mid-January."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the university and program.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You pick programs in the online application. You do not need an offer first.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University or school transcripts",
+      "Motivation letter",
+      "Medical certificate",
+      "Proof of language if asked",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Check if you apply through HEC as the sending partner.",
+      "2. Fill in the online application during the window.",
+      "3. Choose up to two study programs.",
+      "4. Upload documents and submit.",
+      "5. Pass any entrance test the university sets."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "Good academic record. Varies by program.",
+      "work_experience": null,
+      "other": ["In Pakistan you may need to apply through HEC as the sending partner."]
+    },
+    "official_url": "https://stipendiumhungaricum.hu",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Flights are not covered.",
+      "In Pakistan you may need to apply through HEC. Check current rules.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "csc-china",
+    "name": "Chinese Government Scholarship (CSC)",
+    "provider": "China Scholarship Council",
+    "country": "China",
+    "country_code": "CN",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about 2,500 CNY BS, 3,000 MS, 3,500 PhD)",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": [
+        "Free or subsidised accommodation",
+        "Comprehensive medical insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "April" },
+      "cycle_note": "Windows vary by route. Many run between December and April."
+    },
+    "blockers": {
+      "ielts": "moi_accepted",
+      "ielts_note": "Many English-taught programs accept a medium-of-instruction letter instead of IELTS. Rules vary by university.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Some routes need a pre-admission letter from a Chinese university first.",
+      "unusual_documents": [
+        "Foreigner Physical Examination Form (a medical check)",
+        "A study plan or research proposal",
+        "Two recommendation letters"
+      ]
+    },
+    "documents_required": [
+      "Passport copy",
+      "University transcripts and degrees",
+      "Study plan or research proposal",
+      "Two recommendation letters",
+      "Physical examination form",
+      "Language proof or MOI letter"
+    ],
+    "application_steps": [
+      "1. Pick a route: embassy, university, or provincial.",
+      "2. Choose a university and program.",
+      "3. Apply on the CSC online system and the university system.",
+      "4. Upload all documents before the deadline."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Undergraduate under 25, Master's under 35, PhD under 40 (varies by route).",
+      "min_academic": "Good academic record. Varies by university.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.campuschina.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "There are different routes (embassy, university, provincial). Rules differ.",
+      "Airfare is often not covered.",
+      "Some universities charge their own application fee. Check first."
+    ]
+  },
+  {
+    "id": "mext-japan",
+    "name": "MEXT Japanese Government Scholarship",
+    "provider": "Government of Japan (Ministry of Education, MEXT)",
+    "country": "Japan",
+    "country_code": "JP",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about 117,000 JPY for research students; varies)",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Return airfare",
+        "No tuition fees",
+        "No exam or admission fees"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "April", "closes": "June" },
+      "cycle_note": "The embassy route usually opens around April to May. The university route dates vary."
+    },
+    "blockers": {
+      "ielts": "not_required",
+      "ielts_note": "IELTS is not strictly required. There are written tests and interviews. Some programs need English or Japanese proof.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Embassy route: you apply first, then arrange university acceptance later.",
+      "unusual_documents": [
+        "A field of study and research plan",
+        "MEXT application forms",
+        "A medical certificate"
+      ]
+    },
+    "documents_required": [
+      "MEXT application forms",
+      "University transcripts and degrees",
+      "Field of study and research plan",
+      "Medical certificate",
+      "Passport photo"
+    ],
+    "application_steps": [
+      "1. Choose the embassy route or the university route.",
+      "2. For the embassy route, watch the Embassy of Japan in Pakistan.",
+      "3. Submit forms and sit any written tests.",
+      "4. Attend an interview if shortlisted.",
+      "5. Arrange university acceptance as guided."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Undergraduate around 24 or under; research route around 34 or under (varies).",
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.studyinjapan.go.jp",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "There are two routes: through the Japanese Embassy or through a university.",
+      "Dates change every year. Watch the Embassy of Japan in Pakistan."
+    ]
+  },
+  {
+    "id": "gks-south-korea",
+    "name": "Global Korea Scholarship (GKS)",
+    "provider": "Government of South Korea (NIIED)",
+    "country": "South Korea",
+    "country_code": "KR",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about 900,000 KRW for graduate students)",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "One year of Korean language training",
+        "Return airfare",
+        "Settlement and research allowance",
+        "Health insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "February", "closes": "March" },
+      "cycle_note": "The graduate route usually opens around February. The undergraduate route usually opens around September."
+    },
+    "blockers": {
+      "ielts": "not_required",
+      "ielts_note": "IELTS is not strictly required. A good TOPIK (Korean) or English score can help.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You pick either the embassy track or the university track. Not both.",
+      "unusual_documents": [
+        "A personal statement and study plan",
+        "A medical assessment form",
+        "GKS application forms"
+      ]
+    },
+    "documents_required": [
+      "GKS application forms",
+      "University or school transcripts",
+      "Personal statement and study plan",
+      "Reference letters",
+      "Medical assessment form"
+    ],
+    "application_steps": [
+      "1. Choose the embassy track or the university track.",
+      "2. Prepare the GKS forms and documents.",
+      "3. Apply during the correct window for your track.",
+      "4. Pass the review and any interview."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Usually under 25 for undergraduate; graduate has a higher limit (varies).",
+      "min_academic": "Usually a CGPA of about 80% or higher, or top 20% of class.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.studyinkorea.go.kr",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "There are two tracks: embassy and university. You can only pick one.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "fulbright-pakistan-usa",
+    "name": "Fulbright Foreign Student Program (Pakistan)",
+    "provider": "US Government (managed by USEFP in Pakistan)",
+    "country": "United States",
+    "country_code": "US",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly living stipend",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Return airfare",
+        "Tuition and fees",
+        "Living stipend",
+        "Accident and sickness coverage"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "February", "closes": "May" },
+      "cycle_note": "In Pakistan it has usually opened around February to March and closed around May."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "You need TOEFL (not IELTS) and usually the GRE. USEFP helps arrange these.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "USEFP helps place you at a US university. You do not need an offer first.",
+      "unusual_documents": [
+        "GRE scores",
+        "Three recommendation letters"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "GRE and TOEFL scores",
+      "Three recommendation letters",
+      "A study or research objective",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Apply through USEFP during the open window.",
+      "2. Take the GRE and TOEFL (USEFP helps arrange these).",
+      "3. Attend interviews if shortlisted.",
+      "4. USEFP helps place you at a suitable US university."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A four-year bachelor's degree (16 years of education) with strong grades.",
+      "work_experience": null,
+      "other": ["You must return to Pakistan for at least 2 years after the program."]
+    },
+    "official_url": "https://www.usefp.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "US-funded programs can change with US government decisions. Confirm the program is running this year.",
+      "You apply through USEFP in Pakistan, not directly to a US university."
+    ]
+  },
+  {
+    "id": "australia-awards",
+    "name": "Australia Awards Scholarships",
+    "provider": "Australian Government (DFAT)",
+    "country": "Australia",
+    "country_code": "AU",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["Priority development fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a living allowance",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Return airfare",
+        "Establishment allowance",
+        "Overseas student health cover",
+        "Introductory academic program"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "February", "closes": "April" },
+      "cycle_note": "Windows vary by country. For many it opens around February and closes around April."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "IELTS or an accepted English test is required.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply for the award. Placement is handled as part of the process.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "IELTS or accepted English test",
+      "Passport or ID copy",
+      "A development-focused statement"
+    ],
+    "application_steps": [
+      "1. Check if Pakistan is a participating country this round.",
+      "2. Apply online during the open window.",
+      "3. Provide English test results.",
+      "4. Attend an interview if shortlisted."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good bachelor's degree.",
+      "work_experience": "Some work experience is usually expected.",
+      "other": ["You must return home for at least 2 years after study."]
+    },
+    "official_url": "https://www.dfat.gov.au",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Pakistan may not be a participating country every year. Confirm eligibility first.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "si-sisgp-sweden",
+    "name": "Swedish Institute Scholarships for Global Professionals (SISGP)",
+    "provider": "Swedish Institute",
+    "country": "Sweden",
+    "country_code": "SE",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly living grant (about 12,000 SEK)",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Travel grant",
+        "Insurance",
+        "Membership of the SI alumni network"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "February" },
+      "cycle_note": "You first apply to Swedish universities (around January). The scholarship application is usually a short window in February."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof such as IELTS is needed for university admission.",
+      "application_fee": {
+        "amount": 900,
+        "currency": "SEK",
+        "note": "You pay a university application fee first. The scholarship does not remove this fee."
+      },
+      "admission_required_first": true,
+      "admission_note": "You must apply to eligible master's programmes first. Only then can you be considered.",
+      "unusual_documents": [
+        "Proof of at least 3,000 hours of work experience",
+        "A CV in the required SI format",
+        "Two reference letters"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of English (IELTS or accepted test)",
+      "CV in the SI format",
+      "Two reference letters",
+      "Proof of work experience"
+    ],
+    "application_steps": [
+      "1. Apply to eligible master's programmes and pay the university fee.",
+      "2. Wait for the scholarship window in February.",
+      "3. Submit the SI scholarship application and documents.",
+      "4. Wait for the SI decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A bachelor's degree.",
+      "work_experience": "At least 3,000 hours of work, volunteering, or leadership experience.",
+      "other": []
+    },
+    "official_url": "https://si.se",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You must pay the Swedish university application fee yourself.",
+      "You must apply to universities first, then the scholarship.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "isdb-scholarship",
+    "name": "Islamic Development Bank (IsDB) Scholarship Programme",
+    "provider": "Islamic Development Bank",
+    "country": "Multiple countries",
+    "country_code": "XX",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["Science and development fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (amount varies by country and level)",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Tuition",
+        "Living allowance",
+        "Airfare for some categories",
+        "Health coverage"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "March" },
+      "cycle_note": "Windows vary by year and program. Often early in the year."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the country and university you choose.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Some categories need a university admission letter. Rules vary.",
+      "unusual_documents": [
+        "You may need to commit to work in a development field after study."
+      ]
+    },
+    "documents_required": [
+      "University or school transcripts",
+      "Passport copy",
+      "Proof of admission if asked",
+      "Reference letters"
+    ],
+    "application_steps": [
+      "1. Read the current IsDB scholarship call.",
+      "2. Check which category fits you (BS, MS, or PhD).",
+      "3. Apply online during the window.",
+      "4. Provide any admission proof the category needs."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Varies by category.",
+      "min_academic": "Good academic record. Varies by level.",
+      "work_experience": null,
+      "other": ["For students from IsDB member countries. Pakistan is a member country."]
+    },
+    "official_url": "https://www.isdb.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Rules and benefits change by country, level, and year. Read the current call carefully.",
+      "Study country and university vary."
+    ]
+  },
+  {
+    "id": "manaaki-new-zealand",
+    "name": "Manaaki New Zealand Scholarship",
+    "provider": "New Zealand Government (MFAT)",
+    "country": "New Zealand",
+    "country_code": "NZ",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["Priority development fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a living allowance",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Return airfare",
+        "Establishment allowance",
+        "Medical and travel insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "February", "closes": "March" },
+      "cycle_note": "Windows vary by country. Often around February to March."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "IELTS or an accepted English test is required.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply for the scholarship. Placement is part of the process.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "IELTS or accepted English test",
+      "Passport or ID copy",
+      "A development-focused statement"
+    ],
+    "application_steps": [
+      "1. Check if Pakistan is an eligible country this round.",
+      "2. Apply online during the open window.",
+      "3. Provide English test results.",
+      "4. Attend an interview if shortlisted."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": "Some work experience is usually expected.",
+      "other": ["You must return home for at least 2 years after study."]
+    },
+    "official_url": "https://www.mfat.govt.nz",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Pakistan may not be an eligible country every year. Confirm eligibility first.",
+      "Dates change every year."
+    ]
+  }
+]

@@ -18,20 +18,24 @@ official page and shows a last_verified date so students can trust the info.
 - NEVER invent or guess real deadlines. Any placeholder data must set
   `"verified": false`.
 - All UI copy is in plain, simple English: short sentences, no jargon.
+- GitHub is OFF-LIMITS. Never run `git push`, `git remote add`, the `gh` CLI,
+  or anything that contacts GitHub or any remote. Local git commits only. The
+  user handles GitHub personally at the very end.
 
 ## Phase roadmap
 
 - [x] 1 — Scaffold
-- [ ] 2 — Schema + types + seed data
+- [x] 2 — Schema + types + seed data
 - [ ] 3 — Dashboard cards + status logic
 - [ ] 4 — Filters / search / sort
 - [ ] 5 — Detail pages + SEO
 - [ ] 6 — Polish / mobile / report-button
-- [ ] 7 — Deploy + README
+- [ ] 7 — Deploy (user-led, Vercel CLI or manual GitHub) + README
 
 ## Working agreement
 
 - Do ONLY the current phase, then stop and report.
-- Run `npm run build` before finishing a phase.
+- From now on, every phase must pass BOTH `npm run validate-data` AND
+  `npm run build` before committing.
 - Make a local git commit after each phase.
 - Then stop and report.
