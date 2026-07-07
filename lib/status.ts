@@ -1,4 +1,5 @@
 import type { Scholarship } from "@/types/scholarship";
+import type { Program } from "@/types/program";
 
 export type StatusState = "open" | "opening_soon" | "closed" | "unknown";
 
@@ -8,6 +9,15 @@ export interface Status {
   headline: string;
   sub: string | null;
   daysLeft: number | null;
+}
+
+/** Generic date shape both scholarships and program intakes map onto. */
+export interface StatusDates {
+  application_open: string | null;
+  application_deadline: string | null;
+  dates_confirmed: boolean;
+  window: { opens: string; closes: string } | null;
+  note: string | null;
 }
 
 const MONTHS_SHORT = [
@@ -52,10 +62,10 @@ function daysBetween(a: Date, b: Date): number {
 }
 
 /**
- * Compute a scholarship's display status from its dates.
- * Status is NEVER stored — it is derived here at render time.
+ * Pure status core. Derives a display status from confirmed dates (priority) or
+ * an estimated typical window. Status is NEVER stored — derived at render time.
  */
-export function computeStatus(s: Scholarship, today: Date): Status {
+export function computeStatusFromDates(d: StatusDates, today: Date): Status {
   // The calendar day the visitor is on, as a UTC-midnight instant so it can be
   // compared cleanly with ISO dates regardless of timezone.
   const T = new Date(
@@ -63,9 +73,9 @@ export function computeStatus(s: Scholarship, today: Date): Status {
   );
 
   // a) CONFIRMED dates take priority.
-  if (s.dates.dates_confirmed) {
-    const openIso = s.dates.application_open;
-    const deadlineIso = s.dates.application_deadline;
+  if (d.dates_confirmed) {
+    const openIso = d.application_open;
+    const deadlineIso = d.application_deadline;
     const open = openIso ? parseISODate(openIso) : null;
     const deadline = deadlineIso ? parseISODate(deadlineIso) : null;
 
@@ -128,11 +138,11 @@ export function computeStatus(s: Scholarship, today: Date): Status {
     // dates_confirmed true but no usable dates → fall through to estimate.
   }
 
-  // b) ESTIMATED from the typical cycle.
-  const cycle = s.dates.typical_cycle;
-  if (cycle) {
-    const opensM = parseMonth(cycle.opens);
-    const closesM = parseMonth(cycle.closes);
+  // b) ESTIMATED from the typical window.
+  const win = d.window;
+  if (win) {
+    const opensM = parseMonth(win.opens);
+    const closesM = parseMonth(win.closes);
     if (opensM && closesM) {
       const cur = today.getMonth() + 1; // 1-12, visitor's current month
       const inWindow =
@@ -146,7 +156,7 @@ export function computeStatus(s: Scholarship, today: Date): Status {
           estimated: true,
           headline: "Open now",
           sub:
-            s.dates.cycle_note ??
+            d.note ??
             "Usually open around this time — confirm on official site",
           daysLeft: null,
         };
@@ -180,5 +190,87 @@ export function computeStatus(s: Scholarship, today: Date): Status {
     headline: "Check official site",
     sub: null,
     daysLeft: null,
+  };
+}
+
+/** Compute a scholarship's display status. Delegates to the shared core. */
+export function computeStatus(s: Scholarship, today: Date): Status {
+  return computeStatusFromDates(
+    {
+      application_open: s.dates.application_open,
+      application_deadline: s.dates.application_deadline,
+      dates_confirmed: s.dates.dates_confirmed,
+      window: s.dates.typical_cycle,
+      note: s.dates.cycle_note,
+    },
+    today,
+  );
+}
+
+export type ProgramIntake = Program["intakes"][number];
+
+export interface ProgramStatus {
+  status: Status;
+  term: ProgramIntake["term"] | null;
+  intake: ProgramIntake | null;
+}
+
+function intakeToDates(i: ProgramIntake): StatusDates {
+  return {
+    application_open: i.application_open,
+    application_deadline: i.application_deadline,
+    dates_confirmed: i.dates_confirmed,
+    window: i.typical_window,
+    note: i.note,
+  };
+}
+
+/** Status for a single program intake. */
+export function computeIntakeStatus(i: ProgramIntake, today: Date): Status {
+  return computeStatusFromDates(intakeToDates(i), today);
+}
+
+/**
+ * Compute a program's most relevant status across its intakes:
+ * any open intake wins, else the nearest opening_soon, else closed.
+ */
+export function computeProgramStatus(p: Program, today: Date): ProgramStatus {
+  const evaluated = p.intakes.map((i) => ({
+    st: computeStatusFromDates(intakeToDates(i), today),
+    intake: i,
+  }));
+
+  if (evaluated.length === 0) {
+    return {
+      status: {
+        state: "unknown",
+        estimated: false,
+        headline: "Check program page",
+        sub: null,
+        daysLeft: null,
+      },
+      term: null,
+      intake: null,
+    };
+  }
+
+  const open = evaluated.find((e) => e.st.state === "open");
+  if (open) {
+    return { status: open.st, term: open.intake.term, intake: open.intake };
+  }
+
+  const soon = evaluated.filter((e) => e.st.state === "opening_soon");
+  if (soon.length > 0) {
+    return {
+      status: soon[0].st,
+      term: soon[0].intake.term,
+      intake: soon[0].intake,
+    };
+  }
+
+  return {
+    status: evaluated[0].st,
+    term: evaluated[0].intake.term,
+    intake: evaluated[0].intake,
   };
 }

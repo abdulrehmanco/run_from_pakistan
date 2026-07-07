@@ -1,19 +1,36 @@
 import type { MetadataRoute } from "next";
 import { getAllScholarships } from "@/lib/scholarships";
+import {
+  getActiveAdmissionCountries,
+  getAllPrograms,
+} from "@/lib/programs";
 import { SITE_URL } from "@/lib/site";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const home = {
-    url: SITE_URL,
-    changeFrequency: "weekly" as const,
-    priority: 1,
-  };
+  const weekly = "weekly" as const;
 
-  const details = getAllScholarships().map((s) => ({
+  const staticRoutes = [
+    { url: SITE_URL, changeFrequency: weekly, priority: 1 },
+    { url: `${SITE_URL}/admissions`, changeFrequency: weekly, priority: 0.9 },
+  ];
+
+  const scholarships = getAllScholarships().map((s) => ({
     url: `${SITE_URL}/scholarship/${s.id}`,
-    changeFrequency: "weekly" as const,
+    changeFrequency: weekly,
     priority: 0.8,
   }));
 
-  return [home, ...details];
+  const countryRoutes = getActiveAdmissionCountries().map((c) => ({
+    url: `${SITE_URL}/admissions/${c.country_slug}`,
+    changeFrequency: weekly,
+    priority: 0.8,
+  }));
+
+  const programs = getAllPrograms().map((p) => ({
+    url: `${SITE_URL}/admissions/${p.country_slug}/${p.id}`,
+    changeFrequency: weekly,
+    priority: 0.7,
+  }));
+
+  return [...staticRoutes, ...scholarships, ...countryRoutes, ...programs];
 }

@@ -1,6 +1,7 @@
 import assert from "node:assert";
-import { computeStatus } from "../lib/status";
+import { computeStatus, computeProgramStatus } from "../lib/status";
 import type { Scholarship } from "../types/scholarship";
+import type { Program } from "../types/program";
 
 type Dates = Scholarship["dates"];
 
@@ -151,6 +152,95 @@ check("no dates, no cycle → unknown", () => {
   });
   const st = computeStatus(s, new Date(2026, 6, 15));
   assert.strictEqual(st.state, "unknown");
+});
+
+// --- Program intake status ---
+
+type Intake = Program["intakes"][number];
+
+function makeProgram(intakes: Intake[]): Program {
+  return {
+    id: "test-prog",
+    university: "Test University",
+    university_type: "public_university",
+    program_name: "M.Sc. Testing",
+    degree: "MSc",
+    city: "Testburg",
+    state: "Test State",
+    country: "Germany",
+    country_code: "DE",
+    country_slug: "germany",
+    field_tags: ["CS"],
+    language: "English",
+    costs: { tuition_per_semester_eur: 0, semester_fee_eur: null, note: null },
+    intakes,
+    application: {
+      platform: "uni-assist",
+      vpd_required: false,
+      fee_note: null,
+      apply_url: null,
+    },
+    requirements: {
+      ielts: "required",
+      ielts_note: null,
+      gre: "not_required",
+      german_required: null,
+      aps_required: true,
+      background_note: null,
+    },
+    application_steps: [],
+    warnings: [],
+    program_url: "https://example.com",
+    last_verified: "2026-07-07",
+    verified: false,
+  };
+}
+
+function intake(opens: string, closes: string, term: Intake["term"]): Intake {
+  return {
+    term,
+    application_open: null,
+    application_deadline: null,
+    dates_confirmed: false,
+    typical_window: { opens, closes },
+    note: null,
+  };
+}
+
+// 9) program: open winter intake (today inside the window) → open, term winter
+check("program open winter intake → open (winter)", () => {
+  const p = makeProgram([intake("April", "July", "winter")]);
+  const ps = computeProgramStatus(p, new Date(2026, 5, 15)); // 15 Jun 2026
+  assert.strictEqual(ps.status.state, "open");
+  assert.strictEqual(ps.term, "winter");
+});
+
+// 10) program: wrap-around window Nov–Mar, today January → open
+check("program wrap-around window, January → open", () => {
+  const p = makeProgram([intake("November", "March", "winter")]);
+  const ps = computeProgramStatus(p, new Date(2026, 0, 15)); // 15 Jan 2026
+  assert.strictEqual(ps.status.state, "open");
+});
+
+// 11) program: both intakes closed → closed
+check("program both intakes closed → closed", () => {
+  const p = makeProgram([
+    intake("January", "February", "summer"),
+    intake("March", "April", "winter"),
+  ]);
+  const ps = computeProgramStatus(p, new Date(2026, 8, 15)); // 15 Sep 2026
+  assert.strictEqual(ps.status.state, "closed");
+});
+
+// 12) program: one closed + one opening-soon → opening_soon wins
+check("program picks opening_soon over closed", () => {
+  const p = makeProgram([
+    intake("January", "February", "summer"), // closed in July
+    intake("August", "November", "winter"), // opening soon in July
+  ]);
+  const ps = computeProgramStatus(p, new Date(2026, 6, 15)); // 15 Jul 2026
+  assert.strictEqual(ps.status.state, "opening_soon");
+  assert.strictEqual(ps.term, "winter");
 });
 
 console.log(`\nAll ${passed} status tests passed.`);

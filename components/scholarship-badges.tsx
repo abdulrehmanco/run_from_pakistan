@@ -9,7 +9,7 @@ const CHIP_GOOD = "border-[#BFDACB] text-[#145239]"; // good news (green family)
 const CHIP_FRICTION = "border-[#E9D6A8] text-[#8A5E14]"; // friction (amber family)
 const CHIP_NEUTRAL = "border-border text-muted-foreground";
 
-function Chip({
+export function Chip({
   tone,
   children,
 }: {

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { SITE_NAME, TAGLINE } from "@/lib/site";
+import { HeaderNav } from "@/components/header-nav";
 
 /**
  * Slim deep-emerald masthead. The site name is the page <h1> only on the
@@ -31,6 +32,8 @@ export function SiteHeader({ asH1 = false }: { asH1?: boolean }) {
         <p className="mt-4 max-w-xl text-sm text-primary-foreground/85 sm:text-base">
           {TAGLINE}
         </p>
+
+        <HeaderNav />
       </div>
     </header>
   );

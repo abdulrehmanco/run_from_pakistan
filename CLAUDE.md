@@ -81,8 +81,8 @@ numbering where order carries no meaning.
 - [x] 5 — Detail pages + SEO
 - [x] 6 — Polish / mobile / report-button
 - [ ] 7 — Deploy (user-led, Vercel CLI or manual GitHub) + README
-- [ ] 8 — University admissions: programs schema + Germany seed (data only)
-- [ ] 9 — Admissions UI
+- [x] 8 — University admissions: programs schema + Germany seed (data only)
+- [x] 9 — Admissions UI
 - [ ] Country data patches: Austria/Czechia/Poland → Italy/France →
       Nordics/Netherlands (with honest fees)
 
