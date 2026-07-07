@@ -18,9 +18,11 @@ official page and shows a last_verified date so students can trust the info.
 - NEVER invent or guess real deadlines. Any placeholder data must set
   `"verified": false`.
 - All UI copy is in plain, simple English: short sentences, no jargon.
-- GitHub is OFF-LIMITS. Never run `git push`, `git remote add`, the `gh` CLI,
-  or anything that contacts GitHub or any remote. Local git commits only. The
-  user handles GitHub personally at the very end.
+- The repo now has a GitHub remote, but Claude Code still NEVER runs
+  `git push`, `git remote add`, the `gh` CLI, or anything that contacts GitHub
+  or any remote. Local git commits only — the user pushes.
+- Refresh pipeline PRs must never be merged without opening the official link —
+  the PR proposes, the human approves.
 
 ## Design language
 

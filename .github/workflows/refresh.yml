@@ -1,0 +1,56 @@
+name: Weekly data refresh
+
+# Proposes date updates as a pull request. It never pushes to main directly —
+# the PR proposes, a human opens each official link and approves.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1" # Mondays 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Refresh data (fail-soft)
+        run: npm run refresh-data
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Validate + build
+        run: |
+          npm run validate-data
+          npm run build
+
+      - name: Compute date
+        id: date
+        run: echo "date=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Open pull request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: data-refresh
+          base: main
+          title: "Weekly data refresh — ${{ steps.date.outputs.date }}"
+          body-path: refresh-summary.md
+          commit-message: "Weekly data refresh"
+          delete-branch: true
+          add-paths: |
+            data/scholarships.json
+            data/programs.json

@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# refresh pipeline (summary is used as the PR body, not committed)
+/refresh-summary.md
+
 # debug
 npm-debug.log*
 yarn-debug.log*
