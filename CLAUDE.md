@@ -41,7 +41,7 @@ this section.**
 components):
 - `--background #FBFAF7` ivory · `--card #FFFFFF` · `--foreground #1F1D1A` ink
 - `--muted-foreground #514D45` (≈8:1 on ivory) · `--border #E6E3DB` hairline
-- `--primary #067A5B` emerald (masthead + CTAs) · `--primary-foreground #FFFFFF` · `--ring #067A5B`
+- `--primary #054D3A` deep emerald (masthead + CTAs) · `--primary-foreground #FFFFFF` · `--ring #054D3A`
 - `--gold #B8892D` (utility `text-gold`/`border-gold`) — sparingly: active count,
   small rules, link-hover underlines
 - `--urgent #A63B1F` — countdown when `daysLeft <= 14`
