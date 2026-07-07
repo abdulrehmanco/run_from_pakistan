@@ -3290,5 +3290,680 @@
       "You usually need an acceptance letter from a Mexican university first.",
       "Check the eligible-country list each year."
     ]
+  },
+  {
+    "id": "eth-zurich-esop",
+    "name": "ETH Zurich Excellence Scholarship (ESOP)",
+    "provider": "ETH Zurich",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "cities": ["Zurich"],
+    "universities": ["ETH Zurich"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a stipend of about CHF 12,000 per semester",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Full tuition waiver", "Living stipend for the master's"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "December" },
+      "cycle_note": "You apply to an ETH master's program and choose the scholarship. The master's deadline is usually mid-December."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually required for admission.",
+      "application_fee": {
+        "amount": 150,
+        "currency": "CHF",
+        "note": "ETH charges a master's application fee."
+      },
+      "admission_required_first": false,
+      "admission_note": "You apply to an ETH master's and the scholarship together. Only admitted students are considered.",
+      "unusual_documents": ["Motivation letter for the scholarship", "Two references"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Motivation letter",
+      "Two reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Choose an ETH master's program.",
+      "2. Apply to it and select the ESOP scholarship.",
+      "3. Submit before the master's deadline.",
+      "4. Wait for the decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A very strong academic record (top of your class).",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://ethz.ch",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Only for students admitted to an ETH master's.",
+      "The master's deadline is usually mid-December.",
+      "Very competitive.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "epfl-excellence-fellowships",
+    "name": "EPFL Excellence Fellowships",
+    "provider": "EPFL (École Polytechnique Fédérale de Lausanne)",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "cities": ["Lausanne"],
+    "universities": ["EPFL"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, about CHF 16,000 per year (full or half awards)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Living stipend for the master's (full or half)"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "April" },
+      "cycle_note": "You are considered when you apply to an EPFL master's. Deadlines are usually mid-December and mid-April."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually needed. Check the program.",
+      "application_fee": {
+        "amount": 50,
+        "currency": "CHF",
+        "note": "EPFL charges a master's application fee."
+      },
+      "admission_required_first": true,
+      "admission_note": "No separate application. You are considered when you apply to an EPFL master's.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Motivation letter",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Choose an EPFL master's program.",
+      "2. Apply to it by the deadline.",
+      "3. You are considered for the fellowship automatically.",
+      "4. Wait for the decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A very strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.epfl.ch",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "No separate application — you apply to an EPFL master's and are considered automatically.",
+      "It is a stipend and may be full or half. Tuition is separate.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "kaist-international-scholarship",
+    "name": "KAIST International Student Scholarship",
+    "provider": "KAIST (Korea Advanced Institute of Science and Technology)",
+    "country": "South Korea",
+    "country_code": "KR",
+    "cities": ["Daejeon"],
+    "universities": ["KAIST"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["Science and engineering"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": ["Full tuition", "Monthly stipend", "Health insurance support"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "March", "closes": "May" },
+      "cycle_note": "There are usually two intakes (spring and fall), each with a window a few months before. Check the current deadline."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof may be required unless your degree was in English.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Funded admission — admitted international students usually get tuition and a stipend.",
+      "unusual_documents": ["Study or research plan", "Reference letters"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Study or research plan",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Choose a KAIST graduate program.",
+      "2. Prepare your study or research plan.",
+      "3. Apply online before the deadline.",
+      "4. Wait for the funded-admission decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.kaist.ac.kr",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Two intakes a year. Check the current deadline.",
+      "KAIST may charge an application fee. Check first.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "nus-research-scholarship",
+    "name": "NUS Research Scholarship",
+    "provider": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cities": ["Singapore"],
+    "universities": ["National University of Singapore"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about S$2,000–2,700)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Tuition", "Monthly stipend"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "January" },
+      "cycle_note": "There are usually two intakes (August and January), each with a window a few months before. Check the current deadline."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is usually required unless your degree was in English.",
+      "application_fee": {
+        "amount": 100,
+        "currency": "SGD",
+        "note": "NUS charges a graduate application fee."
+      },
+      "admission_required_first": false,
+      "admission_note": "For research programs. You usually need a supervisor or research fit.",
+      "unusual_documents": ["A research proposal", "Two referee reports"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Two referee reports",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Find a research area and possible supervisor.",
+      "2. Prepare your research proposal.",
+      "3. Apply online during the intake window.",
+      "4. Wait for the decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://nus.edu.sg",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "For research-based programs.",
+      "Two intakes a year. Check the current deadline.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "ntu-research-scholarship",
+    "name": "NTU Research Scholarship",
+    "provider": "Nanyang Technological University (NTU)",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cities": ["Singapore"],
+    "universities": ["Nanyang Technological University"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about S$2,000–2,700)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Tuition", "Monthly stipend"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "January" },
+      "cycle_note": "There are usually two intakes (August and January), each with a window a few months before. Check the current deadline."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is usually required unless your degree was in English.",
+      "application_fee": {
+        "amount": 50,
+        "currency": "SGD",
+        "note": "NTU charges a graduate application fee."
+      },
+      "admission_required_first": false,
+      "admission_note": "For research programs. You usually need a supervisor or research fit.",
+      "unusual_documents": ["A research proposal", "Two referee reports"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Two referee reports",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Find a research area and possible supervisor.",
+      "2. Prepare your research proposal.",
+      "3. Apply online during the intake window.",
+      "4. Wait for the decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.ntu.edu.sg",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "For research-based programs.",
+      "Two intakes a year. Check the current deadline.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "commonwealth-shared-scholarships",
+    "name": "Commonwealth Shared Scholarships",
+    "provider": "Commonwealth Scholarship Commission (UK) and UK universities",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly living allowance",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": ["Return airfare", "Tuition", "Living allowance"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "February" },
+      "cycle_note": "You apply through a participating UK university for selected courses. Deadlines are usually between December and February."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually required for admission.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply through a participating UK university for a selected course.",
+      "unusual_documents": [
+        "You must apply for a specific course at a participating university",
+        "A development-focused statement"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "A development-focused statement",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Find a participating UK university and eligible course.",
+      "2. Apply for the course and the shared scholarship.",
+      "3. Submit before the deadline.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good bachelor's degree.",
+      "work_experience": null,
+      "other": [
+        "For students from low- and middle-income Commonwealth countries who could not otherwise study in the UK. Pakistan is eligible."
+      ]
+    },
+    "official_url": "https://cscuk.fcdo.gov.uk",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Only for selected courses at participating UK universities.",
+      "For students who could not otherwise afford UK study.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "rotary-peace-fellowship",
+    "name": "Rotary Peace Fellowship",
+    "provider": "Rotary Foundation",
+    "country": "Multiple countries",
+    "country_code": "XX",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["Peace and development studies"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, room, board, and a living stipend",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Tuition and fees",
+        "Room and board",
+        "Airfare",
+        "Field study expenses"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "February", "closes": "May" },
+      "cycle_note": "You apply through a local Rotary district first. Global deadlines are usually around the middle of the year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually required.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You need endorsement from a local Rotary district.",
+      "unusual_documents": [
+        "Endorsement from a local Rotary district",
+        "Proof of peace or development work experience"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of relevant work experience",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Contact a local Rotary district for endorsement.",
+      "2. Prepare your application and work history.",
+      "3. Submit before the deadline.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good bachelor's degree.",
+      "work_experience": "Usually several years of relevant work in peace or development.",
+      "other": ["You apply through a local Rotary district."]
+    },
+    "official_url": "https://www.rotary.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You must be endorsed by a local Rotary district.",
+      "You need relevant work experience in peace or development.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "aauw-international-fellowships",
+    "name": "AAUW International Fellowships",
+    "provider": "American Association of University Women (AAUW)",
+    "country": "United States",
+    "country_code": "US",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, a fixed grant (about US$20,000 master's, US$25,000 PhD)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["A fixed fellowship grant toward study costs"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "August", "closes": "November" },
+      "cycle_note": "Usually opens around August and closes around mid-November. Dates change each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (TOEFL) is usually required.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "You must be admitted to or enrolled at a US institution.",
+      "unusual_documents": [
+        "Only women are eligible",
+        "Proof of US admission or enrollment"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of US admission or enrollment",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Check you meet the rules (women who are not US citizens).",
+      "2. Arrange US admission or enrollment.",
+      "3. Apply online during the window.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": [
+        "Only women are eligible.",
+        "Not for US citizens or permanent residents."
+      ]
+    },
+    "official_url": "https://www.aauw.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Only women are eligible.",
+      "It is a fixed grant, not always full funding.",
+      "You usually need US admission first.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "weidenfeld-hoffmann-oxford",
+    "name": "Weidenfeld-Hoffmann Scholarships",
+    "provider": "Weidenfeld-Hoffmann Trust and University of Oxford",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cities": ["Oxford"],
+    "universities": ["University of Oxford"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a living grant",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Full Oxford tuition and college fees",
+        "Living grant",
+        "Leadership program"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "January" },
+      "cycle_note": "You apply to an eligible Oxford course and submit the scholarship application, usually by January. Confirm the current date."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "Oxford needs proof of English. Some applicants qualify for a waiver.",
+      "application_fee": {
+        "amount": 75,
+        "currency": "GBP",
+        "note": "Oxford charges a course application fee."
+      },
+      "admission_required_first": true,
+      "admission_note": "You apply to an eligible Oxford course and also submit a separate scholarship application.",
+      "unusual_documents": [
+        "A separate leadership and scholarship application",
+        "Proof you are from an eligible country"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Scholarship and leadership application",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Check you are from an eligible country.",
+      "2. Apply to an eligible Oxford course.",
+      "3. Submit the separate scholarship application by January.",
+      "4. Wait for the decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": [
+        "For people from selected developing and transition countries. Pakistan is eligible."
+      ]
+    },
+    "official_url": "https://www.whtrust.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Only for selected countries. Pakistan is usually eligible.",
+      "You must apply to an Oxford course and submit a separate scholarship application by January.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "melbourne-graduate-research-scholarship",
+    "name": "Melbourne Graduate Research Scholarship",
+    "provider": "University of Melbourne",
+    "country": "Australia",
+    "country_code": "AU",
+    "cities": ["Melbourne"],
+    "universities": ["University of Melbourne"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a living stipend (about A$37,000 per year)",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": [
+        "Full tuition",
+        "Living stipend",
+        "Relocation grant",
+        "Overseas student health cover"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "August", "closes": "October" },
+      "cycle_note": "You are considered automatically when you apply to a graduate research course. International deadlines are usually around October. Confirm the current date."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is required.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "No separate application. You are considered when you apply to a graduate research course.",
+      "unusual_documents": ["A research proposal and a supervisor"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Find a research area and a supervisor.",
+      "2. Apply to a graduate research course by the deadline.",
+      "3. You are considered for the scholarship automatically.",
+      "4. Wait for the decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.unimelb.edu.au",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "No separate application — you apply to a graduate research course and are considered automatically.",
+      "For research programs. You usually need a supervisor.",
+      "Dates change every year."
+    ]
   }
 ]
