@@ -9,6 +9,8 @@ import type { Scholarship } from "@/types/scholarship";
 import { SITE_NAME, SITE_URL, CONTACT_EMAIL } from "@/lib/site";
 import { flagEmoji, formatISODate } from "@/lib/format";
 import { StatusIsland } from "@/components/status-island";
+import { SiteHeader } from "@/components/site-header";
+import { Callout } from "@/components/callout";
 import {
   FundingBadge,
   DegreeChips,
@@ -86,7 +88,9 @@ function Section({
 }) {
   return (
     <section className="flex flex-col gap-3">
-      <h2 className="text-lg font-semibold">{title}</h2>
+      <h2 className="border-b border-border pb-2 font-display text-xl font-semibold">
+        {title}
+      </h2>
       {children}
     </section>
   );
@@ -139,26 +143,25 @@ export default async function ScholarshipDetailPage({ params }: Params) {
 
   return (
     <div className="flex flex-1 flex-col">
-      <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-6">
+      <SiteHeader />
+
+      <main className="mx-auto w-full max-w-3xl flex-1 px-4 py-8 sm:py-10">
         <Link
           href="/"
-          className="text-sm text-muted-foreground hover:text-foreground"
+          className="rounded-sm font-mono text-xs tracking-[0.04em] text-muted-foreground uppercase transition-colors hover:text-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
         >
           ← Back to all scholarships
         </Link>
 
         {/* a) Header */}
-        <header className="mt-4 flex flex-col gap-3">
-          <span className="text-sm text-muted-foreground">
-            <span aria-hidden className="mr-1 text-base">
-              {flagEmoji(s.country_code)}
-            </span>
-            {s.country}
-          </span>
-          <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
+        <header className="mt-5 flex flex-col gap-3">
+          <p className="font-mono text-[11px] tracking-[0.12em] text-muted-foreground uppercase">
+            <span aria-hidden>{flagEmoji(s.country_code)}</span> {s.country} ·{" "}
+            {s.provider}
+          </p>
+          <h1 className="font-display text-3xl font-semibold tracking-tight sm:text-4xl">
             {s.name}
           </h1>
-          <p className="text-muted-foreground">{s.provider}</p>
           <div className="flex flex-wrap gap-1.5">
             <FundingBadge fundingType={s.funding_type} />
             <DegreeChips levels={s.degree_levels} />
@@ -166,25 +169,24 @@ export default async function ScholarshipDetailPage({ params }: Params) {
           <StatusIsland scholarship={s} />
         </header>
 
-        <div className="mt-6 flex flex-col gap-8">
+        <div className="mt-8 flex max-w-prose flex-col gap-8">
           {/* b) Unverified callout */}
           {!s.verified && (
-            <div className="rounded-lg border border-amber-300 bg-amber-50 p-4 text-sm text-amber-900">
+            <Callout tone="note">
               This entry hasn&apos;t been human-verified yet. Always confirm
               details on the official page.
-            </div>
+            </Callout>
           )}
 
           {/* c) Heads up (warnings) */}
           {s.warnings.length > 0 && (
-            <div className="rounded-lg border border-amber-300 bg-amber-50 p-4">
-              <p className="text-sm font-semibold text-amber-900">Heads up</p>
-              <ul className="mt-2 list-disc pl-5 text-sm text-amber-900">
+            <Callout tone="warn" title="Heads up">
+              <ul className="list-disc pl-5">
                 {s.warnings.map((w) => (
                   <li key={w}>{w}</li>
                 ))}
               </ul>
-            </div>
+            </Callout>
           )}
 
           {/* d) Blockers at a glance */}
@@ -275,13 +277,17 @@ export default async function ScholarshipDetailPage({ params }: Params) {
                 {s.dates.application_open && (
                   <li>
                     <span className="font-medium">Opens:</span>{" "}
-                    {formatISODate(s.dates.application_open)}
+                    <span className="font-mono tabular-nums">
+                      {formatISODate(s.dates.application_open)}
+                    </span>
                   </li>
                 )}
                 {s.dates.application_deadline && (
                   <li>
                     <span className="font-medium">Deadline:</span>{" "}
-                    {formatISODate(s.dates.application_deadline)}
+                    <span className="font-mono tabular-nums">
+                      {formatISODate(s.dates.application_deadline)}
+                    </span>
                   </li>
                 )}
               </ul>
@@ -328,7 +334,7 @@ export default async function ScholarshipDetailPage({ params }: Params) {
                 rel="noopener noreferrer"
                 className={cn(
                   buttonVariants({ variant: "outline", size: "lg" }),
-                  "w-full sm:w-auto",
+                  "w-full border-primary text-primary hover:bg-primary/5 sm:w-auto",
                 )}
               >
                 Application portal ↗
@@ -340,10 +346,18 @@ export default async function ScholarshipDetailPage({ params }: Params) {
 
           {/* k) Last checked + report link */}
           <div className="flex flex-col gap-1 text-sm text-muted-foreground">
-            <p>Last checked: {formatISODate(s.last_verified)}</p>
+            <p>
+              Last checked:{" "}
+              <span className="font-mono tabular-nums">
+                {formatISODate(s.last_verified)}
+              </span>
+            </p>
             <p>
               Spotted outdated info?{" "}
-              <a href={mailto} className="underline hover:text-foreground">
+              <a
+                href={mailto}
+                className="text-primary underline-offset-4 hover:underline"
+              >
                 Email us
               </a>
             </p>

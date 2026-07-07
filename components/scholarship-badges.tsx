@@ -1,21 +1,39 @@
 import type { Scholarship } from "@/types/scholarship";
-import { Badge } from "@/components/ui/badge";
+import { cn } from "@/lib/utils";
 
-export const GREEN_BADGE = "border-green-600 text-green-700";
-export const AMBER_BADGE = "border-amber-500 text-amber-700";
+// Quiet outlined chips: transparent bg, 1px tinted border, tinted text.
+// Centralized here — the one place chip colors live.
+const CHIP_BASE =
+  "inline-flex items-center rounded-md border bg-transparent px-2 py-0.5 text-xs font-medium";
+const CHIP_GOOD = "border-[#BFDACB] text-[#145239]"; // good news (green family)
+const CHIP_FRICTION = "border-[#E9D6A8] text-[#8A5E14]"; // friction (amber family)
+const CHIP_NEUTRAL = "border-border text-muted-foreground";
+
+function Chip({
+  tone,
+  children,
+}: {
+  tone: "good" | "friction" | "neutral";
+  children: React.ReactNode;
+}) {
+  const toneClass =
+    tone === "good"
+      ? CHIP_GOOD
+      : tone === "friction"
+        ? CHIP_FRICTION
+        : CHIP_NEUTRAL;
+  return <span className={cn(CHIP_BASE, toneClass)}>{children}</span>;
+}
 
 export function FundingBadge({
   fundingType,
 }: {
   fundingType: Scholarship["funding_type"];
 }) {
-  return (
-    <Badge
-      variant="outline"
-      className={fundingType === "full" ? GREEN_BADGE : AMBER_BADGE}
-    >
-      {fundingType === "full" ? "Fully funded" : "Partial funding"}
-    </Badge>
+  return fundingType === "full" ? (
+    <Chip tone="good">Fully funded</Chip>
+  ) : (
+    <Chip tone="friction">Partial funding</Chip>
   );
 }
 
@@ -27,15 +45,15 @@ export function DegreeChips({
   return (
     <>
       {levels.map((level) => (
-        <Badge key={level} variant="secondary">
+        <Chip key={level} tone="neutral">
           {level}
-        </Badge>
+        </Chip>
       ))}
     </>
   );
 }
 
-/** IELTS / fee / admission badges — same visual language on cards and detail. */
+/** IELTS / fee / admission chips — same visual language on cards and detail. */
 export function BlockerBadges({
   blockers,
 }: {
@@ -44,37 +62,21 @@ export function BlockerBadges({
   const fee = blockers.application_fee;
   return (
     <>
-      {blockers.ielts === "not_required" && (
-        <Badge variant="outline" className={GREEN_BADGE}>
-          No IELTS
-        </Badge>
-      )}
-      {blockers.ielts === "moi_accepted" && (
-        <Badge variant="outline" className={GREEN_BADGE}>
-          MOI accepted
-        </Badge>
-      )}
+      {blockers.ielts === "not_required" && <Chip tone="good">No IELTS</Chip>}
+      {blockers.ielts === "moi_accepted" && <Chip tone="good">MOI accepted</Chip>}
       {blockers.ielts === "required" && (
-        <Badge variant="outline" className={AMBER_BADGE}>
-          IELTS required
-        </Badge>
+        <Chip tone="friction">IELTS required</Chip>
       )}
-      {blockers.ielts === "varies" && (
-        <Badge variant="secondary">IELTS varies</Badge>
-      )}
+      {blockers.ielts === "varies" && <Chip tone="neutral">IELTS varies</Chip>}
       {fee === null ? (
-        <Badge variant="outline" className={GREEN_BADGE}>
-          Free to apply
-        </Badge>
+        <Chip tone="good">Free to apply</Chip>
       ) : (
-        <Badge variant="outline" className={AMBER_BADGE}>
+        <Chip tone="friction">
           Fee: {fee.amount} {fee.currency}
-        </Badge>
+        </Chip>
       )}
       {blockers.admission_required_first && (
-        <Badge variant="outline" className={AMBER_BADGE}>
-          Admission first
-        </Badge>
+        <Chip tone="friction">Admission first</Chip>
       )}
     </>
   );

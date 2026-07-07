@@ -14,6 +14,9 @@ import { Separator } from "@/components/ui/separator";
 import { buttonVariants } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 
+const OVERLINE =
+  "font-mono text-[11px] tracking-[0.12em] text-muted-foreground uppercase";
+
 const STATUS_LABELS: Record<StatusFilter | "all", string> = {
   all: "All statuses",
   open: "Open",
@@ -50,10 +53,10 @@ export function FilterPanel({
   }
 
   return (
-    <div className="flex flex-col gap-5 rounded-lg border p-4">
+    <div className="flex flex-col gap-6">
       {/* Country */}
       <div className="flex flex-col gap-2">
-        <span className="text-sm font-medium">Country</span>
+        <span className={OVERLINE}>Country</span>
         <Select
           value={criteria.country ?? "all"}
           onValueChange={(v) =>
@@ -78,7 +81,7 @@ export function FilterPanel({
 
       {/* Degree level */}
       <div className="flex flex-col gap-2">
-        <span className="text-sm font-medium">Degree level</span>
+        <span className={OVERLINE}>Degree level</span>
         <div className="flex gap-1.5">
           {DEGREE_LEVELS.map((d) => {
             const active = criteria.degrees.includes(d);
@@ -105,7 +108,7 @@ export function FilterPanel({
 
       {/* Status */}
       <div className="flex flex-col gap-2">
-        <span className="text-sm font-medium">Status</span>
+        <span className={OVERLINE}>Status</span>
         <Select
           value={criteria.status ?? "all"}
           onValueChange={(v) =>
@@ -147,16 +150,13 @@ export function FilterPanel({
       </div>
 
       {isFilterActive(criteria) && (
-        <>
-          <Separator />
-          <button
-            type="button"
-            onClick={onClear}
-            className={cn(buttonVariants({ variant: "ghost", size: "sm" }))}
-          >
-            Clear all
-          </button>
-        </>
+        <button
+          type="button"
+          onClick={onClear}
+          className="w-fit rounded-sm text-sm font-medium text-muted-foreground underline-offset-4 transition-colors duration-150 ease-out hover:text-foreground hover:underline hover:decoration-gold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+        >
+          Clear all
+        </button>
       )}
     </div>
   );

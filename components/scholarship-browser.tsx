@@ -32,6 +32,9 @@ const SORT_LABELS: Record<SortKey, string> = {
   country: "Country A–Z",
 };
 
+const SORT_OVERLINE =
+  "font-mono text-[11px] tracking-[0.12em] text-muted-foreground uppercase";
+
 export function ScholarshipBrowser({
   scholarships,
   countries,
@@ -87,7 +90,7 @@ export function ScholarshipBrowser({
   );
 
   return (
-    <div className="flex flex-col gap-4">
+    <div className="flex flex-col gap-8">
       {/* Search */}
       <Input
         type="search"
@@ -97,14 +100,14 @@ export function ScholarshipBrowser({
         aria-label="Search scholarships"
       />
 
-      <div className="lg:flex lg:gap-6">
+      <div className="lg:flex lg:gap-10">
         {/* Sidebar (desktop) */}
-        <aside className="hidden shrink-0 lg:block lg:w-[260px]">{panel}</aside>
+        <aside className="hidden shrink-0 lg:block lg:w-[240px]">{panel}</aside>
 
         {/* Main column */}
         <div className="min-w-0 flex-1">
           {/* Filters toggle (mobile) */}
-          <div className="mb-4 lg:hidden">
+          <div className="mb-6 lg:hidden">
             <button
               type="button"
               onClick={() => setMobileOpen((o) => !o)}
@@ -112,18 +115,24 @@ export function ScholarshipBrowser({
               className={cn(buttonVariants({ variant: "outline" }), "w-full")}
             >
               {mobileOpen ? "Hide filters" : "Filters"}
-              {activeCount > 0 ? ` (${activeCount} active)` : ""}
+              {activeCount > 0 ? (
+                <span className="ml-1 font-medium text-primary">
+                  ({activeCount})
+                </span>
+              ) : (
+                ""
+              )}
             </button>
-            {mobileOpen && <div className="mt-3">{panel}</div>}
+            {mobileOpen && <div className="mt-4">{panel}</div>}
           </div>
 
           {/* Count + sort */}
-          <div className="mb-4 flex flex-wrap items-center justify-between gap-2">
-            <p className="text-sm text-muted-foreground">
+          <div className="mb-6 flex flex-wrap items-center justify-between gap-2">
+            <p className="font-mono text-xs tracking-[0.04em] text-muted-foreground uppercase">
               Showing {results.length} of {scholarships.length} scholarships
             </p>
             <div className="flex items-center gap-2">
-              <span className="text-sm text-muted-foreground">Sort:</span>
+              <span className={SORT_OVERLINE}>Sort</span>
               <Select
                 value={criteria.sort}
                 onValueChange={(v) => update({ sort: v as SortKey })}
@@ -144,7 +153,7 @@ export function ScholarshipBrowser({
 
           {/* Grid or empty state */}
           {results.length === 0 ? (
-            <div className="rounded-lg border border-dashed p-8 text-center">
+            <div className="rounded-lg border border-dashed p-10 text-center">
               <p className="text-sm text-muted-foreground">
                 Nothing matches these filters. Deadlines change through the year
                 — try clearing a filter.
@@ -158,7 +167,7 @@ export function ScholarshipBrowser({
               </button>
             </div>
           ) : (
-            <div className="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
+            <div className="grid grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-3">
               {results.map(({ s, status }) => (
                 <ScholarshipCard key={s.id} scholarship={s} status={status} />
               ))}

@@ -22,6 +22,55 @@ official page and shows a last_verified date so students can trust the info.
   or anything that contacts GitHub or any remote. Local git commits only. The
   user handles GitHub personally at the very end.
 
+## Design language
+
+Theme: **"quiet academic, departures-board"** — calm, typographic, trustworthy.
+One bold move (deep-green masthead + mono dates); everything else disciplined.
+**All future UI must use these tokens — no new colors or fonts without updating
+this section.**
+
+**Fonts** (via `next/font/google`, self-hosted at build, wired in `globals.css`
+`@theme`):
+- `font-display` — **Newsreader** (500, 600): h1s, scholarship names, section
+  headings.
+- `font-sans` — **Albert Sans** (400, 500, 600): body / everything else (default).
+- `font-mono` — **Spline Sans Mono** (400, 500): ALL dates, deadlines,
+  countdowns, and overline labels. Use `tabular-nums` for figures.
+
+**Color tokens** (defined in `app/globals.css` `:root`; never hardcode hex in
+components):
+- `--background #FBFAF7` ivory · `--card #FFFFFF` · `--foreground #1F1D1A` ink
+- `--muted-foreground #6C675E` · `--border #E6E3DB` hairline
+- `--primary #175243` deep green · `--primary-foreground #FFFFFF` · `--ring #175243`
+- `--gold #B8892D` (utility `text-gold`/`border-gold`) — sparingly: active count,
+  small rules, link-hover underlines
+- `--urgent #A63B1F` — countdown when `daysLeft <= 14`
+
+**Status colors** live in ONE map: `STATUS_STYLES` (+ `STATUS_STRIP`) in
+`components/status-view.tsx`, imported by both cards and detail pages. Chip
+color families live in `components/scholarship-badges.tsx`; callout tints in
+`components/callout.tsx`. These three files are the only places status/chip/
+callout color literals may appear.
+- open → bg `#E6F1EA` / text `#145239` / border `#BFDACB`
+- opening_soon → bg `#FAF1DC` / text `#8A5E14` / border `#E9D6A8`
+- closed/unknown → bg `#F0EEE8` / text `#6C675E` / border `#E0DCD1`
+- Status is never conveyed by color alone — text labels always accompany it.
+
+**Feel**: `max-w-6xl`; generous vertical rhythm; `leading-relaxed`; hairline
+borders not drop-shadows (shadow only as a whisper on card hover); radius
+`rounded-md`/`lg` max (only small chips are more rounded — nothing pill-huge);
+soft-green `::selection`; visible `focus-visible` rings; 150–200ms ease-out
+transitions on interactive elements only, all wrapped in a
+`prefers-reduced-motion` guard.
+
+**Forbidden** (AI-template tells): purple/indigo/violet; any gradient;
+glassmorphism / backdrop-blur; neon or saturated SaaS blue; the cream +
+terracotta/coral "warm AI" palette (`#D97757`); black-bg + acid-green; emoji as
+decoration (flag emojis as data are fine); ✨/🚀; stock illustrations; heavy
+stacked shadows; animated background blobs; ALL-CAPS shouting buttons (mono
+uppercase overlines are labels — the one exception); decorative 01/02/03
+numbering where order carries no meaning.
+
 ## Phase roadmap
 
 - [x] 1 — Scaffold

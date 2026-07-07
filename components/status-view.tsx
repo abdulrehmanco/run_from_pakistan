@@ -1,15 +1,30 @@
 import type { Status } from "@/lib/status";
-import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
 
+/**
+ * The single source of truth for status colors — imported by both cards and
+ * detail pages. These per-status tints are the ONE allowed place for status
+ * color literals (see CLAUDE.md "Design language").
+ */
 export const STATUS_STYLES: Record<Status["state"], string> = {
-  open: "border-transparent bg-green-600 text-white",
-  opening_soon: "border-transparent bg-amber-500 text-white",
-  closed: "border-transparent bg-gray-200 text-gray-700",
-  unknown: "border-transparent bg-gray-200 text-gray-700",
+  open: "border-[#BFDACB] bg-[#E6F1EA] text-[#145239]",
+  opening_soon: "border-[#E9D6A8] bg-[#FAF1DC] text-[#8A5E14]",
+  closed: "border-[#E0DCD1] bg-[#F0EEE8] text-[#6C675E]",
+  unknown: "border-[#E0DCD1] bg-[#F0EEE8] text-[#6C675E]",
 };
 
-/** The colored status pill. Appends "(est.)" when the status is estimated. */
+/** 3px top accent strip color per status. */
+export const STATUS_STRIP: Record<Status["state"], string> = {
+  open: "bg-[#175243]",
+  opening_soon: "bg-[#B8892D]",
+  closed: "bg-[#DAD5C8]",
+  unknown: "bg-[#DAD5C8]",
+};
+
+/** Urgent countdown (<= 14 days). */
+const URGENT_TAG = "border-[#A63B1F] bg-transparent text-[#A63B1F] font-semibold";
+
+/** The status pill — a mono, uppercase gate-tag. Appends "(est.)" when estimated. */
 export function StatusBadge({
   status,
   className,
@@ -19,32 +34,39 @@ export function StatusBadge({
 }) {
   const label = status.headline + (status.estimated ? " (est.)" : "");
   return (
-    <Badge className={cn("shrink-0", STATUS_STYLES[status.state], className)}>
+    <span
+      className={cn(
+        "inline-flex shrink-0 items-center rounded-md border px-2 py-0.5 font-mono text-[10px] font-medium tracking-[0.1em] uppercase",
+        STATUS_STYLES[status.state],
+        className,
+      )}
+    >
       {label}
-    </Badge>
+    </span>
   );
 }
 
-/** One line under the badge: countdown when a confirmed deadline exists, else the sub text. */
+/**
+ * One line under the badge: a boarding-gate countdown tag when a confirmed
+ * deadline exists (urgent color when <= 14 days), else the sub text in mono.
+ */
 export function StatusLine({ status }: { status: Status }) {
+  if (status.daysLeft !== null) {
+    const urgent = status.daysLeft <= 14;
+    return (
+      <span
+        className={cn(
+          "inline-flex w-fit items-center rounded-md border px-2 py-0.5 font-mono text-xs tabular-nums",
+          urgent ? URGENT_TAG : STATUS_STYLES[status.state],
+        )}
+      >
+        {status.daysLeft} {status.daysLeft === 1 ? "day" : "days"} left
+      </span>
+    );
+  }
   return (
-    <p className="text-sm">
-      {status.daysLeft !== null ? (
-        <span
-          className={cn(
-            "font-medium",
-            status.daysLeft <= 14 ? "text-red-600" : "text-foreground",
-          )}
-        >
-          {status.daysLeft} {status.daysLeft === 1 ? "day" : "days"} left
-        </span>
-      ) : status.sub ? (
-        <span className="text-muted-foreground">{status.sub}</span>
-      ) : (
-        <span className="text-muted-foreground">
-          Check the official site for dates.
-        </span>
-      )}
+    <p className="font-mono text-xs text-muted-foreground">
+      {status.sub ?? "Check the official site for dates."}
     </p>
   );
 }
