@@ -8,6 +8,7 @@ import { Separator } from "@/components/ui/separator";
 import { buttonVariants } from "@/components/ui/button";
 import { StatusBadge, StatusLine, STATUS_STRIP } from "@/components/status-view";
 import { ProgramBadges } from "@/components/program-badges";
+import { VerifiedChip } from "@/components/scholarship-badges";
 import { flagEmoji, formatIntakeLine } from "@/lib/format";
 import { cn } from "@/lib/utils";
 
@@ -68,7 +69,9 @@ export function ProgramCard({
 
           <div className="mt-auto flex flex-col gap-2">
             <Separator />
-            {!p.verified && (
+            {p.verified ? (
+              <VerifiedChip isoDate={p.last_verified} />
+            ) : (
               <p className="font-mono text-[11px] tracking-[0.04em] text-muted-foreground">
                 unverified — confirm officially
               </p>

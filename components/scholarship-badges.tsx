@@ -1,4 +1,5 @@
 import type { Scholarship } from "@/types/scholarship";
+import { formatDayMonth } from "@/lib/format";
 import { cn } from "@/lib/utils";
 
 // Quiet outlined chips: transparent bg, 1px tinted border, tinted text.
@@ -23,6 +24,15 @@ export function Chip({
         ? CHIP_FRICTION
         : CHIP_NEUTRAL;
   return <span className={cn(CHIP_BASE, toneClass)}>{children}</span>;
+}
+
+/** Green "checked" chip shown when a record has been human-verified. */
+export function VerifiedChip({ isoDate }: { isoDate: string }) {
+  return (
+    <span className="inline-flex w-fit items-center gap-1 rounded-md border border-[#6EE7B7] bg-[#D1FAE5] px-2 py-0.5 font-mono text-[11px] tracking-[0.04em] text-[#065F46]">
+      <span aria-hidden>✓</span> Checked {formatDayMonth(isoDate)}
+    </span>
+  );
 }
 
 export function FundingBadge({

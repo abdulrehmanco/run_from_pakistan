@@ -11,6 +11,7 @@ import {
   FundingBadge,
   DegreeChips,
   BlockerBadges,
+  VerifiedChip,
 } from "@/components/scholarship-badges";
 import { flagEmoji } from "@/lib/format";
 import { cn } from "@/lib/utils";
@@ -69,7 +70,9 @@ export function ScholarshipCard({
 
           <div className="mt-auto flex flex-col gap-2">
             <Separator />
-            {!s.verified && (
+            {s.verified ? (
+              <VerifiedChip isoDate={s.last_verified} />
+            ) : (
               <p className="font-mono text-[11px] tracking-[0.04em] text-muted-foreground">
                 unverified — confirm officially
               </p>

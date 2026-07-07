@@ -7,7 +7,13 @@ import { HeaderNav } from "@/components/header-nav";
  * dashboard (asH1); elsewhere it is brand nav, so detail pages keep a single
  * <h1> (the scholarship name).
  */
-export function SiteHeader({ asH1 = false }: { asH1?: boolean }) {
+export function SiteHeader({
+  asH1 = false,
+  trust,
+}: {
+  asH1?: boolean;
+  trust?: string;
+}) {
   const Name = asH1 ? "h1" : "span";
   return (
     <header className="border-b border-black/20 bg-primary text-primary-foreground">
@@ -32,6 +38,12 @@ export function SiteHeader({ asH1 = false }: { asH1?: boolean }) {
         <p className="mt-4 max-w-xl text-sm text-primary-foreground/85 sm:text-base">
           {TAGLINE}
         </p>
+
+        {trust && (
+          <p className="mt-3 font-mono text-[11px] tracking-[0.12em] text-primary-foreground/70 uppercase tabular-nums">
+            {trust}
+          </p>
+        )}
 
         <HeaderNav />
       </div>

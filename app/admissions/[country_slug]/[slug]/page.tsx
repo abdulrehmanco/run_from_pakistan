@@ -12,7 +12,7 @@ import {
   ProgramIntakeList,
 } from "@/components/program-status";
 import { tuitionChip } from "@/components/program-badges";
-import { Chip } from "@/components/scholarship-badges";
+import { Chip, VerifiedChip } from "@/components/scholarship-badges";
 import { buttonVariants } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
 import { cn } from "@/lib/utils";
@@ -149,6 +149,7 @@ export default async function ProgramDetailPage({ params }: Params) {
             {p.degree} · {p.city} · {typeLabel}
           </p>
           <ProgramStatusIsland program={p} />
+          {p.verified && <VerifiedChip isoDate={p.last_verified} />}
         </header>
 
         <div className="mt-8 flex max-w-prose flex-col gap-8">

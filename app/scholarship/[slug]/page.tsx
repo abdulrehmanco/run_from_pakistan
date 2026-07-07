@@ -15,6 +15,7 @@ import {
   FundingBadge,
   DegreeChips,
   BlockerBadges,
+  VerifiedChip,
 } from "@/components/scholarship-badges";
 import { buttonVariants } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
@@ -167,6 +168,7 @@ export default async function ScholarshipDetailPage({ params }: Params) {
             <DegreeChips levels={s.degree_levels} />
           </div>
           <StatusIsland scholarship={s} />
+          {s.verified && <VerifiedChip isoDate={s.last_verified} />}
         </header>
 
         <div className="mt-8 flex max-w-prose flex-col gap-8">
