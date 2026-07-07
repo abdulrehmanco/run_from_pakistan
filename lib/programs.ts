@@ -7,6 +7,8 @@ export interface AdmissionCountry {
   country_code: string;
   country_slug: string;
   status: "active" | "coming_soon";
+  note?: string | null;
+  catalog?: { label: string; url: string } | null;
 }
 
 function validatePrograms(data: unknown): Program[] {

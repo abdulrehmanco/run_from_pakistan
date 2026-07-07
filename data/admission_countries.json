@@ -1,16 +1,111 @@
 [
-  { "country": "Germany", "country_code": "DE", "country_slug": "germany", "status": "active" },
-  { "country": "Austria", "country_code": "AT", "country_slug": "austria", "status": "coming_soon" },
-  { "country": "Italy", "country_code": "IT", "country_slug": "italy", "status": "coming_soon" },
-  { "country": "France", "country_code": "FR", "country_slug": "france", "status": "coming_soon" },
-  { "country": "Czechia", "country_code": "CZ", "country_slug": "czechia", "status": "coming_soon" },
-  { "country": "Poland", "country_code": "PL", "country_slug": "poland", "status": "coming_soon" },
-  { "country": "Hungary", "country_code": "HU", "country_slug": "hungary", "status": "coming_soon" },
-  { "country": "Netherlands", "country_code": "NL", "country_slug": "netherlands", "status": "coming_soon" },
-  { "country": "Sweden", "country_code": "SE", "country_slug": "sweden", "status": "coming_soon" },
-  { "country": "Finland", "country_code": "FI", "country_slug": "finland", "status": "coming_soon" },
-  { "country": "Norway", "country_code": "NO", "country_slug": "norway", "status": "coming_soon" },
-  { "country": "Turkey", "country_code": "TR", "country_slug": "turkey", "status": "coming_soon" },
-  { "country": "Malaysia", "country_code": "MY", "country_slug": "malaysia", "status": "coming_soon" },
-  { "country": "China", "country_code": "CN", "country_slug": "china", "status": "coming_soon" }
+  {
+    "country": "Germany",
+    "country_code": "DE",
+    "country_slug": "germany",
+    "status": "active",
+    "note": "Pakistani applicants: any German student visa needs an APS certificate — it can take 2-3 months. Start it now.",
+    "catalog": {
+      "label": "DAAD International Programmes",
+      "url": "https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/"
+    }
+  },
+  {
+    "country": "Austria",
+    "country_code": "AT",
+    "country_slug": "austria",
+    "status": "active",
+    "note": "Non-EU tuition at public universities is about €727 per semester. Many programs also ask for proof you would qualify for the same program in Pakistan — check each university.",
+    "catalog": {
+      "label": "Study in Austria",
+      "url": "https://studyinaustria.at"
+    }
+  },
+  {
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "status": "coming_soon"
+  },
+  {
+    "country": "France",
+    "country_code": "FR",
+    "country_slug": "france",
+    "status": "coming_soon"
+  },
+  {
+    "country": "Czechia",
+    "country_code": "CZ",
+    "country_slug": "czechia",
+    "status": "active",
+    "note": "Study in Czech is free, but English-taught programs charge tuition. Your Pakistani degree usually needs recognition (nostrification) — start early.",
+    "catalog": {
+      "label": "Study in Czechia",
+      "url": "https://www.studyin.cz"
+    }
+  },
+  {
+    "country": "Poland",
+    "country_code": "PL",
+    "country_slug": "poland",
+    "status": "active",
+    "note": "Public universities charge non-EU students in English programs (often €1,000–2,500 per semester). Deadlines for October intake often fall in June–July — check fast.",
+    "catalog": {
+      "label": "study.gov.pl",
+      "url": "https://study.gov.pl"
+    }
+  },
+  {
+    "country": "Hungary",
+    "country_code": "HU",
+    "country_slug": "hungary",
+    "status": "active",
+    "note": "Self-funded tuition is significant here — most Pakistani students fund Hungary through the Stipendium Hungaricum scholarship (see the Scholarships tab).",
+    "catalog": {
+      "label": "Study in Hungary",
+      "url": "https://studyinhungary.hu"
+    }
+  },
+  {
+    "country": "Netherlands",
+    "country_code": "NL",
+    "country_slug": "netherlands",
+    "status": "coming_soon"
+  },
+  {
+    "country": "Sweden",
+    "country_code": "SE",
+    "country_slug": "sweden",
+    "status": "coming_soon"
+  },
+  {
+    "country": "Finland",
+    "country_code": "FI",
+    "country_slug": "finland",
+    "status": "coming_soon"
+  },
+  {
+    "country": "Norway",
+    "country_code": "NO",
+    "country_slug": "norway",
+    "status": "coming_soon"
+  },
+  {
+    "country": "Turkey",
+    "country_code": "TR",
+    "country_slug": "turkey",
+    "status": "coming_soon"
+  },
+  {
+    "country": "Malaysia",
+    "country_code": "MY",
+    "country_slug": "malaysia",
+    "status": "coming_soon"
+  },
+  {
+    "country": "China",
+    "country_code": "CN",
+    "country_slug": "china",
+    "status": "coming_soon"
+  }
 ]

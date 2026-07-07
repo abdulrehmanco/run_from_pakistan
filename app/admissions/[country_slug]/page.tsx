@@ -49,7 +49,6 @@ export default async function CountryProgramsPage({ params }: Params) {
 
   const programs = getProgramsByCountrySlug(country_slug);
   const universities = getUniversities(country_slug);
-  const isGermany = country_slug === "germany";
 
   return (
     <div className="flex flex-1 flex-col">
@@ -67,24 +66,23 @@ export default async function CountryProgramsPage({ params }: Params) {
           {country.country} — university programs
         </h1>
 
-        {isGermany && (
+        {(country.note || country.catalog) && (
           <div className="mt-6">
-            <Callout tone="warn" title="Pakistani applicants: start your APS now">
-              <p>
-                Any German student visa needs an APS certificate — it can take
-                2-3 months. Start it now.
-              </p>
-              <p className="mt-2">
-                Browse the full official catalog:{" "}
-                <a
-                  href="https://www.daad.de/en/studying-in-germany/universities/all-degree-programmes/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="underline underline-offset-4 hover:decoration-gold"
-                >
-                  DAAD International Programmes ↗
-                </a>
-              </p>
+            <Callout tone="warn">
+              {country.note && <p>{country.note}</p>}
+              {country.catalog && (
+                <p className={country.note ? "mt-2" : undefined}>
+                  Browse the full official catalog:{" "}
+                  <a
+                    href={country.catalog.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="underline underline-offset-4 hover:decoration-gold"
+                  >
+                    {country.catalog.label} ↗
+                  </a>
+                </p>
+              )}
             </Callout>
           </div>
         )}

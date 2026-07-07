@@ -1886,5 +1886,1125 @@
     "program_url": "https://www.h-brs.de",
     "last_verified": "2026-07-07",
     "verified": false
+  },
+  {
+    "id": "at-tu-wien-msc-logic-and-computation",
+    "university": "TU Wien",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Logic and Computation",
+    "degree": "MSc",
+    "city": "Vienna",
+    "state": "Vienna",
+    "country": "Austria",
+    "country_code": "AT",
+    "country_slug": "austria",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 727,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "July",
+          "closes": "September"
+        },
+        "note": "Winter intake. Non-EU applicants usually have an earlier deadline, often in early September. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants usually have an earlier deadline. Check the exact date.",
+      "You may need to show you qualify for the same program in Pakistan. Confirm with the university."
+    ],
+    "program_url": "https://www.tuwien.at",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "at-tu-wien-msc-data-science",
+    "university": "TU Wien",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science",
+    "degree": "MSc",
+    "city": "Vienna",
+    "state": "Vienna",
+    "country": "Austria",
+    "country_code": "AT",
+    "country_slug": "austria",
+    "field_tags": [
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 727,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "July",
+          "closes": "September"
+        },
+        "note": "Winter intake. Non-EU applicants usually have an earlier deadline, often in early September. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants usually have an earlier deadline. Check the exact date.",
+      "You may need to show you qualify for the same program in Pakistan. Confirm with the university."
+    ],
+    "program_url": "https://www.tuwien.at",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "at-tu-graz-msc-computer-science",
+    "university": "TU Graz",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Graz",
+    "state": "Styria",
+    "country": "Austria",
+    "country_code": "AT",
+    "country_slug": "austria",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 727,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "July",
+          "closes": "September"
+        },
+        "note": "Winter intake. Non-EU applicants usually have an earlier deadline, often in early September. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants usually have an earlier deadline. Check the exact date.",
+      "You may need to show you qualify for the same program in Pakistan. Confirm with the university."
+    ],
+    "program_url": "https://www.tugraz.at",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "at-jku-linz-msc-artificial-intelligence",
+    "university": "JKU Linz",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Linz",
+    "state": "Upper Austria",
+    "country": "Austria",
+    "country_code": "AT",
+    "country_slug": "austria",
+    "field_tags": [
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 727,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "July",
+          "closes": "September"
+        },
+        "note": "Winter intake. Non-EU applicants usually have an earlier deadline, often in early September. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants usually have an earlier deadline. Check the exact date.",
+      "You may need to show you qualify for the same program in Pakistan. Confirm with the university."
+    ],
+    "program_url": "https://www.jku.at",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "at-klagenfurt-msc-ai-cybersecurity",
+    "university": "University of Klagenfurt",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence and Cybersecurity",
+    "degree": "MSc",
+    "city": "Klagenfurt",
+    "state": "Carinthia",
+    "country": "Austria",
+    "country_code": "AT",
+    "country_slug": "austria",
+    "field_tags": [
+      "AI",
+      "Cybersecurity"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": 727,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "July",
+          "closes": "September"
+        },
+        "note": "Winter intake. Non-EU applicants usually have an earlier deadline, often in early September. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Non-EU applicants usually have an earlier deadline. Check the exact date.",
+      "You may need to show you qualify for the same program in Pakistan. Confirm with the university."
+    ],
+    "program_url": "https://www.aau.at",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "cz-ctu-prague-msc-open-informatics",
+    "university": "Czech Technical University in Prague",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Open Informatics",
+    "degree": "MSc",
+    "city": "Prague",
+    "state": "Prague",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "country_slug": "czechia",
+    "field_tags": [
+      "CS",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Study in Czech is free, but English-taught programs charge tuition (amount varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Winter intake (autumn start). Deadlines are often between February and April. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Your Pakistani degree usually needs recognition (nostrification). Start early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://www.cvut.cz",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "cz-charles-msc-computer-science",
+    "university": "Charles University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Prague",
+    "state": "Prague",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "country_slug": "czechia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Study in Czech is free, but English-taught programs charge tuition (amount varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Winter intake (autumn start). Deadlines are often between February and April. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Your Pakistani degree usually needs recognition (nostrification). Start early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://cuni.cz",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "cz-masaryk-msc-computer-science",
+    "university": "Masaryk University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Brno",
+    "state": "South Moravia",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "country_slug": "czechia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Study in Czech is free, but English-taught programs charge tuition (amount varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Winter intake (autumn start). Deadlines are often between February and April. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Your Pakistani degree usually needs recognition (nostrification). Start early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://www.muni.cz",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "cz-but-msc-it-and-ai",
+    "university": "Brno University of Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Information Technology and Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Brno",
+    "state": "South Moravia",
+    "country": "Czechia",
+    "country_code": "CZ",
+    "country_slug": "czechia",
+    "field_tags": [
+      "CS",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Study in Czech is free, but English-taught programs charge tuition (amount varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Winter intake (autumn start). Deadlines are often between February and April. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Your Pakistani degree usually needs recognition (nostrification). Start early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://www.vut.cz",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "pl-wut-msc-computer-science",
+    "university": "Warsaw University of Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Warsaw",
+    "state": "Masovia",
+    "country": "Poland",
+    "country_code": "PL",
+    "country_slug": "poland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake (October start). Non-EU deadlines often fall in June–July. Apply early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "October intake deadlines for non-EU students often fall in June–July. Apply early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://www.pw.edu.pl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "pl-agh-msc-computer-science",
+    "university": "AGH University of Krakow",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Krakow",
+    "state": "Lesser Poland",
+    "country": "Poland",
+    "country_code": "PL",
+    "country_slug": "poland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake (October start). Non-EU deadlines often fall in June–July. Apply early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "October intake deadlines for non-EU students often fall in June–July. Apply early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://www.agh.edu.pl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "pl-wroclaw-msc-applied-computer-science",
+    "university": "Wrocław University of Science and Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Applied Computer Science",
+    "degree": "MSc",
+    "city": "Wroclaw",
+    "state": "Lower Silesia",
+    "country": "Poland",
+    "country_code": "PL",
+    "country_slug": "poland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake (October start). Non-EU deadlines often fall in June–July. Apply early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "October intake deadlines for non-EU students often fall in June–July. Apply early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://pwr.edu.pl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "pl-gdansk-msc-computer-science",
+    "university": "Gdańsk University of Technology",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Gdansk",
+    "state": "Pomerania",
+    "country": "Poland",
+    "country_code": "PL",
+    "country_slug": "poland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake (October start). Non-EU deadlines often fall in June–July. Apply early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "October intake deadlines for non-EU students often fall in June–July. Apply early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://pg.edu.pl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "pl-uw-msc-computer-science",
+    "university": "University of Warsaw",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Warsaw",
+    "state": "Masovia",
+    "country": "Poland",
+    "country_code": "PL",
+    "country_slug": "poland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "April",
+          "closes": "July"
+        },
+        "note": "Winter intake (October start). Non-EU deadlines often fall in June–July. Apply early."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "October intake deadlines for non-EU students often fall in June–July. Apply early.",
+      "English-taught programs charge tuition. Confirm the amount."
+    ],
+    "program_url": "https://www.uw.edu.pl",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "hu-bme-msc-computer-science-engineering",
+    "university": "BME",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science Engineering",
+    "degree": "MSc",
+    "city": "Budapest",
+    "state": "Budapest",
+    "country": "Hungary",
+    "country_code": "HU",
+    "country_slug": "hungary",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Self-funded tuition is significant (often several thousand euro per year). Many Pakistani students fund Hungary through the Stipendium Hungaricum scholarship instead. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "May"
+        },
+        "note": "Winter intake (September start). Self-funded deadlines are often between February and May. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Self-funded tuition is significant. Consider the Stipendium Hungaricum scholarship (Scholarships tab).",
+      "Confirm the current tuition before you apply."
+    ],
+    "program_url": "https://www.bme.hu",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "hu-elte-msc-computer-science",
+    "university": "ELTE",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Budapest",
+    "state": "Budapest",
+    "country": "Hungary",
+    "country_code": "HU",
+    "country_slug": "hungary",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Self-funded tuition is significant (often several thousand euro per year). Many Pakistani students fund Hungary through the Stipendium Hungaricum scholarship instead. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "May"
+        },
+        "note": "Winter intake (September start). Self-funded deadlines are often between February and May. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Self-funded tuition is significant. Consider the Stipendium Hungaricum scholarship (Scholarships tab).",
+      "Confirm the current tuition before you apply."
+    ],
+    "program_url": "https://www.elte.hu",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "hu-debrecen-msc-computer-science",
+    "university": "University of Debrecen",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Debrecen",
+    "state": "Hajdú-Bihar",
+    "country": "Hungary",
+    "country_code": "HU",
+    "country_slug": "hungary",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Self-funded tuition is significant (often several thousand euro per year). Many Pakistani students fund Hungary through the Stipendium Hungaricum scholarship instead. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "May"
+        },
+        "note": "Winter intake (September start). Self-funded deadlines are often between February and May. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Self-funded tuition is significant. Consider the Stipendium Hungaricum scholarship (Scholarships tab).",
+      "Confirm the current tuition before you apply."
+    ],
+    "program_url": "https://unideb.hu",
+    "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "hu-obuda-msc-computer-engineering",
+    "university": "Óbuda University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering",
+    "degree": "MSc",
+    "city": "Budapest",
+    "state": "Budapest",
+    "country": "Hungary",
+    "country_code": "HU",
+    "country_slug": "hungary",
+    "field_tags": [
+      "Embedded",
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "semester_fee_eur": null,
+      "note": "Self-funded tuition is significant (often several thousand euro per year). Many Pakistani students fund Hungary through the Stipendium Hungaricum scholarship instead. Confirm the current amount."
+    },
+    "intakes": [
+      {
+        "term": "winter",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "May"
+        },
+        "note": "Winter intake (September start). Self-funded deadlines are often between February and May. Confirm on the program page."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "vpd_required": null,
+      "fee_note": "Check the program page for any application fee.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
+      "gre": "not_required",
+      "german_required": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's online portal.",
+      "4. Pay any application fee if required.",
+      "5. Submit before the deadline and wait for the decision."
+    ],
+    "warnings": [
+      "Self-funded tuition is significant. Consider the Stipendium Hungaricum scholarship (Scholarships tab).",
+      "Confirm the current tuition before you apply."
+    ],
+    "program_url": "https://www.uni-obuda.hu",
+    "last_verified": "2026-07-07",
+    "verified": false
   }
 ]

@@ -7,10 +7,10 @@ export const ProgramSchema = z.object({
   program_name: z.string(),
   degree: z.enum(["MSc", "MEng", "MA"]),
   city: z.string(),
-  state: z.string(),
-  country: z.literal("Germany"),
-  country_code: z.literal("DE"),
-  country_slug: z.literal("germany"),
+  state: z.string(), // state / region
+  country: z.string(),
+  country_code: z.string(),
+  country_slug: z.string(),
   field_tags: z.array(
     z.enum([
       "CS",

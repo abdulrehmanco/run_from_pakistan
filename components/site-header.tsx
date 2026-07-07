@@ -14,7 +14,7 @@ export function SiteHeader({ asH1 = false }: { asH1?: boolean }) {
       <div className="mx-auto w-full max-w-6xl px-4 py-8 sm:py-10">
         {/* mono kicker */}
         <p className="font-mono text-[11px] tracking-[0.22em] text-primary-foreground/75 uppercase">
-          International scholarships · for Pakistani students
+          International scholarships · Universities Admissions · for Pakistani students
         </p>
 
         <Link

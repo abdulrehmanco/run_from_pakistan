@@ -9,6 +9,11 @@ const AdmissionCountrySchema = z.object({
   country_code: z.string(),
   country_slug: z.string(),
   status: z.enum(["active", "coming_soon"]),
+  note: z.string().nullable().optional(),
+  catalog: z
+    .object({ label: z.string(), url: z.string().url() })
+    .nullable()
+    .optional(),
 });
 
 /** Validate one JSON array file. Returns valid count, or null on failure (after logging). */
