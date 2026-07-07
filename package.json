@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "validate-data": "tsx scripts/validate-data.ts",
-    "test:status": "tsx scripts/test-status.ts"
+    "test:status": "tsx scripts/test-status.ts",
+    "test:filter": "tsx scripts/test-filter.ts"
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",

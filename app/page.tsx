@@ -1,8 +1,10 @@
-import { getAllScholarships } from "@/lib/scholarships";
-import { ScholarshipGrid } from "@/components/scholarship-grid";
+import { Suspense } from "react";
+import { getAllScholarships, getAllCountries } from "@/lib/scholarships";
+import { ScholarshipBrowser } from "@/components/scholarship-browser";
 
 export default function Home() {
   const scholarships = getAllScholarships();
+  const countries = getAllCountries();
 
   return (
     <div className="flex flex-1 flex-col">
@@ -18,7 +20,12 @@ export default function Home() {
       </header>
 
       <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6">
-        <ScholarshipGrid scholarships={scholarships} />
+        <Suspense fallback={null}>
+          <ScholarshipBrowser
+            scholarships={scholarships}
+            countries={countries}
+          />
+        </Suspense>
       </main>
 
       <footer className="border-t">
