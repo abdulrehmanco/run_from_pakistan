@@ -1028,5 +1028,782 @@
       "Pakistan may not be an eligible country every year. Confirm eligibility first.",
       "Dates change every year."
     ]
+  },
+  {
+    "id": "eiffel-excellence-france",
+    "name": "Eiffel Excellence Scholarship",
+    "provider": "Campus France (French Ministry for Europe and Foreign Affairs)",
+    "country": "France",
+    "country_code": "FR",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, a monthly allowance (about 1,181 EUR for master's)",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Return airfare",
+        "Health insurance",
+        "Cultural activities allowance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "January" },
+      "cycle_note": "Your French institution must apply for you, usually around December to January."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the program. Some are taught in French, some in English.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You cannot apply yourself. A French institution must nominate you.",
+      "unusual_documents": ["Nomination by a French institution"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "CV",
+      "Motivation letter",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Apply to a French institution that takes part in Eiffel.",
+      "2. Ask them to nominate you for the Eiffel scholarship.",
+      "3. The institution submits your file to Campus France.",
+      "4. Wait for the results."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Master's usually under 25, PhD under 30 (approximate).",
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.campusfrance.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You cannot apply directly. A French university must nominate you.",
+      "The scholarship gives a living allowance but does not pay tuition.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "swiss-government-excellence",
+    "name": "Swiss Government Excellence Scholarships",
+    "provider": "Swiss Confederation (Federal Commission for Scholarships)",
+    "country": "Switzerland",
+    "country_code": "CH",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about 1,920 CHF for PhD)",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Tuition exemption",
+        "Health insurance",
+        "Airfare",
+        "Housing allowance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "August", "closes": "November" },
+      "cycle_note": "Deadlines depend on your country. They often fall between September and December."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the university and language of study.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "For research scholarships you must find a host professor first.",
+      "unusual_documents": [
+        "A research proposal",
+        "A host professor's confirmation letter"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Host professor's acceptance letter",
+      "Reference letters",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Check if Pakistan is on the eligible country list this year.",
+      "2. Find a host professor at a Swiss university.",
+      "3. Apply through the route for your country before the deadline.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Varies by scholarship type.",
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": [
+        "Eligibility and the levels offered depend on your country and change each year."
+      ]
+    },
+    "official_url": "https://www.sbfi.admin.ch",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Eligibility depends on your country and changes each year. Check if Pakistan is listed.",
+      "For research scholarships you must find a host professor first.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "goi-ies-ireland",
+    "name": "Government of Ireland International Education Scholarship",
+    "provider": "Government of Ireland (Higher Education Authority)",
+    "country": "Ireland",
+    "country_code": "IE",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "A 10,000 EUR stipend for one year (a contribution toward living costs)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Full tuition fee waiver for one year"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "March" },
+      "cycle_note": "Usually opens early in the year and closes around March."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually needed for admission.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply for the scholarship and to a course. Check the current rules.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of English",
+      "Motivation statement",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Apply online during the open window.",
+      "2. Show how you meet the eligibility rules.",
+      "3. Wait for the selection results."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://hea.ie",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "The scholarship funds one year only.",
+      "The 10,000 EUR is a contribution, not full living costs.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "ernst-mach-austria",
+    "name": "Ernst Mach Grant (OeAD)",
+    "provider": "OeAD (Austria's Agency for Education and Internationalisation)",
+    "country": "Austria",
+    "country_code": "AT",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly grant (about 1,150 EUR)",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": [
+        "Fee exemption for grant holders",
+        "Accident and health insurance",
+        "Help finding accommodation"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "March" },
+      "cycle_note": "Deadlines vary by programme. A common deadline is around the start of March."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the programme and language of study.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Some grants need an invitation or a host institution in Austria.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Motivation letter",
+      "Reference letters",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Search the grants.at database for an Ernst Mach programme.",
+      "2. Check the programme's own deadline and rules.",
+      "3. Apply online with your documents.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://oead.at",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Each programme has its own rules and deadline.",
+      "Airfare is usually not covered.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "maeci-italy",
+    "name": "Italian Government MAECI Scholarship",
+    "provider": "Italian Ministry of Foreign Affairs (MAECI)",
+    "country": "Italy",
+    "country_code": "IT",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, a monthly allowance (about 900 EUR)",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": ["Health insurance"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "March", "closes": "May" },
+      "cycle_note": "Usually opens in spring and closes around May."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the course. Many need English or Italian proof.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "A tuition waiver depends on the university, not the scholarship.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Motivation letter",
+      "Language certificate if asked",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Apply online during the open window.",
+      "2. Choose your study level and programme.",
+      "3. Upload your documents.",
+      "4. Wait for the results."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://studyinitaly.esteri.it",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Tuition waiver is not guaranteed. It depends on the university.",
+      "Airfare is not covered.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "vlir-uos-belgium",
+    "name": "VLIR-UOS Scholarships",
+    "provider": "VLIR-UOS (Flemish Interuniversity Council)",
+    "country": "Belgium",
+    "country_code": "BE",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["Development-related fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly allowance",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Travel costs",
+        "Insurance",
+        "Arrival and settling-in allowances"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "February" },
+      "cycle_note": "Each programme sets its own deadline. Many close between January and March."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually needed.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply to an eligible master's programme and the scholarship together.",
+      "unusual_documents": ["Proof you are from an eligible country"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of English",
+      "Motivation letter",
+      "Reference letters",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Pick an eligible master's programme in Flanders.",
+      "2. Check that Pakistan is on the eligible country list.",
+      "3. Apply to the programme and the scholarship before the deadline.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good bachelor's degree.",
+      "work_experience": null,
+      "other": [
+        "For students from selected countries. Pakistan is on the eligible list for many programmes."
+      ]
+    },
+    "official_url": "https://www.vliruos.be",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Only certain master's programmes are covered.",
+      "Check the eligible programme and country list each year.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "finland-scholarship",
+    "name": "Finland Scholarships",
+    "provider": "Finnish universities (Finland Scholarship)",
+    "country": "Finland",
+    "country_code": "FI",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": null,
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "First-year tuition covered",
+        "5,000 EUR relocation grant"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "January" },
+      "cycle_note": "You apply through the university's master's admission, usually around December to January."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is needed for admission.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Each university runs its own Finland Scholarship. You apply to the master's programme.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of English",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Find a master's programme that offers the Finland Scholarship.",
+      "2. Apply to the programme through the admission system.",
+      "3. Top applicants are offered the scholarship.",
+      "4. Wait for the admission and scholarship result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good bachelor's degree.",
+      "work_experience": null,
+      "other": ["For non-EU/EEA students who pay tuition."]
+    },
+    "official_url": "https://www.studyinfinland.fi",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Each university runs its own version. Rules differ.",
+      "It covers first-year tuition and a relocation grant, not full living costs.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "danish-government-scholarship",
+    "name": "Danish Government Scholarship",
+    "provider": "Danish universities (Ministry of Higher Education and Science)",
+    "country": "Denmark",
+    "country_code": "DK",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Sometimes a grant toward living costs (varies)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Full or partial tuition support"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "December", "closes": "March" },
+      "cycle_note": "You are considered when you apply to a master's programme, usually around January to March."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is needed for admission.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You do not apply separately. Universities choose from their applicants.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of English",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Apply to an eligible master's programme in Denmark.",
+      "2. The university considers you for the scholarship.",
+      "3. Wait for the admission and funding decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good bachelor's degree.",
+      "work_experience": null,
+      "other": ["For non-EU/EEA students who pay tuition."]
+    },
+    "official_url": "https://studyindenmark.dk",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You cannot apply separately. Universities choose from programme applicants.",
+      "Support varies — it may be full or partial tuition, sometimes with a living grant.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "romanian-government-scholarship",
+    "name": "Romanian Government Scholarship",
+    "provider": "Government of Romania (Ministry of Foreign Affairs)",
+    "country": "Romania",
+    "country_code": "RO",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly allowance (varies by study level)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Free tuition",
+        "Accommodation help",
+        "One free year of Romanian language"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "March" },
+      "cycle_note": "Usually opens early in the year and closes around March."
+    },
+    "blockers": {
+      "ielts": "not_required",
+      "ielts_note": "IELTS is usually not required. Many programmes are in Romanian, with a free language year.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply through the Romanian Ministry of Foreign Affairs.",
+      "unusual_documents": ["You may need to study one year of Romanian first"]
+    },
+    "documents_required": [
+      "School and university transcripts",
+      "Passport copy",
+      "Birth certificate copy",
+      "Motivation letter"
+    ],
+    "application_steps": [
+      "1. Apply online during the open window.",
+      "2. Choose your study level and field.",
+      "3. Upload your documents.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.mae.ro",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Many programmes are taught in Romanian.",
+      "Airfare is not covered.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "nawa-poland",
+    "name": "Polish NAWA Scholarship Programmes",
+    "provider": "NAWA (Polish National Agency for Academic Exchange)",
+    "country": "Poland",
+    "country_code": "PL",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly allowance (varies by programme)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Tuition covered on funded programmes",
+        "Monthly allowance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "December", "closes": "March" },
+      "cycle_note": "NAWA runs several programmes, each with its own deadline. Many run early in the year."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the programme and language of study.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Rules depend on the specific NAWA programme.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Motivation letter",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Browse the NAWA website for a programme that fits you.",
+      "2. Check that it accepts Pakistani students.",
+      "3. Apply online before that programme's deadline.",
+      "4. Wait for the results."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": ["NAWA runs several programmes. Check which ones accept Pakistani students."]
+    },
+    "official_url": "https://nawa.gov.pl",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "NAWA is an umbrella for many programmes. Rules and eligibility differ.",
+      "Not every programme is open to Pakistani students. Check each one.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "nsp-slovakia",
+    "name": "National Scholarship Programme of the Slovak Republic",
+    "provider": "National Scholarship Programme of the Slovak Republic (SAIA)",
+    "country": "Slovakia",
+    "country_code": "SK",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, a monthly scholarship to cover living costs",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Monthly living scholarship",
+        "Travel allowance for some applicants"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "August", "closes": "October" },
+      "cycle_note": "There are usually two rounds a year, with deadlines around the end of April and the end of October."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the host university and language of study.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "You usually need an invitation or acceptance from a Slovak university first.",
+      "unusual_documents": ["An invitation letter from a Slovak university"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Invitation letter from a Slovak university",
+      "Motivation letter",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Contact a Slovak university and get an acceptance or invitation.",
+      "2. Prepare your study or research plan.",
+      "3. Apply online before the round's deadline.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.scholarships.sk",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "The scholarship covers living costs, not tuition.",
+      "You usually need a Slovak university to accept you first.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "open-doors-russia",
+    "name": "Open Doors: Russian Scholarship Project",
+    "provider": "Association of Global Universities (Open Doors), Russia",
+    "country": "Russia",
+    "country_code": "RU",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": null,
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Tuition-free place for contest winners"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "September", "closes": "December" },
+      "cycle_note": "You register in the autumn and take the online contest around December to February."
+    },
+    "blockers": {
+      "ielts": "not_required",
+      "ielts_note": "IELTS is not required. The contest is in English or Russian.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You must win the Open Doors contest to get a tuition-free place.",
+      "unusual_documents": ["You must win the Open Doors online contest"]
+    },
+    "documents_required": [
+      "Register an account on the Open Doors site",
+      "University transcripts",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Register on the Open Doors website in the autumn.",
+      "2. Take the online contest for your subject.",
+      "3. If you win, pick a Russian university for a tuition-free place.",
+      "4. Complete admission with that university."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": ["Open to international students who win the contest."]
+    },
+    "official_url": "https://opendoors.globaluni.ru",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "This is a competition. Only winners get a tuition-free place.",
+      "It usually covers tuition only, not living costs or airfare.",
+      "Check current conditions before applying."
+    ]
   }
 ]
