@@ -570,7 +570,7 @@
       "application_deadline": null,
       "dates_confirmed": false,
       "typical_cycle": { "opens": "April", "closes": "June" },
-      "cycle_note": "The embassy route usually opens around April to May. The university route dates vary."
+      "cycle_note": "The embassy track for Pakistan usually runs April to June (the 2027 research round closed on 26 May 2026). The separate university-recommendation track runs later, with university deadlines around September to December. Check target universities directly."
     },
     "blockers": {
       "ielts": "not_required",
@@ -610,7 +610,9 @@
     "last_verified": "2026-07-07",
     "verified": false,
     "warnings": [
-      "There are two routes: through the Japanese Embassy or through a university.",
+      "There are two tracks: through the Japanese Embassy (Pakistan) or through a university.",
+      "Embassy track usually runs April to June. The 2027 research round closed on 26 May 2026.",
+      "University-recommendation track deadlines fall later, around September to December. Check universities directly.",
       "Dates change every year. Watch the Embassy of Japan in Pakistan."
     ]
   },
@@ -1804,6 +1806,809 @@
       "This is a competition. Only winners get a tuition-free place.",
       "It usually covers tuition only, not living costs or airfare.",
       "Check current conditions before applying."
+    ]
+  },
+  {
+    "id": "brunei-government-scholarship",
+    "name": "Brunei Darussalam Government Scholarship",
+    "provider": "Government of Brunei Darussalam (Ministry of Foreign Affairs)",
+    "country": "Brunei",
+    "country_code": "BN",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly personal allowance (about BND 500)",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Return airfare",
+        "Monthly allowance",
+        "Accommodation allowance",
+        "Book allowance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "February" },
+      "cycle_note": "Usually opens early in the year and closes around February. Dates change each year — confirm officially."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually required. Confirm with the program.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "One application to the government scheme. You pick your programs.",
+      "unusual_documents": ["Medical examination report"]
+    },
+    "documents_required": [
+      "Passport copy",
+      "School and university transcripts",
+      "Medical examination report",
+      "Passport photo"
+    ],
+    "application_steps": [
+      "1. Read the current Brunei Government Scholarship call.",
+      "2. Pick your study level and programs.",
+      "3. Apply online during the window.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Usually under 25 for undergraduate and under 35 for postgraduate (approximate).",
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.mfa.gov.bn",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "One application covers the scheme.",
+      "Dates change every year. Confirm officially."
+    ]
+  },
+  {
+    "id": "taiwan-icdf-scholarship",
+    "name": "Taiwan ICDF Scholarship",
+    "provider": "Taiwan International Cooperation and Development Fund (TaiwanICDF)",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["Development-related fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly allowance",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Return airfare",
+        "Accommodation",
+        "Monthly allowance",
+        "Health insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "March" },
+      "cycle_note": "Usually opens around January and closes around mid-March. Dates change each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is required. Some programs accept a medium-of-instruction letter.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply through the ICDF system and pick partner-university programs.",
+      "unusual_documents": ["Health certificate"]
+    },
+    "documents_required": [
+      "Passport copy",
+      "University transcripts and degrees",
+      "Proof of English",
+      "Health certificate"
+    ],
+    "application_steps": [
+      "1. Check if Pakistan is on the current ICDF eligible-country list.",
+      "2. Choose an eligible program.",
+      "3. Apply through the ICDF online system.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": false,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": [
+        "For citizens of TaiwanICDF partner countries. Pakistan is usually not on the list."
+      ]
+    },
+    "official_url": "https://www.icdf.org.tw",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Pakistan is usually not on the Taiwan ICDF eligible-country list. Check the current list before applying.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "taiwan-moe-scholarship",
+    "name": "Taiwan MOE Scholarship",
+    "provider": "Taiwan Ministry of Education (MOE)",
+    "country": "Taiwan",
+    "country_code": "TW",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Tuition subsidy (up to a set cap)",
+        "Monthly stipend"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "February", "closes": "March" },
+      "cycle_note": "Usually opens around February and closes around March, through a Taiwan representative office. Dates change each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English or Chinese proof may be required, depending on the program.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply through a Taiwan representative office.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "Passport copy",
+      "University transcripts and degrees",
+      "Language proof if asked"
+    ],
+    "application_steps": [
+      "1. Check whether a Taiwan representative office serves your country.",
+      "2. Prepare your documents.",
+      "3. Apply through that office during the window.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": false,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": [
+        "Applications go through a Taiwan representative office. Pakistan does not have one."
+      ]
+    },
+    "official_url": "https://www.studyintaiwan.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Taiwan has no representative office in Pakistan, so this is usually hard to apply for from Pakistan. Confirm current arrangements.",
+      "Airfare is not covered.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "hong-kong-phd-fellowship",
+    "name": "Hong Kong PhD Fellowship Scheme",
+    "provider": "Research Grants Council of Hong Kong (RGC)",
+    "country": "Hong Kong",
+    "country_code": "HK",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about HK$28,100)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Monthly stipend",
+        "Conference and research travel allowance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "September", "closes": "December" },
+      "cycle_note": "You first submit an initial application to the scheme, usually by early December. Then you apply to the universities. Dates change each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually required for admission.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You submit an initial application to the scheme first, then apply to universities.",
+      "unusual_documents": ["A research proposal", "Reference letters"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Submit an initial application to the fellowship scheme by the deadline.",
+      "2. Get a reference number.",
+      "3. Apply to your chosen universities using it.",
+      "4. Wait for interviews and decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.ugc.edu.hk",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Very competitive.",
+      "Tuition arrangements depend on the university. Confirm with your host university.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "singa-singapore",
+    "name": "Singapore International Graduate Award (SINGA)",
+    "provider": "A*STAR and partner universities",
+    "country": "Singapore",
+    "country_code": "SG",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["PhD"],
+    "fields_of_study": ["Science and engineering"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend (about S$2,700, rising to S$3,200)",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Tuition",
+        "Monthly stipend",
+        "Airfare",
+        "Settling-in allowance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "June", "closes": "December" },
+      "cycle_note": "There are usually two intakes a year (January and August), each with a window a few months earlier. Confirm current dates."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is usually required unless your degree was in English.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "One application covers several partner universities.",
+      "unusual_documents": ["A statement of research interests", "Two referee reports"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Statement of research interests",
+      "Two referee reports",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Prepare your documents and research interests.",
+      "2. Apply online during the intake window.",
+      "3. Choose partner universities and supervisors.",
+      "4. Wait for interviews and decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record in science or engineering.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.a-star.edu.sg",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Two intakes a year. Check the current window.",
+      "Very competitive.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "indonesia-knb-scholarship",
+    "name": "Indonesia KNB Scholarship",
+    "provider": "Government of Indonesia (Ministry of Education)",
+    "country": "Indonesia",
+    "country_code": "ID",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly living allowance",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Indonesian language training",
+        "Airfare",
+        "Settlement allowance",
+        "Health insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "March" },
+      "cycle_note": "Usually opens early in the year and closes around March. Dates change each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually required. Some programs are taught in Indonesian.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "One application covers the scheme. You pick partner universities.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "Passport copy",
+      "University transcripts and degrees",
+      "Recommendation letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Check the current KNB call and eligible universities.",
+      "2. Prepare your documents.",
+      "3. Apply online during the window.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": [
+        "For students from developing countries. Pakistan is usually eligible."
+      ]
+    },
+    "official_url": "https://knb.kemdikbud.go.id",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Some programs are taught in Indonesian.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "malaysia-international-scholarship",
+    "name": "Malaysia International Scholarship (MIS)",
+    "provider": "Government of Malaysia (Ministry of Higher Education)",
+    "country": "Malaysia",
+    "country_code": "MY",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly living allowance (about RM 1,500)",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": [
+        "Tuition fees",
+        "Monthly living allowance",
+        "Health insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "February", "closes": "June" },
+      "cycle_note": "The window moves each year. The 2026 call ran 4 March to 3 April. The 2025 call ran 10 to 30 June. It is usually announced between February and June."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is usually required.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Mostly research-based. You usually arrange a place or supervisor at a Malaysian university.",
+      "unusual_documents": ["A research proposal"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Proof of English",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Watch for the current MIS call (it moves each year).",
+      "2. Prepare a research proposal.",
+      "3. Apply online during the window.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://biasiswa.mohe.gov.my",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Mostly for research-based Master's and PhD.",
+      "The application window moves each year. Check the current call.",
+      "Airfare is not covered."
+    ]
+  },
+  {
+    "id": "mbzuai-scholarship-uae",
+    "name": "MBZUAI Graduate Scholarship",
+    "provider": "Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "cities": ["Abu Dhabi"],
+    "universities": ["Mohamed bin Zayed University of Artificial Intelligence"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["Artificial Intelligence", "Computer Science", "Data Science"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Full tuition",
+        "Monthly stipend",
+        "Accommodation",
+        "Health insurance",
+        "Laptop and relocation support"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "August", "closes": "January" },
+      "cycle_note": "Applications usually open in the second half of the year for the next intake. Check the current deadline."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is required. Some applicants with English-medium degrees may be exempt.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Admitted students are fully funded — admission and funding come together.",
+      "unusual_documents": ["Statement of purpose"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Statement of purpose",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Choose an AI or related program.",
+      "2. Prepare your statement and references.",
+      "3. Apply online before the deadline.",
+      "4. Wait for the decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record in a related field.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://mbzuai.ac.ae",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "This is an AI-focused university. Programs are in AI and related fields.",
+      "Competitive.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "khalifa-university-scholarship-uae",
+    "name": "Khalifa University Scholarship",
+    "provider": "Khalifa University",
+    "country": "United Arab Emirates",
+    "country_code": "AE",
+    "cities": ["Abu Dhabi"],
+    "universities": ["Khalifa University"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["Engineering", "Science", "Computing"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": [
+        "Full tuition",
+        "Monthly stipend",
+        "Health insurance",
+        "On-campus accommodation for some students"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "March" },
+      "cycle_note": "Applications usually open a few months before each intake (Fall and Spring). Check the current deadline."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is required.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Strong applicants get tuition and a stipend with admission.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Statement of purpose",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Choose a graduate program.",
+      "2. Prepare your documents.",
+      "3. Apply online before the deadline.",
+      "4. Wait for the funded-admission decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.ku.ac.ae",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Funding is competitive and merit-based.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "hbku-scholarship-qatar",
+    "name": "HBKU Scholarship",
+    "provider": "Hamad Bin Khalifa University (Qatar Foundation)",
+    "country": "Qatar",
+    "country_code": "QA",
+    "cities": ["Doha"],
+    "universities": ["Hamad Bin Khalifa University"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend for eligible students",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": [
+        "Tuition support",
+        "Monthly stipend",
+        "Housing for eligible students",
+        "Health insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "January" },
+      "cycle_note": "Applications usually open in autumn for the next year. Check the current deadline."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is required.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Funding depends on the program and your profile.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Statement of purpose",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Choose a graduate program.",
+      "2. Prepare your documents.",
+      "3. Apply online before the deadline.",
+      "4. Wait for the admission and funding decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.hbku.edu.qa",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Funding depends on the program and your profile. Confirm what is covered.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "kaust-fellowship-saudi-arabia",
+    "name": "KAUST Fellowship",
+    "provider": "King Abdullah University of Science and Technology (KAUST)",
+    "country": "Saudi Arabia",
+    "country_code": "SA",
+    "cities": ["Thuwal"],
+    "universities": ["King Abdullah University of Science and Technology"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["Science", "Engineering", "Computing"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, an annual living stipend (about US$20,000–30,000)",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Full tuition",
+        "Living stipend",
+        "Free housing",
+        "Medical and dental cover",
+        "Relocation support"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "January" },
+      "cycle_note": "KAUST reviews applications on a rolling basis, with priority deadlines before the Fall intake. Apply early."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS/TOEFL) is required. Some applicants with English-medium degrees may be exempt.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "All admitted students receive the KAUST Fellowship.",
+      "unusual_documents": ["Statement of purpose", "Reference letters"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Statement of purpose",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Choose a program in science, engineering, or computing.",
+      "2. Prepare your statement and references.",
+      "3. Apply online (rolling; apply early).",
+      "4. Wait for the funded-admission decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.kaust.edu.sa",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Focused on science, engineering, and technology.",
+      "Rolling admissions — apply early.",
+      "Dates change each year."
+    ]
+  },
+  {
+    "id": "adb-japan-scholarship",
+    "name": "ADB–Japan Scholarship Program",
+    "provider": "Asian Development Bank (with the Government of Japan)",
+    "country": "Multiple countries",
+    "country_code": "XX",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["Development-related fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly subsistence and housing allowance",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Tuition",
+        "Monthly allowance",
+        "Airfare",
+        "Books and materials",
+        "Health insurance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": null,
+      "cycle_note": "You apply through a designated partner university. Deadlines vary by university and program — check each one."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on the partner university and program.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "You apply to a designated partner university first, then for the scholarship through it.",
+      "unusual_documents": ["You must apply through a designated institution"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of admission or application to a designated university",
+      "Reference letters"
+    ],
+    "application_steps": [
+      "1. Pick a designated ADB-JSP partner university and program.",
+      "2. Apply to that university.",
+      "3. Ask about the ADB-JSP scholarship through it.",
+      "4. Meet that university's deadline."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": [
+        "For citizens of ADB borrowing member countries. Pakistan is a member."
+      ]
+    },
+    "official_url": "https://www.adb.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You apply through a designated partner university, not to ADB directly.",
+      "Deadlines vary by university and program. Check each one.",
+      "Not all fields or universities are covered."
     ]
   }
 ]
