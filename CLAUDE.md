@@ -26,7 +26,7 @@ official page and shows a last_verified date so students can trust the info.
 
 - [x] 1 — Scaffold
 - [x] 2 — Schema + types + seed data
-- [ ] 3 — Dashboard cards + status logic
+- [x] 3 — Dashboard cards + status logic
 - [ ] 4 — Filters / search / sort
 - [ ] 5 — Detail pages + SEO
 - [ ] 6 — Polish / mobile / report-button
