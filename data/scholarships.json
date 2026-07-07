@@ -2610,5 +2610,685 @@
       "Deadlines vary by university and program. Check each one.",
       "Not all fields or universities are covered."
     ]
+  },
+  {
+    "id": "vanier-canada",
+    "name": "Vanier Canada Graduate Scholarships",
+    "provider": "Government of Canada",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, CAD 50,000 per year for up to three years",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["A large annual stipend for up to 3 years"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "September", "closes": "November" },
+      "cycle_note": "You must be nominated by a Canadian university. University deadlines are usually in the autumn (often September to November)."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English or French proof is usually required for admission.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You must be nominated by a Canadian university. Contact them early.",
+      "unusual_documents": [
+        "Nomination by a Canadian university",
+        "Research proposal",
+        "Leadership references"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Reference letters",
+      "Proof of English or French"
+    ],
+    "application_steps": [
+      "1. Contact a Canadian university early about a PhD place.",
+      "2. Ask to be nominated for the Vanier scholarship.",
+      "3. Prepare your research and leadership documents.",
+      "4. The university submits your nomination.",
+      "5. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A very strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://vanier.gc.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You cannot apply directly. A Canadian university must nominate you.",
+      "It is a large stipend but does not pay tuition.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "lester-b-pearson-toronto",
+    "name": "Lester B. Pearson International Scholarship",
+    "provider": "University of Toronto",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": ["Toronto"],
+    "universities": ["University of Toronto"],
+    "degree_levels": ["BS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": null,
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Tuition, books, and incidental fees",
+        "Full residence support for four years"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "January" },
+      "cycle_note": "Your school must nominate you first (usually by November). Then you apply, usually by mid-January."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is required unless you qualify for a waiver.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You must apply to the University of Toronto and be nominated by your school.",
+      "unusual_documents": ["Nomination by your school"]
+    },
+    "documents_required": [
+      "School transcripts and results",
+      "Nomination from your school",
+      "Proof of English",
+      "University of Toronto application"
+    ],
+    "application_steps": [
+      "1. Ask your school to nominate you (usually by November).",
+      "2. Apply to the University of Toronto for admission.",
+      "3. Complete the Pearson steps by the deadline.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A very strong school record.",
+      "work_experience": null,
+      "other": ["Undergraduate study only."]
+    },
+    "official_url": "https://future.utoronto.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Undergraduate only.",
+      "Your school must nominate you first.",
+      "Very competitive.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "knight-hennessy-stanford",
+    "name": "Knight-Hennessy Scholars",
+    "provider": "Stanford University",
+    "country": "United States",
+    "country_code": "US",
+    "cities": ["Stanford"],
+    "universities": ["Stanford University"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a stipend for living and academic costs",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Tuition",
+        "Living and academic stipend",
+        "Travel allowance for up to 3 years"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "July", "closes": "October" },
+      "cycle_note": "Usually opens in summer and closes around October. You also apply to a Stanford graduate program separately."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "Depends on your Stanford graduate program.",
+      "application_fee": {
+        "amount": 125,
+        "currency": "USD",
+        "note": "You also apply to a Stanford program, which has its own application fee. Fee waivers may be available."
+      },
+      "admission_required_first": false,
+      "admission_note": "You apply to Knight-Hennessy and a Stanford graduate program at the same time. You must be admitted to the program.",
+      "unusual_documents": ["Essays", "Recommendation letters"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Essays",
+      "Recommendation letters",
+      "A separate Stanford program application"
+    ],
+    "application_steps": [
+      "1. Choose a Stanford graduate program.",
+      "2. Apply to Knight-Hennessy during the open window.",
+      "3. Apply to the Stanford program separately.",
+      "4. Wait for the decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://knight-hennessy.stanford.edu",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You must also apply to and be admitted to a Stanford graduate program.",
+      "Very competitive.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "rhodes-scholarship-pakistan",
+    "name": "Rhodes Scholarship (Pakistan)",
+    "provider": "Rhodes Trust",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cities": ["Oxford"],
+    "universities": ["University of Oxford"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, an annual stipend",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Oxford tuition and college fees",
+        "Annual stipend",
+        "Airfare"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "June", "closes": "August" },
+      "cycle_note": "The Pakistan constituency runs its own process. Applications usually open mid-year and close around late summer. Confirm the current dates."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "Oxford needs proof of English. Some applicants qualify for a waiver.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply to Rhodes first. Then you apply to Oxford for a place.",
+      "unusual_documents": [
+        "Multiple references",
+        "Personal statement",
+        "Proof you meet the Pakistan constituency rules"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Personal statement",
+      "Multiple reference letters",
+      "Proof of eligibility for the Pakistan constituency"
+    ],
+    "application_steps": [
+      "1. Check the Pakistan constituency rules and age limits.",
+      "2. Apply to Rhodes during the Pakistan window.",
+      "3. If selected, apply to Oxford for a place.",
+      "4. Wait for the decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Usually at least 18 and not older than about 24, with some flexibility. Check the Pakistan criteria.",
+      "min_academic": "A very strong academic record.",
+      "work_experience": null,
+      "other": ["The Pakistan constituency has its own rules. Confirm you qualify."]
+    },
+    "official_url": "https://www.rhodeshouse.ox.ac.uk",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "The Pakistan constituency has its own process and age limits.",
+      "Very competitive.",
+      "Dates change every year. Confirm the Pakistan timeline."
+    ]
+  },
+  {
+    "id": "clarendon-fund-oxford",
+    "name": "Clarendon Fund Scholarship",
+    "provider": "University of Oxford",
+    "country": "United Kingdom",
+    "country_code": "GB",
+    "cities": ["Oxford"],
+    "universities": ["University of Oxford"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a grant for living costs",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Full Oxford tuition and college fees",
+        "Annual living grant"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "October", "closes": "January" },
+      "cycle_note": "You are considered automatically when you apply to an eligible Oxford course. Meet the course's deadline, usually in December or January."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "Oxford needs proof of English. Some applicants qualify for a waiver.",
+      "application_fee": {
+        "amount": 75,
+        "currency": "GBP",
+        "note": "Oxford charges a course application fee. Fee waivers may be available."
+      },
+      "admission_required_first": true,
+      "admission_note": "No separate scholarship application. You apply to an eligible Oxford course and are considered automatically.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Reference letters",
+      "Proof of English",
+      "An Oxford course application"
+    ],
+    "application_steps": [
+      "1. Choose an eligible Oxford graduate course.",
+      "2. Apply to that course by its deadline.",
+      "3. You are considered for Clarendon automatically.",
+      "4. Wait for the decisions."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A very strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.ox.ac.uk",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "No separate application — you apply to an Oxford course and are considered automatically.",
+      "You must meet the course deadline (often December or January).",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "schwarzman-scholars-china",
+    "name": "Schwarzman Scholars",
+    "provider": "Schwarzman Scholars (Tsinghua University)",
+    "country": "China",
+    "country_code": "CN",
+    "cities": ["Beijing"],
+    "universities": ["Tsinghua University"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["Global affairs"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Tuition",
+        "Room and board",
+        "Travel to and from Beijing",
+        "Health insurance",
+        "Study trips"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "April", "closes": "September" },
+      "cycle_note": "Usually opens in spring and closes around September. Dates change each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof may be required unless your degree was in English.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "One application. Admitted scholars study at Tsinghua for one year.",
+      "unusual_documents": ["Essays", "Recommendation letters", "Video interview"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Essays",
+      "Recommendation letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Prepare your essays and references.",
+      "2. Apply online during the window.",
+      "3. If shortlisted, do a video and panel interview.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Usually under 29 years old.",
+      "min_academic": "A strong bachelor's degree.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.schwarzmanscholars.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "One-year master's in Beijing.",
+      "Age limit usually under 29.",
+      "Very competitive.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "yenching-academy-peking",
+    "name": "Yenching Academy Scholarship",
+    "provider": "Peking University (Yenching Academy)",
+    "country": "China",
+    "country_code": "CN",
+    "cities": ["Beijing"],
+    "universities": ["Peking University"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["China studies"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend",
+      "airfare_covered": true,
+      "health_insurance": false,
+      "other_benefits": [
+        "Tuition",
+        "Accommodation",
+        "Monthly stipend",
+        "Travel and research funding"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "September", "closes": "December" },
+      "cycle_note": "Usually opens in autumn and closes around December or early the next year. Dates change each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof may be required unless your degree was in English.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "One application. Admitted scholars study China Studies at Peking University.",
+      "unusual_documents": ["Essays", "Recommendation letters"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Essays",
+      "Recommendation letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Prepare your essays and references.",
+      "2. Apply online during the window.",
+      "3. If shortlisted, attend an interview.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": "Usually under 25 years old.",
+      "min_academic": "A strong bachelor's degree.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://yenchingacademy.pku.edu.cn",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "One-year master's in China Studies at Peking University.",
+      "Age limit usually under 25.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "aga-khan-foundation-isp",
+    "name": "Aga Khan Foundation International Scholarship Programme",
+    "provider": "Aga Khan Foundation",
+    "country": "Multiple countries",
+    "country_code": "XX",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "A living allowance is included (half of the award is a loan)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Tuition and living support", "Half grant, half loan"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "March" },
+      "cycle_note": "You apply through the local Aga Khan Foundation office. Deadlines are usually early in the year (often by March)."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually required.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply through the local AKF office in Pakistan. You usually need an admission or a strong plan.",
+      "unusual_documents": ["Application through the local AKF office"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Admission letter or study plan",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Contact the local Aga Khan Foundation office in Pakistan.",
+      "2. Prepare your admission or study plan.",
+      "3. Apply through the local office by the deadline.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": [
+        "For students from selected countries. Pakistan is included.",
+        "Half of the award is a loan you must repay."
+      ]
+    },
+    "official_url": "https://www.akdn.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Half of the award is a loan you must repay.",
+      "You apply through the local Aga Khan Foundation office in Pakistan.",
+      "Priority is given to master's study."
+    ]
+  },
+  {
+    "id": "jj-wbgsp-world-bank",
+    "name": "Joint Japan/World Bank Graduate Scholarship Program",
+    "provider": "World Bank and Government of Japan",
+    "country": "Multiple countries",
+    "country_code": "XX",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["Development-related fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly living stipend",
+      "airfare_covered": true,
+      "health_insurance": true,
+      "other_benefits": [
+        "Tuition",
+        "Monthly stipend",
+        "Airfare",
+        "Health insurance",
+        "Travel allowance"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "February", "closes": "April" },
+      "cycle_note": "There is usually one call a year, often in spring. Confirm the current window."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is usually required.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "You apply to the scholarship and to preferred partner programs. Some need admission first.",
+      "unusual_documents": [
+        "Proof of at least 3 years of development-related work experience"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Proof of development-related work experience",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Check you have enough development-related work experience.",
+      "2. Choose eligible partner programs.",
+      "3. Apply during the call window.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good bachelor's degree.",
+      "work_experience": "At least 3 years of recent development-related work experience.",
+      "other": [
+        "For nationals of World Bank member developing countries. Pakistan is eligible."
+      ]
+    },
+    "official_url": "https://www.worldbank.org",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "You need at least 3 years of development-related work experience.",
+      "For development-related master's programs only.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "amexcid-mexico",
+    "name": "AMEXCID Mexican Government Scholarship",
+    "provider": "Government of Mexico (AMEXCID)",
+    "country": "Mexico",
+    "country_code": "MX",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, a monthly stipend",
+      "airfare_covered": false,
+      "health_insurance": true,
+      "other_benefits": ["Tuition", "Monthly stipend", "Health insurance"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "September", "closes": "November" },
+      "cycle_note": "The general call usually runs later in the year. Many programs are taught in Spanish. Confirm the current dates."
+    },
+    "blockers": {
+      "ielts": "not_required",
+      "ielts_note": "IELTS is usually not required. Many programs are in Spanish and may need Spanish proof.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "You usually need an acceptance letter from a Mexican institution first.",
+      "unusual_documents": [
+        "Acceptance letter from a Mexican institution",
+        "Spanish proof for many programs"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Acceptance letter from a Mexican institution",
+      "Motivation letter",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Check the current eligible-country list.",
+      "2. Get an acceptance letter from a Mexican institution.",
+      "3. Apply during the general call window.",
+      "4. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": ["Check the current eligible-country list — it changes each year."]
+    },
+    "official_url": "https://www.gob.mx/amexcid",
+    "apply_url": null,
+    "last_verified": "2026-07-07",
+    "verified": false,
+    "warnings": [
+      "Many programs are taught in Spanish.",
+      "You usually need an acceptance letter from a Mexican university first.",
+      "Check the eligible-country list each year."
+    ]
   }
 ]
