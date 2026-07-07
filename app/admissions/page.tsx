@@ -50,7 +50,7 @@ export default function AdmissionsHome() {
                       src={flagSrc}
                       alt=""
                       loading="lazy"
-                      className="aspect-[3/2] w-full border-b border-border object-cover"
+                      className="h-28 w-full border-b border-border object-cover"
                     />
                     <div className="flex flex-col gap-1 p-4 text-center">
                       <span className="font-display text-xl font-semibold">
@@ -76,7 +76,7 @@ export default function AdmissionsHome() {
                   src={flagSrc}
                   alt=""
                   loading="lazy"
-                  className="aspect-[3/2] w-full border-b border-border object-cover grayscale"
+                  className="h-28 w-full border-b border-border object-cover grayscale"
                 />
                 <div className="flex flex-col items-center gap-1 p-4 text-center">
                   <span className="font-display text-xl font-semibold">
