@@ -41,7 +41,7 @@ this section.**
 components):
 - `--background #FBFAF7` ivory · `--card #FFFFFF` · `--foreground #1F1D1A` ink
 - `--muted-foreground #514D45` (≈8:1 on ivory) · `--border #E6E3DB` hairline
-- `--primary #175243` deep green · `--primary-foreground #FFFFFF` · `--ring #175243`
+- `--primary #067A5B` emerald (masthead + CTAs) · `--primary-foreground #FFFFFF` · `--ring #067A5B`
 - `--gold #B8892D` (utility `text-gold`/`border-gold`) — sparingly: active count,
   small rules, link-hover underlines
 - `--urgent #A63B1F` — countdown when `daysLeft <= 14`
@@ -51,9 +51,10 @@ components):
 color families live in `components/scholarship-badges.tsx`; callout tints in
 `components/callout.tsx`. These three files are the only places status/chip/
 callout color literals may appear.
-- open → bg `#E6F1EA` / text `#145239` / border `#BFDACB`
-- opening_soon → bg `#FAF1DC` / text `#8A5E14` / border `#E9D6A8`
-- closed/unknown → bg `#F0EEE8` / text `#6C675E` / border `#E0DCD1`
+- open → bg `#D1FAE5` / text `#065F46` / border `#6EE7B7` · strip `#10B981`
+- opening_soon → bg `#FEF3C7` / text `#92400E` / border `#FCD34D` · strip `#F59E0B`
+- closed → bg `#FBE7E3` / text `#B23A26` / border `#F3B4A8` · strip `#E05B45`
+- unknown → bg `#F0EEE8` / text `#57534B` / border `#E0DCD1` · strip `#DAD5C8`
 - Status is never conveyed by color alone — text labels always accompany it.
 
 **Feel**: `max-w-6xl`; generous vertical rhythm; `leading-relaxed`; hairline

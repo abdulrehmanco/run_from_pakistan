@@ -62,7 +62,7 @@
   --card-foreground: #1f1d1a;
   --popover: #ffffff;
   --popover-foreground: #1f1d1a;
-  --primary: #175243; /* deep green */
+  --primary: #067a5b; /* emerald */
   --primary-foreground: #ffffff;
   --secondary: #f0eee8; /* stone */
   --secondary-foreground: #1f1d1a;
@@ -73,7 +73,7 @@
   --destructive: #a63b1f; /* urgent rust */
   --border: #e6e3db; /* hairline */
   --input: #e6e3db;
-  --ring: #175243;
+  --ring: #067a5b;
 
   --gold: #b8892d; /* accent — used sparingly */
   --urgent: #a63b1f; /* countdown <= 14 days */

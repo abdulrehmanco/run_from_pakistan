@@ -7,17 +7,17 @@ import { cn } from "@/lib/utils";
  * color literals (see CLAUDE.md "Design language").
  */
 export const STATUS_STYLES: Record<Status["state"], string> = {
-  open: "border-[#BFDACB] bg-[#E6F1EA] text-[#145239]",
-  opening_soon: "border-[#E9D6A8] bg-[#FAF1DC] text-[#8A5E14]",
-  closed: "border-[#E0DCD1] bg-[#F0EEE8] text-[#6C675E]",
-  unknown: "border-[#E0DCD1] bg-[#F0EEE8] text-[#6C675E]",
+  open: "border-[#6EE7B7] bg-[#D1FAE5] text-[#065F46]",
+  opening_soon: "border-[#FCD34D] bg-[#FEF3C7] text-[#92400E]",
+  closed: "border-[#F3B4A8] bg-[#FBE7E3] text-[#B23A26]",
+  unknown: "border-[#E0DCD1] bg-[#F0EEE8] text-[#57534B]",
 };
 
-/** 3px top accent strip color per status. */
+/** 3px top accent strip color per status — the vibrant status signal. */
 export const STATUS_STRIP: Record<Status["state"], string> = {
-  open: "bg-[#175243]",
-  opening_soon: "bg-[#B8892D]",
-  closed: "bg-[#DAD5C8]",
+  open: "bg-[#10B981]",
+  opening_soon: "bg-[#F59E0B]",
+  closed: "bg-[#E05B45]",
   unknown: "bg-[#DAD5C8]",
 };
 
