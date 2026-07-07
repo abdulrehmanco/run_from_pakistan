@@ -28,8 +28,8 @@ official page and shows a last_verified date so students can trust the info.
 - [x] 2 — Schema + types + seed data
 - [x] 3 — Dashboard cards + status logic
 - [x] 4 — Filters / search / sort
-- [ ] 5 — Detail pages + SEO
-- [ ] 6 — Polish / mobile / report-button
+- [x] 5 — Detail pages + SEO
+- [x] 6 — Polish / mobile / report-button
 - [ ] 7 — Deploy (user-led, Vercel CLI or manual GitHub) + README
 
 ## Working agreement
