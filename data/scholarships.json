@@ -3965,5 +3965,530 @@
       "For research programs. You usually need a supervisor.",
       "Dates change every year."
     ]
+  },
+  {
+    "id": "trudeau-foundation-doctoral",
+    "name": "Pierre Elliott Trudeau Foundation Doctoral Scholarship",
+    "provider": "Pierre Elliott Trudeau Foundation",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["PhD"],
+    "fields_of_study": ["Humanities and social sciences"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, up to CAD 50,000 per year for up to 3 years",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Up to CAD 20,000 per year for research and travel",
+        "Leadership, mentorship, and networking program"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "September", "closes": "November" },
+      "cycle_note": "Recent cycle opened 9 September and closed 17 November — expect the same window each year."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English or French proof is usually required for admission.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "You must already be in year 1 or 2 of a full-time PhD at a Canadian university when you apply. Apply directly on the Foundation portal.",
+      "unusual_documents": [
+        "A research topic linked to the Foundation's social themes",
+        "Reference letters"
+      ]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "A research topic linked to the Foundation's themes",
+      "Reference letters",
+      "Proof of English or French"
+    ],
+    "application_steps": [
+      "1. Make sure you are in year 1 or 2 of a full-time PhD at a Canadian university.",
+      "2. Prepare a research topic linked to the Foundation's themes.",
+      "3. Apply on the Foundation portal during the autumn window.",
+      "4. Wait for the selection."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong PhD research record.",
+      "work_experience": null,
+      "other": [
+        "Your PhD must connect to the Foundation's themes in the humanities and social sciences."
+      ]
+    },
+    "official_url": "https://www.trudeaufoundation.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-08",
+    "verified": false,
+    "warnings": [
+      "Not for pure CS/engineering research — your PhD topic must connect to the Foundation's social themes.",
+      "Highly competitive: roughly 15 awards per year.",
+      "It is a stipend and research award. It does not directly pay tuition."
+    ]
+  },
+  {
+    "id": "ubc-international-scholars",
+    "name": "UBC International Scholars Program",
+    "provider": "University of British Columbia",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": ["Vancouver"],
+    "universities": ["University of British Columbia"],
+    "degree_levels": ["BS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Support toward living costs, based on your financial need",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Tuition and living support proportional to financial need",
+        "Up to 4 years"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "December" },
+      "cycle_note": "Application materials are due around November–December for entry the following September."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is required unless you qualify for a waiver.",
+      "application_fee": {
+        "amount": 118,
+        "currency": "CAD",
+        "note": "You apply through the UBC undergraduate application, which has its own fee. Fee waivers may be available."
+      },
+      "admission_required_first": false,
+      "admission_note": "You apply through the UBC undergraduate application, with extra nomination and scholarship steps.",
+      "unusual_documents": [
+        "Proof of financial need",
+        "Evidence of leadership",
+        "School nomination steps"
+      ]
+    },
+    "documents_required": [
+      "School transcripts and results",
+      "Proof of financial need",
+      "Evidence of leadership",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Apply to a UBC undergraduate program.",
+      "2. Complete the extra scholarship and financial-need steps.",
+      "3. Meet the November–December deadline.",
+      "4. Wait for the decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "Top school results.",
+      "work_experience": null,
+      "other": [
+        "You must show financial need and be unable to fund a UBC degree otherwise."
+      ]
+    },
+    "official_url": "https://you.ubc.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-08",
+    "verified": false,
+    "warnings": [
+      "Requires demonstrated financial need plus top academics and leadership — not a pure merit award.",
+      "Undergraduate only.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "ubc-4yf",
+    "name": "UBC Four Year Doctoral Fellowship (4YF)",
+    "provider": "University of British Columbia",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": ["Vancouver"],
+    "universities": ["University of British Columbia"],
+    "degree_levels": ["PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes, about CAD 24,000 per year",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Full tuition", "Stipend for up to 4 years"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": null,
+      "cycle_note": "No separate application. You are considered when you apply for PhD admission at UBC."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for admission.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "No separate application — strong admitted PhD students are considered automatically by their program.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Apply for a UBC PhD program.",
+      "2. Ask your program about the Four Year Doctoral Fellowship.",
+      "3. Strong admitted students are considered automatically.",
+      "4. Wait for the funded-admission decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A very strong record — you must win a UBC PhD place.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.grad.ubc.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-08",
+    "verified": false,
+    "warnings": [
+      "You cannot apply for this directly; winning it means winning UBC PhD admission.",
+      "In Canada, thesis-based graduate programs are often funded by the supervisor through research/teaching assistantships — emailing potential supervisors early matters as much as any scholarship form.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "ontario-graduate-scholarship",
+    "name": "Ontario Graduate Scholarship (OGS)",
+    "provider": "Government of Ontario and Ontario universities",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": [],
+    "universities": ["Multiple universities"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, CAD 15,000 for the year (paid across terms)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "A merit award of CAD 15,000 for one year (renewable by competition)"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "January", "closes": "May" },
+      "cycle_note": "Apply through your Ontario university. Each university sets its own OGS deadline, often between January and May."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for admission.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "Apply through your Ontario university after or with admission — each university has its own OGS deadline, often January–May.",
+      "unusual_documents": ["Application through your Ontario university"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Reference letters",
+      "A short research or study plan",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Apply to and hold admission at an Ontario university.",
+      "2. Submit the OGS application through that university by its deadline.",
+      "3. Wait for the result."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong graduate record.",
+      "work_experience": null,
+      "other": [
+        "International students are eligible for a limited number of OGS awards at each Ontario university."
+      ]
+    },
+    "official_url": "https://www.ontario.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-08",
+    "verified": false,
+    "warnings": [
+      "It is a top-up award (CAD 15,000), not full funding.",
+      "In Canada, thesis-based graduate programs are often funded by the supervisor through research/teaching assistantships — emailing potential supervisors early matters as much as any scholarship form.",
+      "International places are limited. Ask your university about the quota.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "manitoba-umgf",
+    "name": "University of Manitoba Graduate Fellowship (UMGF)",
+    "provider": "University of Manitoba",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": ["Winnipeg"],
+    "universities": ["University of Manitoba"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, a merit fellowship (amount varies by level; master's about CAD 14,000, PhD about CAD 18,000 per year)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": ["Merit fellowship awarded with admission"]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": null,
+      "cycle_note": "No separate application at most units — strong admitted students are considered. Check your department's deadline."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for admission.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "No separate application at most units — you are considered when you apply for admission.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal or study plan",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Apply for a University of Manitoba graduate program.",
+      "2. Ask your department about the UMGF.",
+      "3. Strong admitted students are considered.",
+      "4. Wait for the decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://umanitoba.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-08",
+    "verified": false,
+    "warnings": [
+      "It is merit funding awarded with admission, not a separate scholarship you apply for.",
+      "In Canada, thesis-based graduate programs are often funded by the supervisor through research/teaching assistantships — emailing potential supervisors early matters as much as any scholarship form.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "dalhousie-killam-predoctoral",
+    "name": "Dalhousie Killam Predoctoral Scholarship",
+    "provider": "Dalhousie University",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": ["Halifax"],
+    "universities": ["Dalhousie University"],
+    "degree_levels": ["MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, roughly CAD 30,000 per year",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "A substantial Killam scholarship (about CAD 30,000 per year)"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": { "opens": "November", "closes": "January" },
+      "cycle_note": "Nominated through your department, with deadlines usually in winter (around December to January). Confirm with your department."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for admission.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "You are nominated by your department with admission. Contact the department early.",
+      "unusual_documents": ["Nomination by your department"]
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Apply for a Dalhousie graduate program.",
+      "2. Ask your department about a Killam nomination.",
+      "3. The department nominates strong students.",
+      "4. Wait for the decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A very strong academic record.",
+      "work_experience": null,
+      "other": []
+    },
+    "official_url": "https://www.dal.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-08",
+    "verified": false,
+    "warnings": [
+      "It is nominated through your department with admission, not applied for directly.",
+      "In Canada, thesis-based graduate programs are often funded by the supervisor through research/teaching assistantships — emailing potential supervisors early matters as much as any scholarship form.",
+      "Dates change every year."
+    ]
+  },
+  {
+    "id": "waterloo-imae",
+    "name": "University of Waterloo International Master's Award of Excellence",
+    "provider": "University of Waterloo",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": ["Waterloo"],
+    "universities": ["University of Waterloo"],
+    "degree_levels": ["MS"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": false,
+      "monthly_stipend": "Yes, about CAD 2,500 per term (roughly CAD 7,500 over a typical master's)",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Automatic top-up award for international thesis-based master's students"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": null,
+      "cycle_note": "No separate application — automatic consideration for international thesis-based master's students. Check your program."
+    },
+    "blockers": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for admission.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "No separate application — automatic for eligible international thesis-based master's students.",
+      "unusual_documents": []
+    },
+    "documents_required": [
+      "University transcripts and degrees",
+      "Research proposal or study plan",
+      "Reference letters",
+      "Proof of English"
+    ],
+    "application_steps": [
+      "1. Apply for a thesis-based master's at Waterloo.",
+      "2. Eligible international students are considered automatically.",
+      "3. Talk to possible supervisors about TA/RA funding.",
+      "4. Wait for the decision."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A strong academic record.",
+      "work_experience": null,
+      "other": ["For thesis-based (research) master's students."]
+    },
+    "official_url": "https://uwaterloo.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-08",
+    "verified": false,
+    "warnings": [
+      "Small on its own — Waterloo research master's usually stack this with TA/RA pay from your supervisor.",
+      "In Canada, thesis-based graduate programs are often funded by the supervisor through research/teaching assistantships — emailing potential supervisors early matters as much as any scholarship form.",
+      "For thesis-based master's only."
+    ]
+  },
+  {
+    "id": "udem-exemption",
+    "name": "Université de Montréal Exemption Scholarship",
+    "provider": "Université de Montréal",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": ["Montreal"],
+    "universities": ["Université de Montréal"],
+    "degree_levels": ["BS", "MS", "PhD"],
+    "fields_of_study": ["All fields"],
+    "funding_type": "partial",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": null,
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Automatic tuition reduction for admitted international students (up to about CAD 21,600 per year)"
+      ]
+    },
+    "dates": {
+      "application_open": null,
+      "application_deadline": null,
+      "dates_confirmed": false,
+      "typical_cycle": null,
+      "cycle_note": "Automatic for admitted international students — no separate application. Amounts and rules can change."
+    },
+    "blockers": {
+      "ielts": "not_required",
+      "ielts_note": "Most programs are in French. French proof is usually required; IELTS is usually not.",
+      "application_fee": null,
+      "admission_required_first": true,
+      "admission_note": "Automatic tuition reduction for admitted international students — no separate application.",
+      "unusual_documents": ["French proficiency for most programs"]
+    },
+    "documents_required": [
+      "University or school transcripts",
+      "Proof of French for most programs",
+      "Passport copy"
+    ],
+    "application_steps": [
+      "1. Apply for a Université de Montréal program (check the language).",
+      "2. Admitted international students get the exemption automatically.",
+      "3. Confirm the amount with the university."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": "A good academic record.",
+      "work_experience": null,
+      "other": ["Most programs are taught in French."]
+    },
+    "official_url": "https://www.umontreal.ca",
+    "apply_url": null,
+    "last_verified": "2026-07-08",
+    "verified": false,
+    "warnings": [
+      "Most UdeM programs are taught in French — check your program's language before planning around this.",
+      "It reduces tuition but does not cover living costs.",
+      "Amounts and rules can change."
+    ]
   }
 ]
