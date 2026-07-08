@@ -4490,5 +4490,87 @@
       "It reduces tuition but does not cover living costs.",
       "Amounts and rules can change."
     ]
+  },
+  {
+    "id": "mccall-macbain-mcgill",
+    "name": "McCall MacBain Scholarships",
+    "provider": "McCall MacBain Foundation",
+    "country": "Canada",
+    "country_code": "CA",
+    "cities": [
+      "Montreal"
+    ],
+    "universities": [
+      "McGill University"
+    ],
+    "degree_levels": [
+      "MS"
+    ],
+    "fields_of_study": [
+      "All fields"
+    ],
+    "funding_type": "full",
+    "funding_details": {
+      "tuition_covered": true,
+      "monthly_stipend": "Yes — a living stipend is included",
+      "airfare_covered": false,
+      "health_insurance": false,
+      "other_benefits": [
+        "Full tuition and fees for a McGill master's degree",
+        "Living stipend for the length of the program",
+        "Leadership program: mentorship, coaching, and retreats",
+        "Travel to Montreal for finalist interviews is covered"
+      ]
+    },
+    "dates": {
+      "application_open": "2026-06-01",
+      "application_deadline": "2026-08-19",
+      "dates_confirmed": true,
+      "typical_cycle": {
+        "opens": "June",
+        "closes": "August"
+      },
+      "cycle_note": "Opens each June. International applicants close mid-August; Canada/US-university applicants close late September."
+    },
+    "blockers": {
+      "ielts": "varies",
+      "ielts_note": "You must meet your McGill program's language requirement — many accept proof of English-medium education, check your program.",
+      "application_fee": null,
+      "admission_required_first": false,
+      "admission_note": "Apply for the scholarship first; McGill program application comes after, by its own deadline — finalists must apply to McGill by December.",
+      "unusual_documents": [
+        "Two online reference forms submitted by your referees before the deadline"
+      ]
+    },
+    "documents_required": [
+      "University transcripts",
+      "Online application form",
+      "Two reference forms submitted by your referees"
+    ],
+    "application_steps": [
+      "1. Submit the scholarship form and two references by 19 August.",
+      "2. Shortlisted applicants have regional interviews.",
+      "3. Finalists are interviewed in Montreal (travel covered).",
+      "4. Apply separately to your McGill program by its own deadline (finalists by December).",
+      "5. Decisions come out in early 2027."
+    ],
+    "eligibility": {
+      "open_to_pakistanis": true,
+      "age_limit": null,
+      "min_academic": null,
+      "work_experience": null,
+      "other": [
+        "Finish first bachelor's by Aug 2027, OR earned it Jan 2021 or later, OR earned it earlier and aged 30 or under on 1 Jan 2026."
+      ]
+    },
+    "official_url": "https://mccallmacbainscholars.org",
+    "apply_url": "https://apply.mccallmacbainscholars.org/apply/",
+    "last_verified": "2026-07-08",
+    "verified": true,
+    "warnings": [
+      "International deadline is 19 August — do NOT trust the September date many blogs quote, that is for Canada/US applicants only.",
+      "Selection weighs leadership and community impact heavily, not just grades.",
+      "The scholarship itself has no fee, but your separate McGill program application has its own fee."
+    ]
   }
 ]
