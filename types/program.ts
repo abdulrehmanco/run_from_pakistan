@@ -28,12 +28,19 @@ export const ProgramSchema = z.object({
   language: z.enum(["English", "English+German"]),
   costs: z.object({
     tuition_per_semester_eur: z.number().nullable(),
+    /** For countries that bill per year (Italy, France, NL, Nordics, Turkey,
+     *  Malaysia, China). Set whichever basis the university actually uses;
+     *  leave the other null rather than converting. */
+    tuition_per_year_eur: z.number().nullable(),
     semester_fee_eur: z.number().nullable(),
     note: z.string().nullable(),
   }),
   intakes: z.array(
     z.object({
-      term: z.enum(["winter", "summer"]),
+      /** Use the term the country itself uses: German-speaking and Central
+       *  European systems say "winter" for the October start; most others
+       *  say "autumn". "rolling" means no fixed round. */
+      term: z.enum(["winter", "summer", "autumn", "spring", "rolling"]),
       application_open: z.string().nullable(),
       application_deadline: z.string().nullable(),
       dates_confirmed: z.boolean(),
@@ -47,7 +54,16 @@ export const ProgramSchema = z.object({
     }),
   ),
   application: z.object({
-    platform: z.enum(["uni-assist", "direct", "uni-assist+portal"]),
+    platform: z.enum([
+      "direct", // the university's own portal, nothing else
+      "national-portal", // one national service does everything (SE, FI)
+      "direct+national-step", // university portal PLUS a mandatory national step (IT, FR, NL)
+      "uni-assist", // Germany
+      "uni-assist+portal", // Germany
+    ]),
+    /** Name of the national service, when there is one. */
+    portal_name: z.string().nullable(),
+    portal_url: z.string().url().nullable(),
     vpd_required: z.boolean().nullable(),
     fee_note: z.string().nullable(),
     apply_url: z.string().url().nullable(),
@@ -56,7 +72,9 @@ export const ProgramSchema = z.object({
     ielts: z.enum(["required", "not_required", "moi_accepted", "varies"]),
     ielts_note: z.string().nullable(),
     gre: z.enum(["required", "recommended", "not_required"]),
-    german_required: z.string().nullable(),
+    /** Local-language requirement, in the country's own terms. Null means
+     *  there is nothing to say — the UI then shows no language row at all. */
+    local_language_note: z.string().nullable(),
     aps_required: z.boolean(),
     background_note: z.string().nullable(),
   }),

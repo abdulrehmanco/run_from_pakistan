@@ -12,6 +12,7 @@ import {
   ProgramIntakeList,
 } from "@/components/program-status";
 import { tuitionChip } from "@/components/program-badges";
+import { isTuitionFree } from "@/lib/programFilter";
 import { Chip, VerifiedChip } from "@/components/scholarship-badges";
 import { buttonVariants } from "@/components/ui/button";
 import { Separator } from "@/components/ui/separator";
@@ -40,9 +41,14 @@ function ieltsPhrase(ielts: Program["requirements"]["ielts"]): string {
 }
 
 function tuitionPhrase(costs: Program["costs"]): string {
-  if (costs.tuition_per_semester_eur === 0) return "No tuition, semester fee only";
-  if (costs.tuition_per_semester_eur === null) return "Tuition may apply";
-  return `€${costs.tuition_per_semester_eur.toLocaleString("en-US")} per semester`;
+  if (isTuitionFree(costs)) return "No tuition";
+  if (costs.tuition_per_semester_eur !== null) {
+    return `€${costs.tuition_per_semester_eur.toLocaleString("en-US")} per semester`;
+  }
+  if (costs.tuition_per_year_eur !== null) {
+    return `€${costs.tuition_per_year_eur.toLocaleString("en-US")} per year`;
+  }
+  return "Tuition may apply";
 }
 
 function buildDescription(p: Program): string {
@@ -97,8 +103,11 @@ function Section({
 }
 
 const PLATFORM_LABELS: Record<Program["application"]["platform"], string> = {
-  "uni-assist": "Apply through uni-assist",
   direct: "Apply directly to the university",
+  "national-portal": "Apply through the national application service",
+  "direct+national-step":
+    "Apply to the university AND complete a required national step",
+  "uni-assist": "Apply through uni-assist",
   "uni-assist+portal": "Apply on the university portal + uni-assist VPD",
 };
 
@@ -202,6 +211,25 @@ export default async function ProgramDetailPage({ params }: Params) {
                 ? " A uni-assist VPD (preliminary review) is required."
                 : ""}
             </p>
+            {p.application.portal_name && (
+              <p className="text-sm text-muted-foreground">
+                <span className="font-medium">You must go through:</span>{" "}
+                {p.application.portal_url ? (
+                  <a
+                    href={p.application.portal_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="rounded-sm underline decoration-border underline-offset-4 transition-colors hover:decoration-gold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring"
+                  >
+                    {p.application.portal_name} ↗
+                  </a>
+                ) : (
+                  p.application.portal_name
+                )}
+                . Its own deadline can close before the university&apos;s —
+                check both.
+              </p>
+            )}
             {p.application.fee_note && (
               <p className="text-sm text-muted-foreground">
                 {p.application.fee_note}
@@ -231,14 +259,15 @@ export default async function ProgramDetailPage({ params }: Params) {
                 <li>{p.requirements.background_note}</li>
               )}
               <li>
-                <span className="font-medium">German:</span>{" "}
-                {p.requirements.german_required ??
-                  "Not required for admission (English-taught)."}
-              </li>
-              <li>
                 <span className="font-medium">Language of study:</span>{" "}
                 {p.language === "English" ? "English" : "English and German"}
               </li>
+              {p.requirements.local_language_note && (
+                <li>
+                  <span className="font-medium">Local language:</span>{" "}
+                  {p.requirements.local_language_note}
+                </li>
+              )}
             </ul>
           </Section>
 

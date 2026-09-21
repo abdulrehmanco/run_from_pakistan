@@ -16,6 +16,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "TUM charges its own international tuition for non-EU students. The amount depends on the program — confirm the current fee. A semester fee also applies."
     },
@@ -34,6 +35,8 @@
     ],
     "application": {
       "platform": "uni-assist+portal",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": true,
       "fee_note": "You apply on the university's own portal, but you need a uni-assist VPD (preliminary review) that costs about €75.",
       "apply_url": null
@@ -42,7 +45,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -81,6 +84,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "TUM charges its own international tuition for non-EU students. The amount depends on the program — confirm the current fee. A semester fee also applies."
     },
@@ -99,6 +103,8 @@
     ],
     "application": {
       "platform": "uni-assist+portal",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": true,
       "fee_note": "You apply on the university's own portal, but you need a uni-assist VPD (preliminary review) that costs about €75.",
       "apply_url": null
@@ -107,7 +113,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -145,6 +151,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -163,6 +170,8 @@
     ],
     "application": {
       "platform": "uni-assist+portal",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": true,
       "fee_note": "You apply on the university's own portal, but you need a uni-assist VPD (preliminary review) that costs about €75.",
       "apply_url": null
@@ -171,7 +180,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
     },
@@ -209,6 +218,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -227,6 +237,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -235,7 +247,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
     },
@@ -271,6 +283,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -289,6 +302,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -297,7 +312,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -334,6 +349,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 1500,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Baden-Württemberg charges non-EU students €1,500 per semester in tuition. A semester fee also applies (usually about €150–200). Confirm the current amounts."
     },
@@ -352,6 +368,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -360,7 +378,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
     },
@@ -397,6 +415,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 1500,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Baden-Württemberg charges non-EU students €1,500 per semester in tuition. A semester fee also applies (usually about €150–200). Confirm the current amounts."
     },
@@ -415,6 +434,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -423,7 +444,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -460,6 +481,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 1500,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Baden-Württemberg charges non-EU students €1,500 per semester in tuition. A semester fee also applies (usually about €150–200). Confirm the current amounts."
     },
@@ -478,6 +500,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -486,7 +510,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -523,6 +547,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Bavaria has passed a law allowing tuition for non-EU students. Some programs may now charge and others do not — confirm the current fee. A semester fee also applies."
     },
@@ -541,6 +566,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -549,7 +576,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -586,6 +613,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Bavaria has passed a law allowing tuition for non-EU students. Some programs may now charge and others do not — confirm the current fee. A semester fee also applies."
     },
@@ -604,6 +632,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -612,7 +642,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -649,6 +679,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -667,6 +698,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
       "apply_url": null
@@ -675,7 +708,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -713,6 +746,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -731,6 +765,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
       "apply_url": null
@@ -739,7 +775,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -776,6 +812,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -794,6 +831,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -802,7 +841,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -839,6 +878,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -857,6 +897,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -865,7 +907,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -902,6 +944,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -920,6 +963,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -928,7 +973,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -965,6 +1010,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -983,6 +1029,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -991,7 +1039,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
     },
@@ -1028,6 +1076,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1046,6 +1095,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1054,7 +1105,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
     },
@@ -1091,6 +1142,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1109,6 +1161,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1117,7 +1171,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
     },
@@ -1153,6 +1207,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1171,6 +1226,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1179,7 +1236,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -1215,6 +1272,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Bavaria has passed a law allowing tuition for non-EU students. Some programs may now charge and others do not — confirm the current fee. A semester fee also applies."
     },
@@ -1233,6 +1291,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1241,7 +1301,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -1278,6 +1338,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1296,6 +1357,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
       "apply_url": null
@@ -1304,7 +1367,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -1340,6 +1403,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1358,6 +1422,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1366,7 +1432,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -1402,6 +1468,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1420,6 +1487,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1428,7 +1497,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
     },
@@ -1465,6 +1534,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1483,6 +1553,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
       "apply_url": null
@@ -1491,7 +1563,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
     },
@@ -1527,6 +1599,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1545,6 +1618,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
       "apply_url": null
@@ -1553,7 +1628,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -1590,6 +1665,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1608,6 +1684,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1616,7 +1694,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
     },
@@ -1652,6 +1730,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1670,6 +1749,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1678,7 +1759,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
     },
@@ -1715,6 +1796,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Bavaria has passed a law allowing tuition for non-EU students. Some programs may now charge and others do not — confirm the current fee. A semester fee also applies."
     },
@@ -1733,6 +1815,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "You apply directly to the university. Check whether a uni-assist VPD is also needed.",
       "apply_url": null
@@ -1741,7 +1825,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
     },
@@ -1779,6 +1863,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1797,6 +1882,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1805,7 +1892,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
     },
@@ -1842,6 +1929,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "No tuition fees at this public university. Only a semester fee applies (usually about €150–350, often including a public-transport ticket). Confirm the current amount."
     },
@@ -1860,6 +1948,8 @@
     ],
     "application": {
       "platform": "uni-assist",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": false,
       "fee_note": "uni-assist charges about €75 for the first application and about €30 for each extra one.",
       "apply_url": "https://www.uni-assist.de"
@@ -1868,7 +1958,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. A medium-of-instruction letter is sometimes accepted — confirm on the program page.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": true,
       "background_note": "You need a Bachelor's in Computer Science or engineering with strong programming skills."
     },
@@ -1904,6 +1994,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 727,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
     },
@@ -1922,6 +2013,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -1930,7 +2023,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -1966,6 +2059,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 727,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
     },
@@ -1984,6 +2078,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -1992,7 +2088,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -2028,6 +2124,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 727,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
     },
@@ -2046,6 +2143,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2054,7 +2153,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2090,6 +2189,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 727,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
     },
@@ -2108,6 +2208,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2116,7 +2218,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -2153,6 +2255,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 727,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition at Austrian public universities is about €727 per semester, plus a small student-union fee (~€24). Confirm the current amount."
     },
@@ -2171,6 +2274,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2179,7 +2284,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -2216,6 +2321,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Study in Czech is free, but English-taught programs charge tuition (amount varies by university). Confirm the current amount."
     },
@@ -2234,6 +2340,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2242,7 +2350,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2278,6 +2386,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Study in Czech is free, but English-taught programs charge tuition (amount varies by university). Confirm the current amount."
     },
@@ -2296,6 +2405,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2304,7 +2415,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2340,6 +2451,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Study in Czech is free, but English-taught programs charge tuition (amount varies by university). Confirm the current amount."
     },
@@ -2358,6 +2470,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2366,7 +2480,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2403,6 +2517,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Study in Czech is free, but English-taught programs charge tuition (amount varies by university). Confirm the current amount."
     },
@@ -2421,6 +2536,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2429,7 +2546,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -2465,6 +2582,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
     },
@@ -2483,6 +2601,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2491,7 +2611,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2527,6 +2647,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
     },
@@ -2545,6 +2666,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2553,7 +2676,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2589,6 +2712,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
     },
@@ -2607,6 +2731,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2615,7 +2741,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2651,6 +2777,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
     },
@@ -2669,6 +2796,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2677,7 +2806,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2713,6 +2842,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "English-taught programs charge non-EU tuition, often about €1,000–2,500 per semester (varies by university). Confirm the current amount."
     },
@@ -2731,6 +2861,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2739,7 +2871,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2775,6 +2907,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Self-funded tuition is significant (often several thousand euro per year). Many Pakistani students fund Hungary through the Stipendium Hungaricum scholarship instead. Confirm the current amount."
     },
@@ -2793,6 +2926,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2801,7 +2936,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2837,6 +2972,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Self-funded tuition is significant (often several thousand euro per year). Many Pakistani students fund Hungary through the Stipendium Hungaricum scholarship instead. Confirm the current amount."
     },
@@ -2855,6 +2991,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2863,7 +3001,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2899,6 +3037,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Self-funded tuition is significant (often several thousand euro per year). Many Pakistani students fund Hungary through the Stipendium Hungaricum scholarship instead. Confirm the current amount."
     },
@@ -2917,6 +3056,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2925,7 +3066,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -2962,6 +3103,7 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Self-funded tuition is significant (often several thousand euro per year). Many Pakistani students fund Hungary through the Stipendium Hungaricum scholarship instead. Confirm the current amount."
     },
@@ -2980,6 +3122,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Check the program page for any application fee.",
       "apply_url": null
@@ -2988,7 +3132,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, electrical, or computer engineering."
     },
@@ -3024,12 +3168,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3041,7 +3186,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
       "vpd_required": null,
       "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
       "apply_url": null
@@ -3050,7 +3197,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -3087,12 +3234,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3104,7 +3252,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
       "vpd_required": null,
       "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
       "apply_url": null
@@ -3113,7 +3263,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -3151,12 +3301,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3168,7 +3319,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
       "vpd_required": null,
       "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
       "apply_url": null
@@ -3177,7 +3330,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -3214,12 +3367,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3231,7 +3385,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
       "vpd_required": null,
       "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
       "apply_url": null
@@ -3240,7 +3396,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -3277,12 +3433,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3294,7 +3451,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
       "vpd_required": null,
       "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
       "apply_url": null
@@ -3303,7 +3462,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -3340,12 +3499,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU Master's tuition is about €3,900 per year (≈ €1,950 per semester), but many universities waive part or all of it to the reduced rate. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3357,7 +3517,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Campus France — Études en France",
+      "portal_url": "https://www.campusfrance.org",
       "vpd_required": null,
       "fee_note": "You apply through Campus France 'Études en France', which has its own fee, plus any university fee. Check current amounts.",
       "apply_url": null
@@ -3366,7 +3528,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -3403,12 +3565,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU Master's tuition is about €3,900 per year (≈ €1,950 per semester), but many universities waive part or all of it to the reduced rate. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3420,7 +3583,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Campus France — Études en France",
+      "portal_url": "https://www.campusfrance.org",
       "vpd_required": null,
       "fee_note": "You apply through Campus France 'Études en France', which has its own fee, plus any university fee. Check current amounts.",
       "apply_url": null
@@ -3429,7 +3594,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -3466,12 +3631,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU Master's tuition is about €3,900 per year (≈ €1,950 per semester), but many universities waive part or all of it to the reduced rate. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3483,7 +3649,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Campus France — Études en France",
+      "portal_url": "https://www.campusfrance.org",
       "vpd_required": null,
       "fee_note": "You apply through Campus France 'Études en France', which has its own fee, plus any university fee. Check current amounts.",
       "apply_url": null
@@ -3492,7 +3660,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -3529,12 +3697,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU Master's tuition is about €3,900 per year (≈ €1,950 per semester), but many universities waive part or all of it to the reduced rate. Confirm with the university."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3546,7 +3715,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Campus France — Études en France",
+      "portal_url": "https://www.campusfrance.org",
       "vpd_required": null,
       "fee_note": "You apply through Campus France 'Études en France', which has its own fee, plus any university fee. Check current amounts.",
       "apply_url": null
@@ -3555,7 +3726,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a close field, with some security or networks background."
     },
@@ -3592,12 +3763,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3609,7 +3781,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Studielink",
+      "portal_url": "https://www.studielink.nl",
       "vpd_required": null,
       "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
       "apply_url": null
@@ -3618,7 +3792,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -3656,12 +3830,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3673,7 +3848,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Studielink",
+      "portal_url": "https://www.studielink.nl",
       "vpd_required": null,
       "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
       "apply_url": null
@@ -3682,7 +3859,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
     },
@@ -3719,12 +3896,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3736,7 +3914,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Studielink",
+      "portal_url": "https://www.studielink.nl",
       "vpd_required": null,
       "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
       "apply_url": null
@@ -3745,7 +3925,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -3782,12 +3962,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3799,7 +3980,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Studielink",
+      "portal_url": "https://www.studielink.nl",
       "vpd_required": null,
       "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
       "apply_url": null
@@ -3808,7 +3991,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -3845,12 +4028,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Non-EU tuition for a CS Master's is usually €15,000–22,000 per year (≈ €7,500–11,000 per semester), varying by university. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3862,7 +4046,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "direct+national-step",
+      "portal_name": "Studielink",
+      "portal_url": "https://www.studielink.nl",
       "vpd_required": null,
       "fee_note": "You apply through Studielink plus the university's own portal. Some universities charge an application fee. Check the program page.",
       "apply_url": null
@@ -3871,7 +4057,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -3908,12 +4094,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 6750,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "About SEK 130,000–155,000 per year (≈ €12,000–15,000, roughly €6,000–7,500 per semester). Varies by university — confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3925,7 +4112,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "national-portal",
+      "portal_name": "universityadmissions.se",
+      "portal_url": "https://www.universityadmissions.se",
       "vpd_required": null,
       "fee_note": "One national portal (universityadmissions.se). There is a SEK 900 application fee (about €80).",
       "apply_url": null
@@ -3934,7 +4123,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -3972,12 +4161,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 6750,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "About SEK 130,000–155,000 per year (≈ €12,000–15,000, roughly €6,000–7,500 per semester). Varies by university — confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -3989,7 +4179,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "national-portal",
+      "portal_name": "universityadmissions.se",
+      "portal_url": "https://www.universityadmissions.se",
       "vpd_required": null,
       "fee_note": "One national portal (universityadmissions.se). There is a SEK 900 application fee (about €80).",
       "apply_url": null
@@ -3998,7 +4190,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -4035,12 +4227,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 6750,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "About SEK 130,000–155,000 per year (≈ €12,000–15,000, roughly €6,000–7,500 per semester). Varies by university — confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4052,7 +4245,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "national-portal",
+      "portal_name": "universityadmissions.se",
+      "portal_url": "https://www.universityadmissions.se",
       "vpd_required": null,
       "fee_note": "One national portal (universityadmissions.se). There is a SEK 900 application fee (about €80).",
       "apply_url": null
@@ -4061,7 +4256,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4098,12 +4293,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 6750,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "About SEK 130,000–155,000 per year (≈ €12,000–15,000, roughly €6,000–7,500 per semester). Varies by university — confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4115,7 +4311,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "national-portal",
+      "portal_name": "universityadmissions.se",
+      "portal_url": "https://www.universityadmissions.se",
       "vpd_required": null,
       "fee_note": "One national portal (universityadmissions.se). There is a SEK 900 application fee (about €80).",
       "apply_url": null
@@ -4124,7 +4322,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4161,12 +4359,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 6500,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "About €10,000–18,000 per year (≈ €5,000–9,000 per semester), but most universities give big automatic tuition waivers (50–100%) to strong admitted applicants. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4178,7 +4377,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "national-portal",
+      "portal_name": "Studyinfo (Opintopolku)",
+      "portal_url": "https://studyinfo.fi",
       "vpd_required": null,
       "fee_note": "Applications go through the national Studyinfo service. Check the program page for any fee.",
       "apply_url": null
@@ -4187,7 +4388,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4224,12 +4425,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 6500,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "About €10,000–18,000 per year (≈ €5,000–9,000 per semester), but most universities give big automatic tuition waivers (50–100%) to strong admitted applicants. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4241,7 +4443,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "national-portal",
+      "portal_name": "Studyinfo (Opintopolku)",
+      "portal_url": "https://studyinfo.fi",
       "vpd_required": null,
       "fee_note": "Applications go through the national Studyinfo service. Check the program page for any fee.",
       "apply_url": null
@@ -4250,7 +4454,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4287,12 +4491,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 6500,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "About €10,000–18,000 per year (≈ €5,000–9,000 per semester), but most universities give big automatic tuition waivers (50–100%) to strong admitted applicants. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4304,7 +4509,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "national-portal",
+      "portal_name": "Studyinfo (Opintopolku)",
+      "portal_url": "https://studyinfo.fi",
       "vpd_required": null,
       "fee_note": "Applications go through the national Studyinfo service. Check the program page for any fee.",
       "apply_url": null
@@ -4313,7 +4520,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4350,12 +4557,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 6500,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "About €10,000–18,000 per year (≈ €5,000–9,000 per semester), but most universities give big automatic tuition waivers (50–100%) to strong admitted applicants. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4367,7 +4575,9 @@
       }
     ],
     "application": {
-      "platform": "direct",
+      "platform": "national-portal",
+      "portal_name": "Studyinfo (Opintopolku)",
+      "portal_url": "https://studyinfo.fi",
       "vpd_required": null,
       "fee_note": "Applications go through the national Studyinfo service. Check the program page for any fee.",
       "apply_url": null
@@ -4376,7 +4586,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4413,12 +4623,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition that varies a lot by program. Salaried PhD positions are an exception. Confirm the current fee."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4431,6 +4642,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international admissions. Check the program page for any fee.",
       "apply_url": null
@@ -4439,7 +4652,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4477,12 +4690,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition that varies a lot by program. Salaried PhD positions are an exception. Confirm the current fee."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4495,6 +4709,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international admissions. Check the program page for any fee.",
       "apply_url": null
@@ -4503,7 +4719,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, software engineering, or a close field."
     },
@@ -4540,12 +4756,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition that varies a lot by program. Salaried PhD positions are an exception. Confirm the current fee."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4558,6 +4775,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international admissions. Check the program page for any fee.",
       "apply_url": null
@@ -4566,7 +4785,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4603,12 +4822,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Norway ended free tuition for non-EU students in 2023. Expect five-figure yearly tuition that varies a lot by program. Salaried PhD positions are an exception. Confirm the current fee."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4621,6 +4841,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international admissions. Check the program page for any fee.",
       "apply_url": null
@@ -4629,7 +4851,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4666,12 +4888,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 400,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public universities are cheap for international students — usually a few hundred euro per semester (about €300–700), varying by university. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4684,6 +4907,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international office. Some charge an application fee. Check the program page.",
       "apply_url": null
@@ -4692,7 +4917,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4729,12 +4954,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 400,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public universities are cheap for international students — usually a few hundred euro per semester (about €300–700), varying by university. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4747,6 +4973,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international office. Some charge an application fee. Check the program page.",
       "apply_url": null
@@ -4755,7 +4983,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4792,12 +5020,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 400,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public universities are cheap for international students — usually a few hundred euro per semester (about €300–700), varying by university. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4810,6 +5039,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international office. Some charge an application fee. Check the program page.",
       "apply_url": null
@@ -4818,7 +5049,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4855,12 +5086,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 400,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Public universities are cheap for international students — usually a few hundred euro per semester (about €300–700), varying by university. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4873,6 +5105,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international office. Some charge an application fee. Check the program page.",
       "apply_url": null
@@ -4881,7 +5115,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4918,12 +5152,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Fully funded upon admission — tuition, monthly stipend, and housing are included."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4936,6 +5171,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "No tuition — admission includes funding. Check the program page for any application fee.",
       "apply_url": null
@@ -4944,7 +5181,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -4980,12 +5217,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Fully funded upon admission — tuition, monthly stipend, and housing are included."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -4998,6 +5236,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "No tuition — admission includes funding. Check the program page for any application fee.",
       "apply_url": null
@@ -5006,7 +5246,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -5042,12 +5282,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": 0,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Fully funded upon admission — tuition, monthly stipend, and housing are included."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5060,6 +5301,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "No tuition — admission includes funding. Check the program page for any application fee.",
       "apply_url": null
@@ -5068,7 +5311,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science, maths, or a related field, with programming and statistics knowledge."
     },
@@ -5104,12 +5347,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Self-funded English-taught CS Master's usually cost €2,500–5,000 per year (≈ €1,250–2,500 per semester), varying by university. Many pair admission with the CSC scholarship. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5122,6 +5366,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international student portal. Many charge an application fee. Check the program page.",
       "apply_url": null
@@ -5130,7 +5376,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -5167,12 +5413,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Self-funded English-taught CS Master's usually cost €2,500–5,000 per year (≈ €1,250–2,500 per semester), varying by university. Many pair admission with the CSC scholarship. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5185,6 +5432,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international student portal. Many charge an application fee. Check the program page.",
       "apply_url": null
@@ -5193,7 +5442,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -5230,12 +5479,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Self-funded English-taught CS Master's usually cost €2,500–5,000 per year (≈ €1,250–2,500 per semester), varying by university. Many pair admission with the CSC scholarship. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5248,6 +5498,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international student portal. Many charge an application fee. Check the program page.",
       "apply_url": null
@@ -5256,7 +5508,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -5293,12 +5545,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "Self-funded English-taught CS Master's usually cost €2,500–5,000 per year (≈ €1,250–2,500 per semester), varying by university. Many pair admission with the CSC scholarship. Confirm."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5311,6 +5564,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply to each university's international student portal. Many charge an application fee. Check the program page.",
       "apply_url": null
@@ -5319,7 +5574,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -5356,12 +5611,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "International Master's tuition is roughly €1,500–3,500 per year total (≈ RM 7,000–17,000), varying by university and program. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5374,6 +5630,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply directly to each university. Most charge an application fee. EMGS processes the student visa after admission.",
       "apply_url": null
@@ -5382,7 +5640,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -5419,12 +5677,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "International Master's tuition is roughly €1,500–3,500 per year total (≈ RM 7,000–17,000), varying by university and program. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5437,6 +5696,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply directly to each university. Most charge an application fee. EMGS processes the student visa after admission.",
       "apply_url": null
@@ -5445,7 +5706,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -5482,12 +5743,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "International Master's tuition is roughly €1,500–3,500 per year total (≈ RM 7,000–17,000), varying by university and program. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5500,6 +5762,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply directly to each university. Most charge an application fee. EMGS processes the student visa after admission.",
       "apply_url": null
@@ -5508,7 +5772,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },
@@ -5545,12 +5809,13 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
       "semester_fee_eur": null,
       "note": "International Master's tuition is roughly €1,500–3,500 per year total (≈ RM 7,000–17,000), varying by university and program. Confirm the current amount."
     },
     "intakes": [
       {
-        "term": "winter",
+        "term": "autumn",
         "application_open": null,
         "application_deadline": null,
         "dates_confirmed": false,
@@ -5563,6 +5828,8 @@
     ],
     "application": {
       "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
       "vpd_required": null,
       "fee_note": "Apply directly to each university. Most charge an application fee. EMGS processes the student visa after admission.",
       "apply_url": null
@@ -5571,7 +5838,7 @@
       "ielts": "required",
       "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score.",
       "gre": "not_required",
-      "german_required": null,
+      "local_language_note": null,
       "aps_required": false,
       "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programs check your credits in maths, theory, and programming."
     },

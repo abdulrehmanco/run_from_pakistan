@@ -4,7 +4,7 @@ import { useMemo } from "react";
 import type { Program } from "@/types/program";
 import { computeProgramStatus, computeIntakeStatus } from "@/lib/status";
 import { StatusBadge, StatusLine } from "@/components/status-view";
-import { formatIntakeLine, formatISODate } from "@/lib/format";
+import { formatIntakeLine, formatISODate, TERM_LABELS } from "@/lib/format";
 
 /** Detail-header status island: overall status badge + intake summary line. */
 export function ProgramStatusIsland({ program }: { program: Program }) {
@@ -35,7 +35,7 @@ export function ProgramIntakeList({ program }: { program: Program }) {
     <ul className="flex flex-col gap-4">
       {program.intakes.map((i, idx) => {
         const st = computeIntakeStatus(i, today);
-        const term = i.term === "winter" ? "Winter" : "Summer";
+        const term = TERM_LABELS[i.term];
         return (
           <li key={`${i.term}-${idx}`} className="flex flex-col gap-1">
             <div className="flex flex-wrap items-center gap-2">

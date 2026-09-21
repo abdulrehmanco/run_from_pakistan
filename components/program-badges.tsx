@@ -1,21 +1,32 @@
 import type { Program } from "@/types/program";
 import { Chip } from "@/components/scholarship-badges";
+import { isTuitionFree } from "@/lib/programFilter";
 
-/** Plain-English tuition summary chip text + tone. */
+/**
+ * Plain-English tuition summary chip text + tone. Shows the figure on the
+ * basis the university actually bills — per semester (Germany, Austria) or
+ * per year (Italy, France, the Nordics) — never a converted one.
+ */
 export function tuitionChip(costs: Program["costs"]): {
   tone: "good" | "friction";
   label: string;
 } {
-  if (costs.tuition_per_semester_eur === 0) {
-    return { tone: "good", label: "No tuition · semester fee only" };
+  if (isTuitionFree(costs)) {
+    return { tone: "good", label: "No tuition" };
   }
-  if (costs.tuition_per_semester_eur === null) {
-    return { tone: "friction", label: "Tuition applies — confirm" };
+  if (costs.tuition_per_semester_eur !== null) {
+    return {
+      tone: "friction",
+      label: `€${costs.tuition_per_semester_eur.toLocaleString("en-US")} per semester`,
+    };
   }
-  return {
-    tone: "friction",
-    label: `€${costs.tuition_per_semester_eur.toLocaleString("en-US")} per semester`,
-  };
+  if (costs.tuition_per_year_eur !== null) {
+    return {
+      tone: "friction",
+      label: `€${costs.tuition_per_year_eur.toLocaleString("en-US")} per year`,
+    };
+  }
+  return { tone: "friction", label: "Tuition applies — confirm" };
 }
 
 /**

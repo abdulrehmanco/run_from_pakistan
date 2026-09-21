@@ -1,6 +1,11 @@
 import type { Program } from "@/types/program";
 import { computeProgramStatus, type Status } from "@/lib/status";
 
+/** True when the university charges no tuition, on whichever basis it bills. */
+export function isTuitionFree(costs: Program["costs"]): boolean {
+  return costs.tuition_per_semester_eur === 0 || costs.tuition_per_year_eur === 0;
+}
+
 export type FieldTag = Program["field_tags"][number];
 export type ProgramStatusFilter = "open" | "opening_soon" | "closed";
 export type ProgramSortKey = "recommended" | "university";
@@ -168,7 +173,7 @@ export function filterPrograms(
 
     if (c.greNotRequired && p.requirements.gre !== "not_required") return false;
 
-    if (c.noTuition && p.costs.tuition_per_semester_eur !== 0) return false;
+    if (c.noTuition && !isTuitionFree(p.costs)) return false;
 
     if (!matchesQuery(p, c.q)) return false;
 

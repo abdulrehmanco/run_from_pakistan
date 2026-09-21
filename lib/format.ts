@@ -35,8 +35,19 @@ export function formatDayMonth(iso: string): string {
 
 /** One-line summary of a program's most relevant intake, e.g.
  *  "Winter intake · usually Apr–Jul (est.)" or with a confirmed deadline. */
+/** Intake labels, in each country's own words. The one place these live. */
+export const TERM_LABELS = {
+  winter: "Winter",
+  summer: "Summer",
+  autumn: "Autumn",
+  spring: "Spring",
+  rolling: "Rolling",
+} as const;
+
+export type IntakeTerm = keyof typeof TERM_LABELS;
+
 export function formatIntakeLine(ps: {
-  term: "winter" | "summer" | null;
+  term: IntakeTerm | null;
   status: { estimated: boolean };
   intake: {
     dates_confirmed: boolean;
@@ -47,7 +58,7 @@ export function formatIntakeLine(ps: {
   if (!ps.intake || !ps.term) {
     return "Check the program page for intake dates.";
   }
-  const term = ps.term === "winter" ? "Winter" : "Summer";
+  const term = TERM_LABELS[ps.term];
   const i = ps.intake;
   if (i.dates_confirmed && i.application_deadline) {
     return `${term} intake · deadline ${formatISODate(i.application_deadline)}`;
