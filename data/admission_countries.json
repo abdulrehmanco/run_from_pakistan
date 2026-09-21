@@ -121,6 +121,50 @@
     }
   },
   {
+    "country": "Portugal",
+    "country_code": "PT",
+    "country_slug": "portugal",
+    "status": "active",
+    "note": "Public universities charge non-EU students roughly €2,000–€7,000 per year for a Master's, and each university sets its own rate. Most also charge a €50–€100 application fee. You apply directly to each university — there is no single national portal.",
+    "catalog": {
+      "label": "DGES (official higher education directory)",
+      "url": "https://www.dges.gov.pt"
+    }
+  },
+  {
+    "country": "Spain",
+    "country_code": "ES",
+    "country_slug": "spain",
+    "status": "active",
+    "note": "Tuition is charged per credit and each region sets the rate — Madrid is around €45 per ECTS while Catalonia is around €110, and some regions charge non-EU students more. A 60-credit year can cost anywhere from about €1,000 to €6,000. Most autumn applications close in April or May.",
+    "catalog": {
+      "label": "Ministry of Universities",
+      "url": "https://www.universidades.gob.es"
+    }
+  },
+  {
+    "country": "Estonia",
+    "country_code": "EE",
+    "country_slug": "estonia",
+    "status": "active",
+    "note": "Almost everything runs through one portal, DreamApply, and for autumn the non-EU deadline is usually 1 April. An English-taught CS Master's costs roughly €3,000–€6,000 per year. Important: the University of Tartu stopped giving tuition waivers to newly admitted non-EU students from 2026/27 — some programmes offer partial reductions instead.",
+    "catalog": {
+      "label": "Study in Estonia",
+      "url": "https://www.studyinestonia.ee"
+    }
+  },
+  {
+    "country": "Ireland",
+    "country_code": "IE",
+    "country_slug": "ireland",
+    "status": "active",
+    "note": "English-speaking, but the most expensive country on this list: non-EU Master's tuition runs roughly €18,000–€37,000 per year, and the visa also asks you to show about €10,000 for living costs. Applications for the September intake usually open the previous November and many close around June. A €2,000–€5,000 deposit is normal once you accept an offer.",
+    "catalog": {
+      "label": "Education in Ireland",
+      "url": "https://www.educationinireland.com"
+    }
+  },
+  {
     "country": "Turkey",
     "country_code": "TR",
     "country_slug": "turkey",

@@ -4476,21 +4476,21 @@
     "language": "English",
     "costs": {
       "tuition_per_semester_eur": null,
-      "tuition_per_year_eur": null,
+      "tuition_per_year_eur": 2950,
       "semester_fee_eur": null,
-      "note": "Public tuition is about €1,000–4,000 per year but drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+      "note": "Checked on 21 Sep 2026: €2,950 per year, plus a one-off €60 application fee and a €208 non-refundable deposit. The income-based ISEE calculation can lower the yearly figure."
     },
     "intakes": [
       {
         "term": "autumn",
-        "application_open": null,
-        "application_deadline": null,
-        "dates_confirmed": false,
+        "application_open": "2026-09-15",
+        "application_deadline": "2026-11-15",
+        "dates_confirmed": true,
         "typical_window": {
-          "opens": "January",
-          "closes": "April"
+          "opens": "September",
+          "closes": "March"
         },
-        "note": "Autumn intake. Non-EU applicants apply early in the year and pre-enrol through Universitaly. Degree verification (CIMEA / Declaration of Value) takes time — start early."
+        "note": "For 2027/28 (studies start 1 October 2027) Padua runs two calls for non-EU applicants: Call One 15 September – 15 November 2026, and Call Two 1 December 2026 – 1 March 2027. Call Three (1 April – 1 June 2027) is only for EU applicants and non-EU applicants already living in Italy."
       }
     ],
     "application": {
@@ -4498,7 +4498,7 @@
       "portal_name": "Universitaly (pre-enrolment)",
       "portal_url": "https://www.universitaly.it",
       "vpd_required": null,
-      "fee_note": "Apply to each university; some charge a small fee. Pre-enrolment goes through Universitaly. Check the program page.",
+      "fee_note": "Checked on 21 Sep 2026: the application costs €60, plus a €208 non-refundable deposit once you are admitted.",
       "apply_url": null
     },
     "requirements": {
@@ -4521,8 +4521,8 @@
       "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
       "Dates change every year."
     ],
-    "program_url": "https://www.unipd.it",
-    "last_verified": "2026-07-07",
+    "program_url": "https://apply.unipd.it/courses/course/63-computer-science",
+    "last_verified": "2026-09-21",
     "verified": false
   },
   {
@@ -5260,6 +5260,143 @@
       "Pick your track — Data Science and Engineering, or Software Security and Engineering — before you apply."
     ],
     "program_url": "https://corsi.unige.it/en/corsi/11964",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "it-unical-msc-ai-computer-science",
+    "university": "University of Calabria",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence and Computer Science",
+    "degree": "MSc",
+    "city": "Rende",
+    "state": "Calabria",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "AI",
+      "CS",
+      "Data Science",
+      "Cybersecurity"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition depends on the income-based ISEE calculation. Checked on 21 Sep 2026: the course page did not list a figure — ask the welcome office."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake, starting in October. Checked on 21 Sep 2026: the course page did not list an application deadline — contact the welcome office for the current call."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal. Confirm any application fee with the welcome office.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English at B2 level is required. Confirm which certificates are accepted.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or Computer Science Engineering. The course has two tracks: Data Science, or Computer Security."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Checked on 21 Sep 2026: 15 places are reserved for international students and 12 scholarships are offered — ask the welcome office how to apply for them.",
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.unical.it/internazionale/intenational-students/artificial-intelligence-and-computer-science/",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "it-unipd-msc-computer-engineering",
+    "university": "University of Padua",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering",
+    "degree": "MSc",
+    "city": "Padua",
+    "state": "Veneto",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS",
+      "Embedded"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": 2950,
+      "semester_fee_eur": null,
+      "note": "Checked on 21 Sep 2026: €2,950 per year, plus a one-off €60 application fee and a €208 non-refundable deposit. The income-based ISEE calculation can lower the yearly figure."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": "2026-09-15",
+        "application_deadline": "2026-11-15",
+        "dates_confirmed": true,
+        "typical_window": {
+          "opens": "September",
+          "closes": "March"
+        },
+        "note": "For 2027/28 (studies start 1 October 2027) Padua runs two calls for non-EU applicants: Call One 15 September – 15 November 2026, and Call Two 1 December 2026 – 1 March 2027. Call Three (1 April – 1 June 2027) is only for EU applicants and non-EU applicants already living in Italy."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Checked on 21 Sep 2026: the application costs €60, plus a €208 non-refundable deposit once you are admitted.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in computer engineering, computer science or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Call One for 2027/28 closes 15 November 2026 — the next chance is Call Two, which closes 1 March 2027.",
+      "Tuition depends on your income (ISEE). Low-income students can pay less than the listed figure.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early."
+    ],
+    "program_url": "https://apply.unipd.it/courses/course/90-computer-engineering",
     "last_verified": "2026-09-21",
     "verified": false
   },
@@ -9574,6 +9711,1072 @@
     ],
     "program_url": "https://www.upm.edu.my",
     "last_verified": "2026-07-07",
+    "verified": false
+  },
+  {
+    "id": "pt-porto-msc-informatics-computing-engineering",
+    "university": "University of Porto",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Informatics and Computing Engineering",
+    "degree": "MSc",
+    "city": "Porto",
+    "state": "Porto",
+    "country": "Portugal",
+    "country_code": "PT",
+    "country_slug": "portugal",
+    "field_tags": [
+      "CS",
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU students pay an international rate set by each university — roughly €2,000–€7,000 per year for a Master's. Confirm the exact figure on the course page."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "March",
+          "closes": "July"
+        },
+        "note": "Autumn intake. Portuguese universities usually run several application phases between spring and summer. Checked on 21 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Most Portuguese universities charge a non-refundable application fee, usually €50–€100. Confirm on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is normally required. A medium-of-instruction letter is sometimes accepted — confirm on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, Informatics Engineering or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's portal in one of its application phases.",
+      "4. Pay the application fee.",
+      "5. If admitted, get your degree recognised and apply for the student visa."
+    ],
+    "warnings": [
+      "Non-EU students pay a higher international tuition rate than EU students.",
+      "Applications run in phases — later phases have fewer places. Apply in the first one.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.up.pt",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "pt-nova-msc-computer-science-engineering",
+    "university": "NOVA University Lisbon",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Engineering",
+    "degree": "MSc",
+    "city": "Lisbon",
+    "state": "Lisbon",
+    "country": "Portugal",
+    "country_code": "PT",
+    "country_slug": "portugal",
+    "field_tags": [
+      "CS",
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU students pay an international rate set by each university — roughly €2,000–€7,000 per year for a Master's. Confirm the exact figure on the course page."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "March",
+          "closes": "July"
+        },
+        "note": "Autumn intake. Portuguese universities usually run several application phases between spring and summer. Checked on 21 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Most Portuguese universities charge a non-refundable application fee, usually €50–€100. Confirm on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is normally required. A medium-of-instruction letter is sometimes accepted — confirm on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, Informatics Engineering or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's portal in one of its application phases.",
+      "4. Pay the application fee.",
+      "5. If admitted, get your degree recognised and apply for the student visa."
+    ],
+    "warnings": [
+      "Non-EU students pay a higher international tuition rate than EU students.",
+      "Applications run in phases — later phases have fewer places. Apply in the first one.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.unl.pt",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "pt-minho-msc-informatics-engineering",
+    "university": "University of Minho",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Informatics Engineering",
+    "degree": "MSc",
+    "city": "Braga",
+    "state": "Braga",
+    "country": "Portugal",
+    "country_code": "PT",
+    "country_slug": "portugal",
+    "field_tags": [
+      "CS",
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU students pay an international rate set by each university — roughly €2,000–€7,000 per year for a Master's. Confirm the exact figure on the course page."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "March",
+          "closes": "July"
+        },
+        "note": "Autumn intake. Portuguese universities usually run several application phases between spring and summer. Checked on 21 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Most Portuguese universities charge a non-refundable application fee, usually €50–€100. Confirm on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is normally required. A medium-of-instruction letter is sometimes accepted — confirm on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, Informatics Engineering or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's portal in one of its application phases.",
+      "4. Pay the application fee.",
+      "5. If admitted, get your degree recognised and apply for the student visa."
+    ],
+    "warnings": [
+      "Non-EU students pay a higher international tuition rate than EU students.",
+      "Applications run in phases — later phases have fewer places. Apply in the first one.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.uminho.pt",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "pt-aveiro-msc-informatics-engineering",
+    "university": "University of Aveiro",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Informatics Engineering",
+    "degree": "MSc",
+    "city": "Aveiro",
+    "state": "Aveiro",
+    "country": "Portugal",
+    "country_code": "PT",
+    "country_slug": "portugal",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU students pay an international rate set by each university — roughly €2,000–€7,000 per year for a Master's. Confirm the exact figure on the course page."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "March",
+          "closes": "July"
+        },
+        "note": "Autumn intake. Portuguese universities usually run several application phases between spring and summer. Checked on 21 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Most Portuguese universities charge a non-refundable application fee, usually €50–€100. Confirm on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is normally required. A medium-of-instruction letter is sometimes accepted — confirm on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, Informatics Engineering or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply directly on the university's portal in one of its application phases.",
+      "4. Pay the application fee.",
+      "5. If admitted, get your degree recognised and apply for the student visa."
+    ],
+    "warnings": [
+      "Non-EU students pay a higher international tuition rate than EU students.",
+      "Applications run in phases — later phases have fewer places. Apply in the first one.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.ua.pt",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "es-upm-msc-software-systems",
+    "university": "Universidad Politécnica de Madrid",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Software and Systems",
+    "degree": "MSc",
+    "city": "Madrid",
+    "state": "Community of Madrid",
+    "country": "Spain",
+    "country_code": "ES",
+    "country_slug": "spain",
+    "field_tags": [
+      "SE",
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Tuition is per credit and set by the region. Madrid is around €45 per ECTS and Catalonia around €110, so a 60-credit year runs from about €1,000 to €6,000. Some regions charge non-EU students more — confirm the rate for your region."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "May"
+        },
+        "note": "Autumn intake. Most public universities close applications in April or May. Checked on 21 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal. Confirm any application fee on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is normally required for English-taught programs. Confirm the minimum score.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, Informatics or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Get your degree legalised or apostilled early — Spain usually asks for it.",
+      "4. Apply on the university's own portal before its deadline.",
+      "5. If admitted, enrol and apply for the student visa."
+    ],
+    "warnings": [
+      "Tuition depends on the region, not the university ranking. Check the per-credit rate before you apply.",
+      "Spain usually wants a legalised or apostilled degree — start that early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://muss.fi.upm.es/en",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "es-upc-msc-innovation-research-informatics",
+    "university": "Universitat Politècnica de Catalunya",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Innovation and Research in Informatics",
+    "degree": "MSc",
+    "city": "Barcelona",
+    "state": "Catalonia",
+    "country": "Spain",
+    "country_code": "ES",
+    "country_slug": "spain",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Tuition is per credit and set by the region. Madrid is around €45 per ECTS and Catalonia around €110, so a 60-credit year runs from about €1,000 to €6,000. Some regions charge non-EU students more — confirm the rate for your region."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "May"
+        },
+        "note": "Autumn intake. Most public universities close applications in April or May. Checked on 21 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal. Confirm any application fee on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is normally required for English-taught programs. Confirm the minimum score.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, Informatics or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Get your degree legalised or apostilled early — Spain usually asks for it.",
+      "4. Apply on the university's own portal before its deadline.",
+      "5. If admitted, enrol and apply for the student visa."
+    ],
+    "warnings": [
+      "Tuition depends on the region, not the university ranking. Check the per-credit rate before you apply.",
+      "Spain usually wants a legalised or apostilled degree — start that early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.upc.edu",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "es-upc-msc-artificial-intelligence",
+    "university": "Universitat Politècnica de Catalunya",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Barcelona",
+    "state": "Catalonia",
+    "country": "Spain",
+    "country_code": "ES",
+    "country_slug": "spain",
+    "field_tags": [
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Tuition is per credit and set by the region. Madrid is around €45 per ECTS and Catalonia around €110, so a 60-credit year runs from about €1,000 to €6,000. Some regions charge non-EU students more — confirm the rate for your region."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "May"
+        },
+        "note": "Autumn intake. Most public universities close applications in April or May. Checked on 21 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal. Confirm any application fee on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is normally required for English-taught programs. Confirm the minimum score.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, Informatics or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Get your degree legalised or apostilled early — Spain usually asks for it.",
+      "4. Apply on the university's own portal before its deadline.",
+      "5. If admitted, enrol and apply for the student visa."
+    ],
+    "warnings": [
+      "Tuition depends on the region, not the university ranking. Check the per-credit rate before you apply.",
+      "Spain usually wants a legalised or apostilled degree — start that early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.upc.edu",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "es-uc3m-msc-computer-science-technology",
+    "university": "Universidad Carlos III de Madrid",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Technology",
+    "degree": "MSc",
+    "city": "Madrid",
+    "state": "Community of Madrid",
+    "country": "Spain",
+    "country_code": "ES",
+    "country_slug": "spain",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Tuition is per credit and set by the region. Madrid is around €45 per ECTS and Catalonia around €110, so a 60-credit year runs from about €1,000 to €6,000. Some regions charge non-EU students more — confirm the rate for your region."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "May"
+        },
+        "note": "Autumn intake. Most public universities close applications in April or May. Checked on 21 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal. Confirm any application fee on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is normally required for English-taught programs. Confirm the minimum score.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science, Informatics or a very close field."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Get your degree legalised or apostilled early — Spain usually asks for it.",
+      "4. Apply on the university's own portal before its deadline.",
+      "5. If admitted, enrol and apply for the student visa."
+    ],
+    "warnings": [
+      "Tuition depends on the region, not the university ranking. Check the per-credit rate before you apply.",
+      "Spain usually wants a legalised or apostilled degree — start that early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.uc3m.es",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "ee-tartu-msc-computer-science",
+    "university": "University of Tartu",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Tartu",
+    "state": "Tartu County",
+    "country": "Estonia",
+    "country_code": "EE",
+    "country_slug": "estonia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "An English-taught CS Master's costs roughly €3,000–€6,000 per year for non-EU students. Checked on 21 Sep 2026: the University of Tartu stopped giving tuition waivers to newly admitted non-EU students from 2026/27, and now offers only partial reductions (25%, 50% or 100% for one semester at a time) on some programmes."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Checked on 21 Sep 2026: the non-EU deadline is usually 1 April, with 1 May for a short list of other countries. Confirm your own deadline on DreamApply."
+      }
+    ],
+    "application": {
+      "platform": "national-portal",
+      "portal_name": "DreamApply (Study in Estonia)",
+      "portal_url": "https://estonia.dreamapply.com",
+      "vpd_required": null,
+      "fee_note": "Apply through DreamApply. Confirm the application fee there — invoices for non-EU applicants are issued through the same portal.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score on the programme page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programmes check your maths and programming credits."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Create a DreamApply account and pick your programmes.",
+      "3. Upload your documents and pay the application fee.",
+      "4. Submit before the non-EU deadline (usually 1 April).",
+      "5. Sit any interview or test the programme asks for, then wait for the result."
+    ],
+    "warnings": [
+      "Tartu no longer waives tuition for newly admitted non-EU students — budget for the full fee.",
+      "The non-EU deadline (usually 1 April) is earlier than the EU one.",
+      "Dates change every year."
+    ],
+    "program_url": "https://ut.ee/en/curriculum/computer-science",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "ee-tartu-msc-software-engineering",
+    "university": "University of Tartu",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Software Engineering",
+    "degree": "MSc",
+    "city": "Tartu",
+    "state": "Tartu County",
+    "country": "Estonia",
+    "country_code": "EE",
+    "country_slug": "estonia",
+    "field_tags": [
+      "SE"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "An English-taught CS Master's costs roughly €3,000–€6,000 per year for non-EU students. Checked on 21 Sep 2026: the University of Tartu stopped giving tuition waivers to newly admitted non-EU students from 2026/27, and now offers only partial reductions (25%, 50% or 100% for one semester at a time) on some programmes."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Checked on 21 Sep 2026: the non-EU deadline is usually 1 April, with 1 May for a short list of other countries. Confirm your own deadline on DreamApply."
+      }
+    ],
+    "application": {
+      "platform": "national-portal",
+      "portal_name": "DreamApply (Study in Estonia)",
+      "portal_url": "https://estonia.dreamapply.com",
+      "vpd_required": null,
+      "fee_note": "Apply through DreamApply. Confirm the application fee there — invoices for non-EU applicants are issued through the same portal.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score on the programme page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programmes check your maths and programming credits."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Create a DreamApply account and pick your programmes.",
+      "3. Upload your documents and pay the application fee.",
+      "4. Submit before the non-EU deadline (usually 1 April).",
+      "5. Sit any interview or test the programme asks for, then wait for the result."
+    ],
+    "warnings": [
+      "Tartu no longer waives tuition for newly admitted non-EU students — budget for the full fee.",
+      "The non-EU deadline (usually 1 April) is earlier than the EU one.",
+      "Dates change every year."
+    ],
+    "program_url": "https://ut.ee",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "ee-taltech-msc-computer-science",
+    "university": "Tallinn University of Technology (TalTech)",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Tallinn",
+    "state": "Harju County",
+    "country": "Estonia",
+    "country_code": "EE",
+    "country_slug": "estonia",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "An English-taught CS Master's costs roughly €3,000–€6,000 per year for non-EU students. Checked on 21 Sep 2026: the University of Tartu stopped giving tuition waivers to newly admitted non-EU students from 2026/27, and now offers only partial reductions (25%, 50% or 100% for one semester at a time) on some programmes."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Checked on 21 Sep 2026: the non-EU deadline is usually 1 April, with 1 May for a short list of other countries. Confirm your own deadline on DreamApply."
+      }
+    ],
+    "application": {
+      "platform": "national-portal",
+      "portal_name": "DreamApply (Study in Estonia)",
+      "portal_url": "https://estonia.dreamapply.com",
+      "vpd_required": null,
+      "fee_note": "Apply through DreamApply. Confirm the application fee there — invoices for non-EU applicants are issued through the same portal.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score on the programme page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programmes check your maths and programming credits."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Create a DreamApply account and pick your programmes.",
+      "3. Upload your documents and pay the application fee.",
+      "4. Submit before the non-EU deadline (usually 1 April).",
+      "5. Sit any interview or test the programme asks for, then wait for the result."
+    ],
+    "warnings": [
+      "Tartu no longer waives tuition for newly admitted non-EU students — budget for the full fee.",
+      "The non-EU deadline (usually 1 April) is earlier than the EU one.",
+      "Dates change every year."
+    ],
+    "program_url": "https://taltech.ee/en",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "ee-taltech-msc-cybersecurity",
+    "university": "Tallinn University of Technology (TalTech)",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Cybersecurity",
+    "degree": "MSc",
+    "city": "Tallinn",
+    "state": "Harju County",
+    "country": "Estonia",
+    "country_code": "EE",
+    "country_slug": "estonia",
+    "field_tags": [
+      "Cybersecurity"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "An English-taught CS Master's costs roughly €3,000–€6,000 per year for non-EU students. Checked on 21 Sep 2026: the University of Tartu stopped giving tuition waivers to newly admitted non-EU students from 2026/27, and now offers only partial reductions (25%, 50% or 100% for one semester at a time) on some programmes."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Checked on 21 Sep 2026: the non-EU deadline is usually 1 April, with 1 May for a short list of other countries. Confirm your own deadline on DreamApply."
+      }
+    ],
+    "application": {
+      "platform": "national-portal",
+      "portal_name": "DreamApply (Study in Estonia)",
+      "portal_url": "https://estonia.dreamapply.com",
+      "vpd_required": null,
+      "fee_note": "Apply through DreamApply. Confirm the application fee there — invoices for non-EU applicants are issued through the same portal.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score on the programme page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some programmes check your maths and programming credits."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Create a DreamApply account and pick your programmes.",
+      "3. Upload your documents and pay the application fee.",
+      "4. Submit before the non-EU deadline (usually 1 April).",
+      "5. Sit any interview or test the programme asks for, then wait for the result."
+    ],
+    "warnings": [
+      "Tartu no longer waives tuition for newly admitted non-EU students — budget for the full fee.",
+      "The non-EU deadline (usually 1 April) is earlier than the EU one.",
+      "Dates change every year."
+    ],
+    "program_url": "https://taltech.ee/en",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "ie-tcd-msc-computer-science-intelligent-systems",
+    "university": "Trinity College Dublin",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science (Intelligent Systems)",
+    "degree": "MSc",
+    "city": "Dublin",
+    "state": "Leinster",
+    "country": "Ireland",
+    "country_code": "IE",
+    "country_slug": "ireland",
+    "field_tags": [
+      "CS",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition runs roughly €18,000–€37,000 per year. Checked on 21 Sep 2026: Trinity College Dublin lists €21,640–€37,300 for non-EU taught Master’s. A €2,000–€5,000 deposit is normal once you accept an offer."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "June"
+        },
+        "note": "Autumn intake. Checked on 21 Sep 2026: Trinity opens applications for September 2027 on 1 November 2026, with most Master’s closing 30 June 2027. Other universities run similar windows — confirm each one."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Most Irish universities charge a non-refundable application fee. Trinity lists €55 per course. Confirm on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score — Irish universities often ask for IELTS 6.5 with no band below 6.0.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some courses have a separate conversion route for other backgrounds."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV, references).",
+      "3. Apply on the university's own postgraduate portal and pay the application fee.",
+      "4. If you get an offer, accept within the deadline and pay the deposit.",
+      "5. Show the full tuition plus about €10,000 living costs for the student visa."
+    ],
+    "warnings": [
+      "This is the most expensive country on this list — check you can fund the full fee before applying.",
+      "The visa asks you to show about €10,000 for living costs on top of tuition.",
+      "Offers usually need a €2,000–€5,000 non-refundable deposit within a few weeks.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.tcd.ie/scss/courses/postgraduate/computer-science/",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "ie-ucd-msc-computer-science",
+    "university": "University College Dublin",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Dublin",
+    "state": "Leinster",
+    "country": "Ireland",
+    "country_code": "IE",
+    "country_slug": "ireland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition runs roughly €18,000–€37,000 per year. Checked on 21 Sep 2026: Trinity College Dublin lists €21,640–€37,300 for non-EU taught Master’s. A €2,000–€5,000 deposit is normal once you accept an offer."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "June"
+        },
+        "note": "Autumn intake. Checked on 21 Sep 2026: Trinity opens applications for September 2027 on 1 November 2026, with most Master’s closing 30 June 2027. Other universities run similar windows — confirm each one."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Most Irish universities charge a non-refundable application fee. Trinity lists €55 per course. Confirm on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score — Irish universities often ask for IELTS 6.5 with no band below 6.0.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some courses have a separate conversion route for other backgrounds."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV, references).",
+      "3. Apply on the university's own postgraduate portal and pay the application fee.",
+      "4. If you get an offer, accept within the deadline and pay the deposit.",
+      "5. Show the full tuition plus about €10,000 living costs for the student visa."
+    ],
+    "warnings": [
+      "This is the most expensive country on this list — check you can fund the full fee before applying.",
+      "The visa asks you to show about €10,000 for living costs on top of tuition.",
+      "Offers usually need a €2,000–€5,000 non-refundable deposit within a few weeks.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.ucd.ie",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "ie-galway-msc-computer-science-data-analytics",
+    "university": "University of Galway",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science (Data Analytics)",
+    "degree": "MSc",
+    "city": "Galway",
+    "state": "Connacht",
+    "country": "Ireland",
+    "country_code": "IE",
+    "country_slug": "ireland",
+    "field_tags": [
+      "Data Science",
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition runs roughly €18,000–€37,000 per year. Checked on 21 Sep 2026: Trinity College Dublin lists €21,640–€37,300 for non-EU taught Master’s. A €2,000–€5,000 deposit is normal once you accept an offer."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "June"
+        },
+        "note": "Autumn intake. Checked on 21 Sep 2026: Trinity opens applications for September 2027 on 1 November 2026, with most Master’s closing 30 June 2027. Other universities run similar windows — confirm each one."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Most Irish universities charge a non-refundable application fee. Trinity lists €55 per course. Confirm on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score — Irish universities often ask for IELTS 6.5 with no band below 6.0.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some courses have a separate conversion route for other backgrounds."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV, references).",
+      "3. Apply on the university's own postgraduate portal and pay the application fee.",
+      "4. If you get an offer, accept within the deadline and pay the deposit.",
+      "5. Show the full tuition plus about €10,000 living costs for the student visa."
+    ],
+    "warnings": [
+      "This is the most expensive country on this list — check you can fund the full fee before applying.",
+      "The visa asks you to show about €10,000 for living costs on top of tuition.",
+      "Offers usually need a €2,000–€5,000 non-refundable deposit within a few weeks.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.universityofgalway.ie",
+    "last_verified": "2026-09-21",
+    "verified": false
+  },
+  {
+    "id": "ie-dcu-msc-computing",
+    "university": "Dublin City University",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computing",
+    "degree": "MSc",
+    "city": "Dublin",
+    "state": "Leinster",
+    "country": "Ireland",
+    "country_code": "IE",
+    "country_slug": "ireland",
+    "field_tags": [
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Non-EU tuition runs roughly €18,000–€37,000 per year. Checked on 21 Sep 2026: Trinity College Dublin lists €21,640–€37,300 for non-EU taught Master’s. A €2,000–€5,000 deposit is normal once you accept an offer."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "November",
+          "closes": "June"
+        },
+        "note": "Autumn intake. Checked on 21 Sep 2026: Trinity opens applications for September 2027 on 1 November 2026, with most Master’s closing 30 June 2027. Other universities run similar windows — confirm each one."
+      }
+    ],
+    "application": {
+      "platform": "direct",
+      "portal_name": null,
+      "portal_url": null,
+      "vpd_required": null,
+      "fee_note": "Most Irish universities charge a non-refundable application fee. Trinity lists €55 per course. Confirm on the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof (IELTS or TOEFL) is required. Confirm the minimum score — Irish universities often ask for IELTS 6.5 with no band below 6.0.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in Computer Science or a very close field. Some courses have a separate conversion route for other backgrounds."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV, references).",
+      "3. Apply on the university's own postgraduate portal and pay the application fee.",
+      "4. If you get an offer, accept within the deadline and pay the deposit.",
+      "5. Show the full tuition plus about €10,000 living costs for the student visa."
+    ],
+    "warnings": [
+      "This is the most expensive country on this list — check you can fund the full fee before applying.",
+      "The visa asks you to show about €10,000 for living costs on top of tuition.",
+      "Offers usually need a €2,000–€5,000 non-refundable deposit within a few weeks.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.dcu.ie",
+    "last_verified": "2026-09-21",
     "verified": false
   }
 ]
