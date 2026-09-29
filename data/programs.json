@@ -5401,6 +5401,1028 @@
     "verified": false
   },
   {
+    "id": "it-unimib-msc-data-science",
+    "university": "University of Milano-Bicocca",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science",
+    "degree": "MSc",
+    "city": "Milan",
+    "state": "Lombardy",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "Data Science",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "Checked on 29 Sep 2026: you need 30 ECTS already earned in statistics, computer science, maths or physics, and certified English at B2 or higher. Two years, 120 ECTS, taught in English."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "A mandatory internship is part of the degree."
+    ],
+    "program_url": "https://en.unimib.it/graduate/data-science",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-units-msc-data-science-ai",
+    "university": "University of Trieste",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science and Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Trieste",
+    "state": "Friuli-Venezia Giulia",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "Data Science",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in computer science, engineering, maths, physics or statistics. Checked on 29 Sep 2026: this is one of two English-taught masters that replaced the old Data Science and Scientific Computing degree in 2023."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Trieste also runs a second English course, Scientific and Data-Intensive Computing — compare both before you apply."
+    ],
+    "program_url": "https://apply.units.it/courses/course/31-m-data-science-and-artificial-intelligence",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-univr-msc-artificial-intelligence",
+    "university": "University of Verona",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Verona",
+    "state": "Veneto",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "AI",
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": "Checked on 29 Sep 2026: students who do not hold an Italian Bachelor must earn 3 CFU of Italian at A2 level as part of the degree. The teaching itself is in English.",
+      "aps_required": false,
+      "background_note": "You need a solid computing background — a Bachelor's in computer science, computer engineering, maths, physics, bioengineering, electronics or management engineering."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Students without an Italian Bachelor must also earn 3 CFU of Italian language (at least A2) during the degree."
+    ],
+    "program_url": "https://www.di.univr.it/?ent=cs&tcs=MA&lang=en",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unina-msc-data-science",
+    "university": "University of Naples Federico II",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Data Science",
+    "degree": "MSc",
+    "city": "Naples",
+    "state": "Campania",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "Data Science",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "Checked on 29 Sep 2026: certified English at B2 or higher, written and spoken, is required for admission.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "Checked on 29 Sep 2026: you need a Bachelor's in a scientific or economic subject with at least 30 CFU in maths, physics or statistics, of which at least 6 CFU must be computer science or IT."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Certified English at B2 or higher is a hard admission condition, not a recommendation."
+    ],
+    "program_url": "https://data-science.dieti.unina.it/",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unimore-msc-ai-engineering",
+    "university": "University of Modena and Reggio Emilia",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence Engineering",
+    "degree": "MSc",
+    "city": "Modena",
+    "state": "Emilia-Romagna",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "AI",
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "Aimed at graduates of computer or information technology engineering degrees. Two routes: Applications (machine learning, deep learning, computer vision) and Large Scale (multimedia, distributed intelligent systems, large-scale AI)."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Checked on 29 Sep 2026: there is a SEPARATE call for international students who need a visa — use that one, not the general call.",
+      "You need a Bachelor grade of at least 85/110, or the foreign equivalent."
+    ],
+    "program_url": "https://www.unimore.it/en/education/degree-programmes/artificial-intelligence-engineering",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-uniud-msc-ai-cybersecurity",
+    "university": "University of Udine",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence & Cybersecurity",
+    "degree": "MSc",
+    "city": "Udine",
+    "state": "Friuli-Venezia Giulia",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "AI",
+      "Cybersecurity"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in computer science or a related subject such as information engineering or maths."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Checked on 29 Sep 2026: only 45 places a year on this international course.",
+      "You need a Bachelor grade of at least 90/110, or at least three quarters of the maximum for a foreign degree."
+    ],
+    "program_url": "https://www.uniud.it/en/education/offer/courses/scientific-area/mathematics-computer-sciences-multimedia-physics/master-degree-courses-graduate-120-ects/artificial-intelligence-and-cybersecurity",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unisi-msc-ai-automation-engineering",
+    "university": "University of Siena",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Artificial Intelligence and Automation Engineering",
+    "degree": "MSc",
+    "city": "Siena",
+    "state": "Tuscany",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "AI",
+      "Robotics"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a Bachelor's in computer science, computer engineering, automation or a close field. Two years, taught entirely in English, covering AI, machine learning and high-performance processing of large data collections."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Siena also runs a Computer and Automation Engineering master in English — compare both."
+    ],
+    "program_url": "https://apply.unisi.it/courses/course/31-m-artificial-intelligence-and-automation-engineering",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unipv-msc-computer-engineering",
+    "university": "University of Pavia",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering",
+    "degree": "MSc",
+    "city": "Pavia",
+    "state": "Lombardy",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS",
+      "Embedded",
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "Checked on 29 Sep 2026: taught entirely in English, covering information technology, data science, embedded systems and automation."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://en.unipv.it/en/education/bachelors-and-masters-degree-programs/second-cycle-degree-course/computer-engineering",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unipa-msc-computer-science-ai",
+    "university": "University of Palermo",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science and Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Palermo",
+    "state": "Sicily",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS",
+      "AI",
+      "Data Science"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "Checked on 29 Sep 2026: English at B2 is required. Palermo has taught its computer science master's classes entirely in English since 2022/23."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Palermo also runs a Data, Algorithms and Machine Intelligence master in English — compare both."
+    ],
+    "program_url": "https://www.unipa.it/dipartimenti/matematicaeinformatica/cds/computerscienceandartificialintelligence2323/en/",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unict-msc-computer-science",
+    "university": "University of Catania",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science",
+    "degree": "MSc",
+    "city": "Catania",
+    "state": "Sicily",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS",
+      "AI",
+      "Cybersecurity"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "An LM-18 degree covering artificial intelligence, machine learning, cybersecurity, distributed and cloud systems, quantum computing and bioinformatics."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://web.dmi.unict.it/en/courses/lm-18/course-overview",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-uniroma2-msc-ict-internet-engineering",
+    "university": "University of Rome Tor Vergata",
+    "university_type": "public_university",
+    "program_name": "M.Sc. ICT and Internet Engineering",
+    "degree": "MSc",
+    "city": "Rome",
+    "state": "Lazio",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "Networks",
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "Checked on 29 Sep 2026: minimum IELTS 6.0, TOEFL iBT 65, or a CEFR B2 equivalent.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "You need a three-year first-level degree in engineering or the equivalent. The course is held entirely in English through the School of Engineering."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Checked on 29 Sep 2026: you must supply a CIMEA Statement of Comparability for a foreign degree — start that early, it takes weeks."
+    ],
+    "program_url": "https://web.uniroma2.it/en/contenuto/ict_and_internet_engineering-60574",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unica-msc-computer-engineering-cybersecurity-ai",
+    "university": "University of Cagliari",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Engineering, Cybersecurity and Artificial Intelligence",
+    "degree": "MSc",
+    "city": "Cagliari",
+    "state": "Sardinia",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS",
+      "Cybersecurity",
+      "AI"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "Checked on 29 Sep 2026: taught in English, B2 certification required. The course is listed in CyberHEAD, the EU cybersecurity agency's database of vetted degrees."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://unica.it/cyberai",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unisa-msc-computer-science-iot",
+    "university": "University of Salerno",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer Science (Internet of Things)",
+    "degree": "MSc",
+    "city": "Fisciano",
+    "state": "Campania",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS",
+      "Embedded",
+      "Networks"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "Checked on 29 Sep 2026: the Internet of Things specialisation is taught entirely in English. You need a Bachelor's in computer science or computer engineering with at least 45 ECTS in those subjects."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://corsi.unisa.it/informatica-magistrale/en/home",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-univpm-msc-computer-automation-engineering",
+    "university": "Università Politecnica delle Marche",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Computer and Automation Engineering",
+    "degree": "MSc",
+    "city": "Ancona",
+    "state": "Marche",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "CS",
+      "Robotics"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "An LM-32 degree. Checked on 29 Sep 2026: the university runs 11 courses entirely in English from 2025/26 onwards."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year."
+    ],
+    "program_url": "https://www.univpm.it",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
+    "id": "it-unipr-msc-communication-engineering",
+    "university": "University of Parma",
+    "university_type": "public_university",
+    "program_name": "M.Sc. Communication Engineering",
+    "degree": "MSc",
+    "city": "Parma",
+    "state": "Emilia-Romagna",
+    "country": "Italy",
+    "country_code": "IT",
+    "country_slug": "italy",
+    "field_tags": [
+      "Networks",
+      "CS"
+    ],
+    "language": "English",
+    "costs": {
+      "tuition_per_semester_eur": null,
+      "tuition_per_year_eur": null,
+      "semester_fee_eur": null,
+      "note": "Public tuition is about €1,000–€4,000 per year and drops sharply with the income-based ISEE calculation — low-income students can pay close to zero. Confirm with the university."
+    },
+    "intakes": [
+      {
+        "term": "autumn",
+        "application_open": null,
+        "application_deadline": null,
+        "dates_confirmed": false,
+        "typical_window": {
+          "opens": "January",
+          "closes": "April"
+        },
+        "note": "Autumn intake. Non-EU applicants living abroad apply early in the year and pre-enrol through Universitaly. Checked on 29 Sep 2026: the 2027/28 dates were not published yet."
+      }
+    ],
+    "application": {
+      "platform": "direct+national-step",
+      "portal_name": "Universitaly (pre-enrolment)",
+      "portal_url": "https://www.universitaly.it",
+      "vpd_required": null,
+      "fee_note": "Apply on the university portal; some charge a small fee. Pre-enrolment goes through Universitaly. Check the course page.",
+      "apply_url": null
+    },
+    "requirements": {
+      "ielts": "required",
+      "ielts_note": "English proof is required for this English-taught course. Confirm the accepted certificates and minimum score on the course page.",
+      "gre": "not_required",
+      "local_language_note": null,
+      "aps_required": false,
+      "background_note": "A two-year telecommunications degree delivered entirely in English. Closer to networks and communications than to pure computer science — check the module list fits what you want."
+    },
+    "application_steps": [
+      "1. Check you meet the Bachelor background and English rules.",
+      "2. Prepare your documents (transcripts, English proof, CV).",
+      "3. Apply on the university's own portal before its deadline.",
+      "4. Start CIMEA verification or the Declaration of Value early — it takes weeks.",
+      "5. Once admitted, pre-enrol on Universitaly, then book your visa appointment."
+    ],
+    "warnings": [
+      "Tuition depends on your income (ISEE). Low-income students can pay close to zero.",
+      "Degree verification (CIMEA / Declaration of Value) takes time — start early.",
+      "Dates change every year.",
+      "Checked on 29 Sep 2026: Parma was accepting applications to its English-taught masters for 2026/27 — look for the 2027/28 call."
+    ],
+    "program_url": "https://www.unipr.it/en/node/110602",
+    "last_verified": "2026-09-29",
+    "verified": false
+  },
+  {
     "id": "fr-paris-saclay-msc-artificial-intelligence",
     "university": "Université Paris-Saclay",
     "university_type": "public_university",

@@ -15,9 +15,15 @@ import { cn } from "@/lib/utils";
 export function ProgramCard({
   program: p,
   status,
+  siblingIndex,
+  siblingCount = 1,
 }: {
   program: Program;
   status: ProgramStatus;
+  /** 1-based position among this university's programs in the current results. */
+  siblingIndex?: number;
+  /** How many programs this university has in the current results. */
+  siblingCount?: number;
 }) {
   return (
     <Link
@@ -51,6 +57,11 @@ export function ProgramCard({
           <p className="text-sm text-muted-foreground">
             {p.degree} · {p.city}
           </p>
+          {siblingCount > 1 && siblingIndex !== undefined && (
+            <p className="font-mono text-[11px] tracking-[0.12em] text-muted-foreground uppercase">
+              Program {siblingIndex} of {siblingCount} at this university
+            </p>
+          )}
         </CardHeader>
 
         <CardContent className="flex flex-1 flex-col gap-3">

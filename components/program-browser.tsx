@@ -73,7 +73,25 @@ export function ProgramBrowser({
   const results = useMemo(() => {
     const filtered = filterPrograms(programs, criteria, today);
     const ordered = sortPrograms(filtered, criteria.sort, today);
-    return ordered.map((p) => ({ p, status: computeProgramStatus(p, today) }));
+
+    // A university can offer several different English-taught masters. The cards
+    // then look near-identical, so each one says which of the set it is.
+    const total = new Map<string, number>();
+    for (const p of ordered) {
+      total.set(p.university, (total.get(p.university) ?? 0) + 1);
+    }
+    const seen = new Map<string, number>();
+
+    return ordered.map((p) => {
+      const siblingIndex = (seen.get(p.university) ?? 0) + 1;
+      seen.set(p.university, siblingIndex);
+      return {
+        p,
+        status: computeProgramStatus(p, today),
+        siblingIndex,
+        siblingCount: total.get(p.university) ?? 1,
+      };
+    });
   }, [programs, criteria, today]);
 
   const activeCount = activeProgramFilterCount(criteria);
@@ -161,8 +179,14 @@ export function ProgramBrowser({
             </div>
           ) : (
             <div className="grid grid-cols-1 gap-5 md:grid-cols-2 xl:grid-cols-3">
-              {results.map(({ p, status }) => (
-                <ProgramCard key={p.id} program={p} status={status} />
+              {results.map(({ p, status, siblingIndex, siblingCount }) => (
+                <ProgramCard
+                  key={p.id}
+                  program={p}
+                  status={status}
+                  siblingIndex={siblingIndex}
+                  siblingCount={siblingCount}
+                />
               ))}
             </div>
           )}
